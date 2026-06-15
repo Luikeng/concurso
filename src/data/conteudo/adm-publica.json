@@ -1,0 +1,359 @@
+{
+  "materia": "Noções de Administração Pública",
+  "videos": [
+    {
+      "titulo": "Concurso TRT 15: Aula de Noções de Administração Pública",
+      "youtubeId": "ZNL9DCTwUVE",
+      "url": "https://www.youtube.com/watch?v=ZNL9DCTwUVE"
+    },
+    {
+      "titulo": "Orçamento Público - Leis Orçamentárias - PPA, LDO e LOA",
+      "youtubeId": "KlSEgX-rGCQ",
+      "url": "https://www.youtube.com/watch?v=KlSEgX-rGCQ"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Funções administrativas (planejar, organizar, dirigir, controlar)",
+      "resumo": "As funções administrativas, sistematizadas a partir de Fayol e atualizadas pela teoria neoclássica, formam o processo administrativo composto por planejar, organizar, dirigir e controlar (PODC). Planejar é definir objetivos e os meios para alcançá-los, estabelecendo planos estratégicos, táticos e operacionais. Organizar consiste em estruturar e alocar recursos, dividindo o trabalho e definindo autoridade e responsabilidade. Dirigir significa coordenar e liderar pessoas, envolvendo motivação, comunicação e liderança. Controlar é monitorar o desempenho e corrigir desvios em relação ao que foi planejado. As funções são interdependentes, cíclicas e formam um processo contínuo, e não etapas isoladas.",
+      "pontosChave": [
+        "PODC: Planejar, Organizar, Dirigir e Controlar formam o processo administrativo neoclássico",
+        "Planejar é a primeira função e antecede as demais, definindo objetivos e meios",
+        "Dirigir abrange liderança, motivação e comunicação, lidando diretamente com pessoas",
+        "Controlar fecha o ciclo comparando o realizado com o planejado e retroalimenta o processo",
+        "As funções são interdependentes, dinâmicas e cíclicas, não lineares estanques"
+      ],
+      "pegadinhas": [
+        "Trocar a ordem ou os elementos: o modelo de Fayol original era prever, organizar, comandar, coordenar e controlar (POCCC); o neoclássico atual é PODC",
+        "Confundir 'dirigir' com 'controlar' - dirigir é conduzir pessoas; controlar é medir resultados"
+      ],
+      "videoQuery": "funções administrativas PODC planejar organizar dirigir controlar concurso",
+      "flashcards": [
+        {
+          "frente": "Quais são as quatro funções do processo administrativo segundo a teoria neoclássica?",
+          "verso": "Planejar, Organizar, Dirigir e Controlar (PODC)."
+        },
+        {
+          "frente": "Qual função administrativa envolve liderança, motivação e comunicação com as pessoas?",
+          "verso": "A função de Dirigir (direção)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "No âmbito do processo administrativo segundo a abordagem neoclássica, a função responsável por monitorar o desempenho organizacional, compará-lo com os padrões previamente definidos e adotar medidas corretivas para eliminar desvios denomina-se",
+          "alternativas": [
+            "planejamento.",
+            "organização.",
+            "direção.",
+            "controle.",
+            "coordenação."
+          ],
+          "gabarito": 3,
+          "comentario": "O controle é a função que mede o desempenho, compara com os padrões (oriundos do planejamento) e corrige desvios, retroalimentando o processo. Planejamento define objetivos; organização aloca recursos e estrutura o trabalho; direção lida com a condução de pessoas; coordenação, no modelo neoclássico, está diluída na direção.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre as funções administrativas, assinale a alternativa correta.",
+          "alternativas": [
+            "O planejamento é executado apenas no nível operacional da organização.",
+            "A organização é a função que estabelece os objetivos a serem perseguidos pela instituição.",
+            "A direção está relacionada à condução das pessoas, abrangendo liderança, motivação e comunicação.",
+            "O controle precede o planejamento no ciclo do processo administrativo.",
+            "As funções administrativas são etapas estanques e independentes entre si."
+          ],
+          "gabarito": 2,
+          "comentario": "A direção (dirigir) atua sobre as pessoas, por meio de liderança, motivação e comunicação. O planejamento ocorre nos três níveis (estratégico, tático e operacional); quem define objetivos é o planejamento, não a organização; o planejamento precede o controle; e as funções são interdependentes e cíclicas, não estanques.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Gestão de pessoas no setor público",
+      "resumo": "A gestão de pessoas no setor público busca alinhar o desempenho dos servidores aos objetivos institucionais, observando os princípios da administração pública (art. 37 da CF/88), em especial o concurso público como regra de ingresso (art. 37, II). Diferentemente da iniciativa privada, está submetida ao regime jurídico-administrativo, com rigidez legal sobre admissão, remuneração e desligamento. A gestão por competências (conhecimentos, habilidades e atitudes - CHA) é o modelo de referência no serviço público federal, instituído pelo Decreto 5.707/2006 e atualizado pela Política Nacional de Desenvolvimento de Pessoas - PNDP (Decreto 9.991/2019). Inclui subsistemas como recrutamento e seleção, capacitação, avaliação de desempenho e gestão da remuneração, sempre limitados pela legalidade e pela disponibilidade orçamentária.",
+      "pontosChave": [
+        "Ingresso em cargo público efetivo depende de aprovação em concurso público (art. 37, II, CF/88)",
+        "A gestão por competências baseia-se no CHA: Conhecimentos, Habilidades e Atitudes",
+        "A PNDP (Decreto 9.991/2019) rege o desenvolvimento de pessoas na Administração Pública federal",
+        "Subsistemas: recrutamento, seleção, capacitação, avaliação de desempenho e remuneração",
+        "A gestão de pessoas pública é regida pelo princípio da legalidade e pelo regime estatutário"
+      ],
+      "pegadinhas": [
+        "Afirmar que a gestão de pessoas no setor público é idêntica à da iniciativa privada - ela é limitada pela legalidade e pelo orçamento",
+        "Inverter o CHA ou incluir elementos estranhos: competência é Conhecimento (saber), Habilidade (saber fazer) e Atitude (querer fazer)"
+      ],
+      "videoQuery": "gestão de pessoas setor público gestão por competências CHA concurso TRT",
+      "flashcards": [
+        {
+          "frente": "O que significa a sigla CHA na gestão por competências?",
+          "verso": "Conhecimentos (saber), Habilidades (saber fazer) e Atitudes (querer fazer)."
+        },
+        {
+          "frente": "Qual é a regra constitucional de ingresso em cargo ou emprego público efetivo?",
+          "verso": "Aprovação prévia em concurso público de provas ou de provas e títulos (art. 37, II, CF/88)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A gestão por competências, modelo de referência adotado na Administração Pública federal, fundamenta-se em um conjunto de atributos do indivíduo. Esses atributos são representados pela sigla CHA, que corresponde a",
+          "alternativas": [
+            "Cargo, Hierarquia e Autoridade.",
+            "Conhecimentos, Habilidades e Atitudes.",
+            "Capacitação, Hierarquia e Avaliação.",
+            "Competências, Hábitos e Aptidões.",
+            "Cultura, Habilidades e Aprendizagem."
+          ],
+          "gabarito": 1,
+          "comentario": "Competência é tradicionalmente definida pelo tripé CHA: Conhecimentos (saber), Habilidades (saber fazer) e Atitudes (querer fazer). As demais alternativas misturam conceitos que não compõem a definição de competência adotada pela PNDP.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Acerca da gestão de pessoas no setor público brasileiro, julgue a assertiva: a gestão de pessoas na Administração Pública distingue-se da praticada na iniciativa privada porque está submetida ao princípio da legalidade, de modo que admissão, remuneração e desligamento de servidores dependem de previsão legal e de disponibilidade orçamentária.",
+          "alternativas": [
+            "A assertiva está correta.",
+            "A assertiva está incorreta, pois não há submissão ao princípio da legalidade.",
+            "A assertiva está incorreta, pois o desligamento independe de previsão legal.",
+            "A assertiva está incorreta, pois a remuneração é definida livremente pelo gestor.",
+            "A assertiva está incorreta, pois a admissão dispensa disponibilidade orçamentária."
+          ],
+          "gabarito": 0,
+          "comentario": "A assertiva está correta. A gestão de pessoas pública submete-se ao regime jurídico-administrativo e ao princípio da legalidade (art. 37, caput, CF/88): admissão por concurso, remuneração fixada por lei e limites orçamentários (LRF) condicionam as decisões, diferentemente da autonomia da gestão privada.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Gestão por processos e qualidade",
+      "resumo": "A gestão por processos (BPM - Business Process Management) é uma abordagem que organiza a instituição em torno de seus processos de trabalho, conjuntos de atividades inter-relacionadas que transformam insumos (inputs) em produtos ou serviços (outputs) para um cliente ou cidadão. Diferencia-se da visão funcional/hierárquica tradicional por enfatizar o fluxo horizontal de valor e a melhoria contínua. A gestão da qualidade, inspirada em autores como Deming, utiliza o ciclo PDCA (Plan, Do, Check, Act) como ferramenta de melhoria contínua. No setor público, princípios como foco no cidadão, eficiência e melhoria contínua orientam programas de qualidade, e os processos costumam ser classificados em finalísticos (ligados à missão), de apoio (suporte) e gerenciais (de gestão).",
+      "pontosChave": [
+        "Processo é um conjunto de atividades que transforma insumos (inputs) em produtos/serviços (outputs)",
+        "A gestão por processos enfatiza o fluxo horizontal de valor, superando a visão funcional vertical",
+        "O ciclo PDCA (Plan, Do, Check, Act) é a ferramenta clássica de melhoria contínua da qualidade",
+        "Processos classificam-se em finalísticos, de apoio (suporte) e gerenciais",
+        "No setor público a qualidade tem foco no cidadão/usuário e na eficiência"
+      ],
+      "pegadinhas": [
+        "Confundir as etapas do PDCA: Plan (planejar), Do (executar), Check (verificar/checar) e Act (agir corretivamente) - não é 'Decide' nem 'Control'",
+        "Afirmar que a gestão por processos reforça a hierarquia vertical - ela privilegia a visão horizontal por processos"
+      ],
+      "videoQuery": "gestão por processos BPM ciclo PDCA qualidade setor público concurso",
+      "flashcards": [
+        {
+          "frente": "O que significa o ciclo PDCA?",
+          "verso": "Plan (planejar), Do (executar), Check (verificar) e Act (agir corretivamente) - ferramenta de melhoria contínua."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Ferramenta amplamente utilizada na gestão da qualidade, o ciclo PDCA é composto, em sua ordem correta, pelas etapas de",
+          "alternativas": [
+            "Planejar, Decidir, Conferir e Agir.",
+            "Prever, Dirigir, Controlar e Avaliar.",
+            "Planejar, Executar, Verificar e Agir corretivamente.",
+            "Preparar, Distribuir, Checar e Aperfeiçoar.",
+            "Projetar, Desenvolver, Comunicar e Acompanhar."
+          ],
+          "gabarito": 2,
+          "comentario": "O ciclo PDCA corresponde a Plan (planejar), Do (executar/fazer), Check (verificar/checar) e Act (agir corretivamente), promovendo a melhoria contínua. As demais alternativas distorcem o significado das siglas.",
+          "banca": "FGV",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Em relação à gestão por processos, é correto afirmar que",
+          "alternativas": [
+            "consiste em reforçar a estrutura vertical e a hierarquia rígida entre os departamentos.",
+            "concebe a organização como um conjunto de processos que transformam insumos em produtos ou serviços, com ênfase no fluxo horizontal de valor.",
+            "elimina a necessidade de indicadores de desempenho, pois os processos se autorregulam.",
+            "aplica-se exclusivamente a empresas privadas, sendo incompatível com o setor público.",
+            "tem como única finalidade a redução do quadro de pessoal da organização."
+          ],
+          "gabarito": 1,
+          "comentario": "A gestão por processos vê a organização como uma cadeia de processos que convertem insumos em produtos/serviços, priorizando o fluxo horizontal de valor para o cliente/cidadão. Ela não reforça a verticalidade, depende de indicadores, é aplicável ao setor público e não se resume a cortar pessoal.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Governança e gestão de riscos",
+      "resumo": "Governança no setor público é o conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade (Decreto 9.203/2017). Distingue-se da gestão: a governança direciona e monitora (avaliar, direcionar, monitorar), enquanto a gestão executa (planejar, executar, controlar). A gestão de riscos é um de seus pilares e consiste no processo de identificar, avaliar, tratar e monitorar eventos que possam afetar o alcance dos objetivos, podendo as respostas ao risco ser: aceitar, mitigar/reduzir, transferir/compartilhar ou evitar. Referências usuais são o COSO e a ISO 31000, que tratam os riscos sob ótica de eventos com efeitos positivos (oportunidades) ou negativos (ameaças).",
+      "pontosChave": [
+        "Governança pública: mecanismos de liderança, estratégia e controle (Decreto 9.203/2017)",
+        "Governança avalia, direciona e monitora; a gestão planeja, executa e controla",
+        "Gestão de riscos: identificar, avaliar, tratar e monitorar eventos que afetam objetivos",
+        "Respostas ao risco: aceitar, mitigar/reduzir, transferir/compartilhar e evitar",
+        "Referências de mercado: COSO e ISO 31000"
+      ],
+      "pegadinhas": [
+        "Confundir governança com gestão - governança DIRECIONA e MONITORA; gestão EXECUTA",
+        "Listar respostas ao risco incorretas: as quatro clássicas são aceitar, mitigar, transferir e evitar (não 'ignorar' ou 'eliminar todos os riscos')"
+      ],
+      "videoQuery": "governança pública gestão de riscos Decreto 9203 2017 COSO concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre governança e gestão no setor público?",
+          "verso": "A governança avalia, direciona e monitora; a gestão planeja, executa e controla as ações."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o entendimento consagrado sobre governança no setor público (Decreto nº 9.203/2017), governança e gestão diferenciam-se na medida em que",
+          "alternativas": [
+            "a governança e a gestão são sinônimos e exercem exatamente as mesmas funções.",
+            "à governança cabe avaliar, direcionar e monitorar, enquanto à gestão cabe planejar, executar e controlar as ações.",
+            "a gestão direciona e monitora a organização, ao passo que a governança executa as tarefas operacionais.",
+            "a governança é responsável exclusivamente pela execução orçamentária diária.",
+            "a gestão estabelece a estratégia de longo prazo e a governança apenas a executa."
+          ],
+          "gabarito": 1,
+          "comentario": "Conforme o Decreto 9.203/2017 e o referencial do TCU, a governança avalia, direciona e monitora a atuação da gestão; a gestão, por sua vez, planeja, executa e controla. As demais alternativas invertem ou confundem os papéis.",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "No processo de gestão de riscos, ao decidir contratar um seguro ou terceirizar uma atividade para repassar a outra parte o ônus de um eventual evento adverso, a organização está adotando a resposta ao risco denominada",
+          "alternativas": [
+            "aceitar.",
+            "evitar.",
+            "mitigar.",
+            "transferir (compartilhar).",
+            "ignorar."
+          ],
+          "gabarito": 3,
+          "comentario": "Transferir (ou compartilhar) o risco significa repassar a outra parte parte ou a totalidade de suas consequências, como ocorre na contratação de seguros ou na terceirização. Aceitar é conviver com o risco; evitar é descontinuar a atividade; mitigar é reduzir probabilidade/impacto; 'ignorar' não é resposta válida de gestão de riscos.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Orçamento público (PPA, LDO, LOA)",
+      "resumo": "O sistema de planejamento e orçamento brasileiro é integrado por três leis de iniciativa do Poder Executivo, previstas no art. 165 da CF/88. O Plano Plurianual (PPA) estabelece, de forma regionalizada, diretrizes, objetivos e metas da administração para as despesas de capital e programas de duração continuada, com vigência de quatro anos (do segundo ano de um mandato ao primeiro do mandato seguinte). A Lei de Diretrizes Orçamentárias (LDO) é anual e funciona como elo entre o PPA e a LOA: estabelece metas e prioridades, orienta a elaboração da LOA, dispõe sobre alterações na legislação tributária e, por força da LRF, inclui anexos de metas e riscos fiscais. A Lei Orçamentária Anual (LOA) estima as receitas e fixa as despesas para um exercício, compreendendo os orçamentos fiscal, de investimento das estatais e da seguridade social. Tais leis são autorizativas e seguem os princípios orçamentários (unidade, universalidade, anualidade etc.).",
+      "pontosChave": [
+        "Base constitucional: art. 165 da CF/88 - PPA, LDO e LOA, de iniciativa do Executivo",
+        "PPA tem vigência de 4 anos (2º ano de um mandato ao 1º do mandato seguinte)",
+        "LDO faz a ponte entre o PPA e a LOA e traz Anexos de Metas e Riscos Fiscais (LRF)",
+        "LOA estima receitas e fixa despesas, com os orçamentos fiscal, de investimento e da seguridade social",
+        "O orçamento brasileiro é autorizativo (autoriza, mas não obriga, a despesa)"
+      ],
+      "pegadinhas": [
+        "Dizer que o PPA fixa receitas e despesas - quem estima receita e fixa despesa é a LOA; o PPA traz diretrizes, objetivos e metas",
+        "Afirmar que a LDO tem vigência plurianual - LDO e LOA são anuais; apenas o PPA é de quatro anos"
+      ],
+      "videoQuery": "orçamento público PPA LDO LOA art 165 CF concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Qual a vigência do PPA e em que período ele abrange?",
+          "verso": "Quatro anos - do segundo ano de um mandato ao primeiro ano do mandato seguinte."
+        },
+        {
+          "frente": "Qual lei orçamentária estima as receitas e fixa as despesas de cada exercício?",
+          "verso": "A Lei Orçamentária Anual (LOA)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do art. 165 da Constituição Federal, a lei orçamentária responsável por estabelecer, de forma regionalizada, as diretrizes, objetivos e metas da Administração Pública para as despesas de capital e para os programas de duração continuada é a",
+          "alternativas": [
+            "Lei Orçamentária Anual (LOA).",
+            "Lei de Diretrizes Orçamentárias (LDO).",
+            "Lei de Responsabilidade Fiscal (LRF).",
+            "Plano Plurianual (PPA).",
+            "Lei do Plano de Metas Fiscais."
+          ],
+          "gabarito": 3,
+          "comentario": "O PPA (art. 165, §1º, CF/88) estabelece de forma regionalizada as diretrizes, objetivos e metas para as despesas de capital e programas de duração continuada, com vigência de quatro anos. A LDO trata de metas e prioridades anuais; a LOA estima receitas e fixa despesas; a LRF é lei complementar de finanças públicas.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre a Lei de Diretrizes Orçamentárias (LDO), assinale a alternativa correta.",
+          "alternativas": [
+            "Tem vigência de quatro anos, acompanhando o mandato do chefe do Executivo.",
+            "É a lei que estima as receitas e fixa as despesas do exercício financeiro.",
+            "Compreende as metas e prioridades da Administração, orienta a elaboração da LOA e dispõe sobre alterações na legislação tributária.",
+            "Substitui o Plano Plurianual nos anos em que este não é elaborado.",
+            "É de iniciativa privativa do Poder Legislativo."
+          ],
+          "gabarito": 2,
+          "comentario": "A LDO (art. 165, §2º, CF/88) compreende as metas e prioridades, orienta a elaboração da LOA, dispõe sobre alterações na legislação tributária e, pela LRF, traz os Anexos de Metas e de Riscos Fiscais. Ela é anual (não de quatro anos), não estima receitas/fixa despesas (isso é da LOA), não substitui o PPA e é de iniciativa do Executivo.",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "A Lei Orçamentária Anual (LOA), nos termos do art. 165, §5º, da CF/88, compreenderá os seguintes orçamentos:",
+          "alternativas": [
+            "fiscal, de capital e de custeio.",
+            "fiscal, de investimento das empresas estatais e da seguridade social.",
+            "corrente, de capital e de reserva de contingência.",
+            "da União, dos Estados e dos Municípios.",
+            "primário, nominal e de resultado fiscal."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 165, §5º, da CF/88 prevê que a LOA compreenderá o orçamento fiscal, o orçamento de investimento das empresas em que o poder público detenha a maioria do capital votante e o orçamento da seguridade social. As demais alternativas não correspondem à divisão constitucional da LOA.",
+          "banca": "CESPE",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Planejamento estratégico",
+      "resumo": "O planejamento estratégico é o processo gerencial de longo prazo que define a direção da organização, considerando a análise do ambiente interno e externo. Tem como ponto de partida a definição da identidade institucional: missão (razão de existir), visão (estado futuro desejado) e valores (princípios que orientam a conduta). Uma das ferramentas mais usadas é a análise SWOT (FOFA), que cruza forças e fraquezas (ambiente interno, controláveis) com oportunidades e ameaças (ambiente externo, não controláveis). O Balanced Scorecard (BSC) traduz a estratégia em objetivos e indicadores sob quatro perspectivas (financeira, clientes, processos internos, aprendizado e crescimento), adaptadas no setor público para colocar a sociedade/cidadão no topo. O planejamento estratégico (nível institucional, longo prazo) desdobra-se em planejamento tático (intermediário, médio prazo) e operacional (curto prazo).",
+      "pontosChave": [
+        "Identidade organizacional: missão (razão de existir), visão (futuro desejado) e valores",
+        "Análise SWOT/FOFA: forças e fraquezas (interno) x oportunidades e ameaças (externo)",
+        "Forças e fraquezas são controláveis (internas); oportunidades e ameaças não controláveis (externas)",
+        "BSC traduz a estratégia em quatro perspectivas: financeira, clientes, processos internos e aprendizado/crescimento",
+        "Níveis de planejamento: estratégico (longo prazo), tático (médio) e operacional (curto)"
+      ],
+      "pegadinhas": [
+        "Inverter os elementos da SWOT: forças/fraquezas são INTERNAS; oportunidades/ameaças são EXTERNAS",
+        "Confundir missão com visão - missão é a razão de existir (presente); visão é o estado futuro desejado"
+      ],
+      "videoQuery": "planejamento estratégico SWOT FOFA BSC missão visão valores concurso",
+      "flashcards": [
+        {
+          "frente": "Na análise SWOT, quais elementos pertencem ao ambiente interno e quais ao externo?",
+          "verso": "Interno (controlável): forças e fraquezas. Externo (não controlável): oportunidades e ameaças."
+        },
+        {
+          "frente": "Qual a diferença entre missão e visão organizacional?",
+          "verso": "Missão é a razão de existir da organização (presente); visão é o estado futuro desejado a ser alcançado."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Na análise SWOT (ou FOFA), ferramenta de diagnóstico do planejamento estratégico, as forças e as fraquezas referem-se a fatores",
+          "alternativas": [
+            "do ambiente externo, sobre os quais a organização não tem controle.",
+            "do ambiente interno, sobre os quais a organização tem controle.",
+            "exclusivamente financeiros e de longo prazo.",
+            "relativos apenas a concorrentes e fornecedores.",
+            "ligados unicamente à legislação aplicável à organização."
+          ],
+          "gabarito": 1,
+          "comentario": "Na matriz SWOT, forças (strengths) e fraquezas (weaknesses) são fatores do ambiente interno, controláveis pela organização. Já oportunidades e ameaças pertencem ao ambiente externo, não controláveis. As demais alternativas restringem ou deslocam indevidamente o conceito.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Acerca dos elementos da identidade organizacional utilizados no planejamento estratégico, é correto afirmar que",
+          "alternativas": [
+            "a missão representa o estado futuro que a organização deseja alcançar.",
+            "a visão corresponde à razão de existir atual da organização.",
+            "os valores são metas quantitativas de curto prazo a serem atingidas no exercício.",
+            "a missão expressa a razão de existir da organização e a visão indica o futuro desejado.",
+            "missão, visão e valores são sinônimos e podem ser usados de forma intercambiável."
+          ],
+          "gabarito": 3,
+          "comentario": "A missão expressa a razão de ser da organização no presente (o que faz, para quem e para quê) e a visão aponta o estado futuro desejado. Os valores são princípios que orientam a conduta, e não metas quantitativas. As alternativas A e B invertem missão e visão; a E é incorreta porque os conceitos são distintos.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

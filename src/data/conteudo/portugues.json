@@ -1,0 +1,456 @@
+{
+  "materia": "Língua Portuguesa",
+  "videos": [
+    {
+      "titulo": "Aula de Português | Concurso do TRT | Banca FCC + Questões | Profª Flávia Rita",
+      "youtubeId": "9DZYaWUuWIE",
+      "url": "https://www.youtube.com/watch?v=9DZYaWUuWIE"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Compreensão e interpretação de textos",
+      "resumo": "Compreender um texto é extrair o que está literalmente escrito (informações explícitas); interpretar é inferir o que está implícito a partir das pistas textuais, sem extrapolar para conhecimentos externos não autorizados pelo texto. A banca FCC costuma cobrar reescritura de trechos com manutenção do sentido e identificação da ideia central, das relações de causa, consequência e oposição. É fundamental distinguir tese, argumento, exemplo e conclusão, bem como reconhecer o tom (irônico, crítico, neutro) e a finalidade comunicativa. Inferência válida é aquela amparada no texto, e não opinião do candidato. A leitura deve respeitar o contexto do parágrafo e do texto como um todo.",
+      "pontosChave": [
+        "Compreensão lida com o explícito; interpretação, com o implícito (inferências autorizadas pelo texto)",
+        "A ideia central é a tese que organiza os argumentos do texto",
+        "Reescritura só é válida se preservar sentido, correção gramatical e relações lógicas",
+        "Não se deve extrapolar o texto com conhecimentos prévios ou opiniões pessoais",
+        "Atenção às relações lógico-discursivas: causa, consequência, condição, oposição e finalidade"
+      ],
+      "pegadinhas": [
+        "Marcar uma alternativa verdadeira no mundo real, mas que não está apoiada no texto",
+        "Confundir o ponto de vista do autor com o de uma voz citada no texto (discurso reportado)"
+      ],
+      "videoQuery": "interpretação de texto FCC concurso TRT compreensão",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre compreensão e interpretação de texto?",
+          "verso": "Compreensão é captar o que está explícito no texto; interpretação é inferir o implícito a partir das pistas textuais, sem extrapolar para informações externas."
+        },
+        {
+          "frente": "Quando uma inferência é considerada válida em prova?",
+          "verso": "Quando está ancorada em elementos do próprio texto, e não em opinião pessoal ou conhecimento de mundo não autorizado pelo enunciado."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre compreensão e interpretação de textos, considere a afirmação: \"A interpretação consiste em deduzir informações implícitas com base nas pistas oferecidas pelo próprio texto\". Assinale a alternativa correta.",
+          "alternativas": [
+            "A afirmação está correta, pois interpretar é inferir sentidos implícitos a partir do texto, sem extrapolá-lo indevidamente.",
+            "A afirmação está incorreta, pois interpretação e compreensão são termos idênticos sem qualquer distinção técnica.",
+            "A afirmação está incorreta, pois a interpretação deve sempre incorporar a opinião pessoal do leitor para ser completa.",
+            "A afirmação está incorreta, pois interpretar é apenas localizar informações explícitas no texto.",
+            "A afirmação está incorreta, pois inferências nunca são admitidas na leitura de provas de concurso."
+          ],
+          "gabarito": 0,
+          "comentario": "Interpretar é exatamente inferir o implícito com base em pistas textuais; por isso a letra A está correta. A letra B erra ao igualar os termos; a C, ao exigir opinião pessoal; a D confunde interpretação com mera localização (compreensão literal); e a E nega o que é a própria essência da interpretação.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Em uma questão de reescritura, a banca pede a substituição de um trecho \"por causa das fortes chuvas, a estrada foi interditada\" por outro que mantenha o sentido original. Qual reescritura preserva a relação de causa e a correção?",
+          "alternativas": [
+            "Embora houvesse fortes chuvas, a estrada foi interditada.",
+            "Visto que houve fortes chuvas, a estrada foi interditada.",
+            "A estrada foi interditada, mas houve fortes chuvas.",
+            "Caso houvesse fortes chuvas, a estrada seria interditada.",
+            "A estrada foi interditada a fim de que houvesse fortes chuvas."
+          ],
+          "gabarito": 1,
+          "comentario": "O trecho original expressa causa. \"Visto que\" é conjunção causal e mantém o sentido, logo a letra B está correta. \"Embora\" (A) e \"mas\" (C) indicam concessão/oposição; \"caso\" (D) indica condição hipotética; e \"a fim de que\" (E) indica finalidade, todas alterando a relação lógica original.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Ortografia e acentuação",
+      "resumo": "A ortografia trata da grafia correta das palavras conforme o Acordo Ortográfico vigente, que aboliu o trema (salvo nomes próprios estrangeiros) e alterou regras de acentuação. Acentuam-se todas as oxítonas terminadas em a(s), e(s), o(s), em e ens; as paroxítonas que NÃO terminam nessas vogais; e todas as proparoxítonas, sem exceção. Após o Acordo, não se acentuam os ditongos abertos \"ei\" e \"oi\" das paroxítonas (ideia, heroico) nem o hiato \"i/u\" precedido de ditongo em paroxítonas (feiura). O acento diferencial caiu na maioria dos casos, mantendo-se em pôde (passado) x pode, pôr (verbo) x por, e facultativamente em fôrma x forma. O hiato \"i\" ou \"u\" tônicos, sozinhos ou com s na sílaba, recebem acento (saída, baú), salvo quando seguidos de nh (rainha).",
+      "pontosChave": [
+        "Proparoxítonas são SEMPRE acentuadas (lâmpada, médico, trânsito)",
+        "Ditongos abertos ei e oi não recebem mais acento em paroxítonas (ideia, jiboia)",
+        "Hiato i/u tônicos acentuam-se (saúde, baú), exceto se seguidos de nh ou se houver consoante diferente de s na sílaba",
+        "O trema foi abolido, exceto em nomes próprios estrangeiros e derivados",
+        "Acentos diferenciais mantidos: pôde/pode, pôr/por; fôrma/forma é facultativo"
+      ],
+      "pegadinhas": [
+        "Acentuar \"ideia\", \"plateia\", \"heroico\" como antes do Acordo (estão sem acento)",
+        "Esquecer que \"feiura\" e \"baiuca\" não têm acento por o hiato vir após ditongo"
+      ],
+      "videoQuery": "regras de acentuação gráfica novo acordo ortográfico concurso",
+      "flashcards": [
+        {
+          "frente": "Por que \"ideia\" e \"heroico\" não são mais acentuadas?",
+          "verso": "Porque o Acordo Ortográfico aboliu o acento dos ditongos abertos 'ei' e 'oi' nas palavras paroxítonas."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente acentuadas de acordo com a norma ortográfica vigente.",
+          "alternativas": [
+            "idéia, heróico, assembléia",
+            "ideia, heroico, assembleia",
+            "ideia, heróico, assembléia",
+            "idéia, heroico, assembleia",
+            "idéia, heróico, assembleia"
+          ],
+          "gabarito": 1,
+          "comentario": "Após o Acordo Ortográfico, os ditongos abertos 'ei' e 'oi' nas paroxítonas perderam o acento. Assim, a grafia correta é 'ideia', 'heroico' e 'assembleia' (letra B). Todas as demais mantêm acentos indevidos conforme a regra anterior.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Classes de palavras (morfologia)",
+      "resumo": "As dez classes gramaticais são: substantivo, artigo, adjetivo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição. As variáveis (flexionam em gênero, número e/ou grau) são substantivo, artigo, adjetivo, numeral, pronome e verbo; as invariáveis são advérbio, preposição, conjunção e interjeição. A mesma palavra pode pertencer a classes diferentes conforme o contexto (ex.: \"jantar\" pode ser verbo ou substantivo). Pronomes relativos (que, qual, cujo, onde) retomam termos e introduzem orações adjetivas; \"cujo\" indica posse e nunca vem seguido de artigo. Advérbios modificam verbos, adjetivos ou outros advérbios, exprimindo circunstâncias. Distinguir conjunção de preposição e reconhecer a função do \"que\" e do \"se\" são pontos clássicos da FCC.",
+      "pontosChave": [
+        "Classes variáveis: substantivo, artigo, adjetivo, numeral, pronome e verbo",
+        "Classes invariáveis: advérbio, preposição, conjunção e interjeição",
+        "A classe da palavra depende do contexto sintático, não da forma isolada",
+        "\"Cujo\" é pronome relativo que indica posse e não admite artigo após ele",
+        "O \"que\" pode ser pronome relativo, conjunção, partícula expletiva, advérbio ou interjeição"
+      ],
+      "pegadinhas": [
+        "Classificar \"meio\" como adjetivo quando é advérbio (invariável) em \"ela estava meio cansada\"",
+        "Usar \"cujo o\" — o artigo após cujo é sempre erro"
+      ],
+      "videoQuery": "classes de palavras morfologia concurso FCC pronomes advérbios",
+      "flashcards": [
+        {
+          "frente": "Quais são as classes de palavras variáveis?",
+          "verso": "Substantivo, artigo, adjetivo, numeral, pronome e verbo. As invariáveis são advérbio, preposição, conjunção e interjeição."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Na frase \"Ela ficou meio nervosa, mas resolveu meio problema antes de sair\", as palavras destacadas \"meio\" classificam-se, respectivamente, como:",
+          "alternativas": [
+            "advérbio e numeral",
+            "adjetivo e substantivo",
+            "advérbio e adjetivo",
+            "numeral e advérbio",
+            "adjetivo e advérbio"
+          ],
+          "gabarito": 0,
+          "comentario": "No primeiro caso, \"meio\" modifica o adjetivo \"nervosa\" (equivale a 'um tanto'), sendo advérbio e, por isso, invariável. No segundo, \"meio problema\" indica metade, funcionando como numeral. Logo, a resposta é advérbio e numeral (letra A).",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Sintaxe: termos da oração",
+      "resumo": "Os termos da oração dividem-se em essenciais (sujeito e predicado), integrantes (complementos verbais e nominais, e agente da passiva) e acessórios (adjunto adnominal, adjunto adverbial e aposto), além do vocativo. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou a oração ser sem sujeito (verbos impessoais). O predicado classifica-se em verbal (núcleo é verbo de ação), nominal (núcleo é predicativo do sujeito ligado por verbo de ligação) e verbo-nominal (dois núcleos). Objeto direto não é regido de preposição obrigatória; objeto indireto é regido de preposição. O complemento nominal completa nome (substantivo abstrato, adjetivo ou advérbio) e tem sentido passivo, enquanto o adjunto adnominal, que só se liga a substantivo, geralmente tem sentido ativo ou de posse.",
+      "pontosChave": [
+        "Termos essenciais: sujeito e predicado; integrantes: complementos e agente da passiva",
+        "Predicado nominal exige verbo de ligação + predicativo do sujeito",
+        "Objeto direto não exige preposição; objeto indireto é regido de preposição",
+        "Complemento nominal liga-se a nome e costuma ter sentido passivo (alvo da ação)",
+        "Adjunto adnominal só modifica substantivo e indica posse, qualidade ou ação (agente)"
+      ],
+      "pegadinhas": [
+        "Confundir complemento nominal com adjunto adnominal quando ambos vêm preposicionados após substantivo",
+        "Classificar sujeito indeterminado (com 'se' índice) como oração sem sujeito"
+      ],
+      "videoQuery": "termos da oração sintaxe sujeito predicado complemento nominal FCC",
+      "flashcards": [
+        {
+          "frente": "Como diferenciar objeto direto de objeto indireto?",
+          "verso": "O objeto direto completa o verbo sem preposição obrigatória; o objeto indireto é regido de preposição exigida pelo verbo."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Na oração \"O juiz considerou o réu culpado\", o termo \"culpado\" exerce a função sintática de:",
+          "alternativas": [
+            "objeto direto",
+            "complemento nominal",
+            "predicativo do objeto",
+            "adjunto adnominal",
+            "aposto"
+          ],
+          "gabarito": 2,
+          "comentario": "O verbo \"considerar\" é transitivo direto e, na construção, atribui um estado/qualidade ao objeto \"o réu\". \"Culpado\" caracteriza o objeto direto por meio do verbo, configurando predicativo do objeto e predicado verbo-nominal. Por isso, a letra C está correta.",
+          "banca": "FCC",
+          "dificuldade": 3
+        },
+        {
+          "enunciado": "Na oração \"Os processos foram analisados pelos servidores do setor\", o termo \"pelos servidores do setor\" exerce a função sintática de:",
+          "alternativas": [
+            "objeto indireto",
+            "complemento nominal",
+            "adjunto adverbial de modo",
+            "agente da passiva",
+            "sujeito"
+          ],
+          "gabarito": 3,
+          "comentario": "A oração está na voz passiva analítica (\"foram analisados\"). Quem pratica a ação verbal é \"os servidores do setor\", introduzido pela preposição 'por', o que caracteriza o agente da passiva (letra D). Na forma ativa, esse termo seria o sujeito, mas, na passiva, funciona como agente da passiva.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Concordância verbal e nominal",
+      "resumo": "Na concordância verbal, o verbo concorda com o sujeito em número e pessoa. Com sujeito composto anteposto, o verbo vai ao plural; posposto, pode concordar com o núcleo mais próximo. Expressões partitivas (a maioria de, parte de) admitem verbo no singular ou plural. O verbo \"haver\" no sentido de existir é impessoal e fica no singular, mas \"existir\" concorda com seu sujeito. Com a partícula apassivadora \"se\", o verbo concorda com o sujeito paciente (vendem-se casas); com índice de indeterminação do sujeito, fica no singular (precisa-se de funcionários). Na concordância nominal, adjetivos e artigos concordam com o substantivo em gênero e número; \"anexo\", \"obrigado\" e \"mesmo\" variam, mas \"menos\" e \"alerta\" são invariáveis. Expressões como \"é proibido\" só variam se o substantivo vier determinado por artigo.",
+      "pontosChave": [
+        "Verbo \"haver\" indicando existência é impessoal: fica sempre no singular",
+        "Com a partícula apassivadora 'se', o verbo concorda com o sujeito paciente",
+        "Sujeito composto anteposto leva o verbo ao plural",
+        "\"Anexo\", \"obrigado\" e \"meio\" (como adjetivo) concordam; \"menos\" é invariável",
+        "\"É proibido\", \"é necessário\" variam apenas se o substantivo estiver determinado"
+      ],
+      "pegadinhas": [
+        "Flexionar \"haver\" no plural (errado: 'haviam muitas pessoas'; certo: 'havia muitas pessoas')",
+        "Deixar \"menos\" no feminino (errado: 'menas gente'; menos é invariável)"
+      ],
+      "videoQuery": "concordância verbal e nominal verbo haver partícula apassivadora FCC",
+      "flashcards": [
+        {
+          "frente": "Por que se diz \"Havia muitas pessoas\" e não \"Haviam muitas pessoas\"?",
+          "verso": "Porque o verbo 'haver' no sentido de existir é impessoal, não tem sujeito e permanece sempre no singular."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão.",
+          "alternativas": [
+            "Houveram muitos problemas durante a sessão de julgamento.",
+            "Aluga-se salas comerciais no centro da cidade.",
+            "Fazem dois anos que ele tomou posse no cargo.",
+            "Existem vários servidores aptos a assumir a função.",
+            "Tratam-se de questões relevantes para o concurso."
+          ],
+          "gabarito": 3,
+          "comentario": "Em \"Existem vários servidores\", o verbo 'existir' concorda normalmente com o sujeito 'vários servidores' (plural), estando correta a letra D. Em A, 'haver' (existir) é impessoal: 'Houve'. Em B, 'se' é apassivador: 'Alugam-se salas'. Em C, 'fazer' indicando tempo é impessoal: 'Faz dois anos'. Em E, 'tratar-se de' é impessoal: 'Trata-se de questões'.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Regência verbal e nominal e crase",
+      "resumo": "A regência estuda a relação entre um termo regente (verbo ou nome) e seu complemento, frequentemente intermediada por preposição. Verbos como \"assistir\" (no sentido de ver) exigem a preposição \"a\"; \"aspirar\" (almejar) também; \"obedecer\" e \"visar\" (ter por objetivo) pedem \"a\". A crase é a fusão da preposição \"a\" com o artigo definido feminino \"a(s)\" ou com o \"a\" inicial dos pronomes demonstrativos \"aquele(s)\", \"aquela(s)\", \"aquilo\". Ocorre crase diante de palavra feminina que admita artigo e seja regida de preposição \"a\". Não há crase antes de palavra masculina, de verbo, de pronomes pessoais e da maioria dos pronomes de tratamento, nem entre palavras repetidas (cara a cara). É facultativa antes de nomes próprios femininos e de pronomes possessivos femininos.",
+      "pontosChave": [
+        "Crase = preposição 'a' + artigo 'a(s)' ou + 'a' inicial de aquele/aquela/aquilo",
+        "Não há crase antes de masculino, verbo, pronome pessoal e palavras repetidas",
+        "Verbo 'assistir' no sentido de ver/presenciar é transitivo indireto e exige 'a'",
+        "Crase facultativa antes de nome próprio feminino e de pronome possessivo feminino",
+        "Há crase em 'à medida que', 'à proporção que', 'às vezes', 'à vista', 'à noite'"
+      ],
+      "pegadinhas": [
+        "Usar crase antes de palavra masculina (errado: 'à pé'; certo: 'a pé')",
+        "Confundir 'à medida que' (proporção) com 'na medida em que' (causa); evitar 'na medida que'"
+      ],
+      "videoQuery": "crase regência verbal e nominal assistir aspirar concurso FCC",
+      "flashcards": [
+        {
+          "frente": "Quando NÃO ocorre crase?",
+          "verso": "Antes de palavra masculina, de verbo, de pronome pessoal, de pronomes de tratamento (em regra) e entre palavras repetidas (ex.: dia a dia)."
+        },
+        {
+          "frente": "Por que se diz \"Assisti ao jogo\" e não \"Assisti o jogo\"?",
+          "verso": "No sentido de ver/presenciar, 'assistir' é transitivo indireto e exige a preposição 'a': assisti ao jogo."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Assinale a alternativa em que o sinal indicativo de crase foi empregado corretamente.",
+          "alternativas": [
+            "O servidor compareceu à reunião marcada para hoje.",
+            "Ele começou à trabalhar muito cedo na repartição.",
+            "Entreguei o documento à ele pessoalmente.",
+            "Os colegas conversaram cara à cara sobre o problema.",
+            "Estou disposto à ajudar quem precisar."
+          ],
+          "gabarito": 0,
+          "comentario": "Em \"compareceu à reunião\", há preposição 'a' exigida pelo verbo e artigo 'a' diante de palavra feminina, logo a crase é obrigatória (letra A). Em B e E, não há crase antes de verbo. Em C, não há crase antes do pronome pessoal 'ele'. Em D, não há crase entre palavras repetidas ('cara a cara').",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Considerando a regência verbal segundo a norma-padrão, assinale a alternativa correta.",
+          "alternativas": [
+            "O candidato aspira o cargo de analista judiciário.",
+            "Os cidadãos obedecem as leis vigentes no país.",
+            "A nova política visa à redução das desigualdades.",
+            "Prefiro mais teatro do que cinema aos fins de semana.",
+            "Cheguei na repartição às oito horas da manhã."
+          ],
+          "gabarito": 2,
+          "comentario": "No sentido de 'ter por objetivo', 'visar' é transitivo indireto e rege a preposição 'a', tornando correta a letra C. Em A, 'aspirar' (almejar) exige 'a': aspira ao cargo. Em B, 'obedecer' rege 'a': obedecem às leis. Em D, 'preferir' não admite 'mais...do que': prefiro teatro a cinema. Em E, 'chegar' rege 'a': cheguei à repartição.",
+          "banca": "FGV",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Pontuação",
+      "resumo": "A pontuação organiza graficamente o texto e marca pausas, entonação e relações sintáticas. A vírgula NÃO separa termos essenciais e integrantes diretamente ligados (sujeito do verbo, verbo do complemento), mas é usada para isolar apostos, vocativos, adjuntos adverbiais deslocados, orações intercaladas e itens de enumeração. O ponto e vírgula separa orações coordenadas extensas ou já pontuadas internamente e itens de enumerações em incisos legais. Os dois-pontos introduzem enumerações, citações ou explicações. As orações subordinadas adjetivas explicativas vêm entre vírgulas; as restritivas, não. Travessões e parênteses isolam comentários ou explicações intercaladas. Um erro grave é separar com vírgula o sujeito de seu predicado.",
+      "pontosChave": [
+        "Não se separa o sujeito do verbo nem o verbo de seu complemento por vírgula",
+        "Vírgulas isolam aposto, vocativo, adjunto adverbial deslocado e orações intercaladas",
+        "Oração adjetiva explicativa vai entre vírgulas; a restritiva, não",
+        "Ponto e vírgula separa orações longas e itens de enumeração (incisos)",
+        "Dois-pontos introduzem enumeração, citação ou explicação"
+      ],
+      "pegadinhas": [
+        "Colocar vírgula entre sujeito e verbo (erro: 'O servidor diligente, entregou o relatório')",
+        "Tirar as vírgulas de uma adjetiva explicativa, transformando-a indevidamente em restritiva"
+      ],
+      "videoQuery": "pontuação vírgula concurso FCC oração adjetiva explicativa restritiva",
+      "flashcards": [
+        {
+          "frente": "Pode-se separar o sujeito do verbo por vírgula?",
+          "verso": "Não. É erro separar por vírgula o sujeito de seu predicado, salvo se houver termo intercalado isolado entre vírgulas."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Assinale a alternativa em que a pontuação está correta conforme a norma-padrão.",
+          "alternativas": [
+            "Os servidores, que se dedicam ao trabalho merecem reconhecimento.",
+            "O relatório final, foi entregue ao diretor na manhã de ontem.",
+            "Brasília, capital federal, sediará o evento de capacitação.",
+            "O candidato estudou muito, e foi aprovado no concurso, com louvor.",
+            "Ela disse que: viajaria assim que terminasse o expediente."
+          ],
+          "gabarito": 2,
+          "comentario": "Em C, \"capital federal\" é aposto explicativo corretamente isolado por vírgulas. Em A, falta a vírgula de fechamento da explicativa (ou trata-se de restritiva sem vírgula). Em B, separa-se indevidamente o sujeito 'O relatório final' do verbo. Em D, a vírgula antes de 'com louvor' isola sem necessidade um adjunto. Em E, os dois-pontos não cabem após 'que' introduzindo oração integrante.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Considerando o emprego da vírgula, assinale a alternativa em que ela isola corretamente um adjunto adverbial deslocado para o início do período.",
+          "alternativas": [
+            "Naquela manhã de inverno, os servidores chegaram mais cedo ao tribunal.",
+            "Os servidores chegaram, naquela manhã de inverno mais cedo ao tribunal.",
+            "Os servidores, chegaram mais cedo ao tribunal naquela manhã de inverno.",
+            "Naquela manhã de inverno os servidores chegaram, mais cedo ao tribunal.",
+            "Os servidores chegaram mais cedo, ao tribunal naquela manhã de inverno."
+          ],
+          "gabarito": 0,
+          "comentario": "Adjuntos adverbiais deslocados para o início do período, sobretudo os de certa extensão, devem ser isolados por vírgula. Em A, \"Naquela manhã de inverno\" está corretamente seguido de vírgula. Em B, a vírgula divide o próprio adjunto. Em C, separa-se sujeito de verbo. Em D e E, as vírgulas rompem ligações sintáticas obrigatórias.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Coesão e coerência textual",
+      "resumo": "A coesão é a articulação gramatical e lexical entre as partes do texto, garantida por conectivos, pronomes, advérbios, sinônimos e elipses que evitam repetições e estabelecem relações lógicas. A coerência é a unidade de sentido, a não contradição entre as ideias e a adequação ao contexto e ao conhecimento de mundo. Mecanismos coesivos incluem a referência (anáfora e catáfora), a substituição, a elipse e a conjunção. A escolha do conectivo altera a relação lógica: \"portanto\" indica conclusão; \"contudo\", oposição; \"porque\", causa; \"a fim de que\", finalidade. Um texto pode ser coeso e ainda assim incoerente se contiver contradições; por isso, coesão e coerência são fenômenos complementares, mas distintos.",
+      "pontosChave": [
+        "Coesão é a ligação formal entre partes do texto; coerência é a unidade de sentido",
+        "Referência anafórica retoma termo anterior; catafórica antecipa termo posterior",
+        "Conectivos definem a relação lógica (causa, conclusão, oposição, finalidade)",
+        "Elipse e substituição evitam repetições e garantem fluidez",
+        "Um texto pode ser coeso e incoerente; os dois conceitos não se confundem"
+      ],
+      "pegadinhas": [
+        "Trocar 'portanto' (conclusão) por 'porque' (causa) sem perceber a mudança de sentido",
+        "Confundir referência anafórica (retoma) com catafórica (antecipa)"
+      ],
+      "videoQuery": "coesão e coerência conectivos referência anafórica concurso FCC",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre coesão e coerência?",
+          "verso": "Coesão é a ligação formal/gramatical entre as partes do texto; coerência é a unidade lógica de sentido, sem contradições."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "No período \"O servidor cumpriu todas as metas; ______, foi promovido\", o conectivo que estabelece corretamente a relação de conclusão é:",
+          "alternativas": [
+            "porque",
+            "embora",
+            "portanto",
+            "à medida que",
+            "caso"
+          ],
+          "gabarito": 2,
+          "comentario": "A promoção é consequência/conclusão do cumprimento das metas, e o conectivo conclusivo adequado é \"portanto\" (letra C). \"Porque\" indica causa; \"embora\", concessão; \"à medida que\", proporção; e \"caso\", condição, todos incompatíveis com a relação pretendida.",
+          "banca": "FGV",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Semântica (sinônimos, antônimos, sentido)",
+      "resumo": "A semântica estuda o significado das palavras e das construções. Sinônimos são palavras de sentido próximo (mas raramente idêntico em todos os contextos); antônimos têm sentidos opostos. Homônimos têm igual som ou grafia e sentidos diferentes (homófonos: cela/sela; homógrafos: colher verbo/colher substantivo); parônimos são parecidos na forma, mas distintos no sentido (ratificar/retificar, descrição/discrição). Polissemia é a propriedade de uma mesma palavra ter vários sentidos relacionados conforme o contexto. A denotação é o sentido literal/dicionarizado; a conotação, o sentido figurado. Em provas, é essencial avaliar a substituição de palavras sem alterar o sentido do texto, considerando o contexto.",
+      "pontosChave": [
+        "Sinônimos têm sentido próximo; antônimos, sentido oposto",
+        "Parônimos são parecidos na forma e diferentes no sentido (ratificar x retificar)",
+        "Homônimos têm igual som/grafia e sentidos distintos (homófonos e homógrafos)",
+        "Polissemia: uma palavra com vários sentidos relacionados conforme o contexto",
+        "Denotação é sentido literal; conotação é sentido figurado"
+      ],
+      "pegadinhas": [
+        "Confundir 'ratificar' (confirmar) com 'retificar' (corrigir)",
+        "Trocar 'tráfego' (trânsito) por 'tráfico' (comércio ilícito)"
+      ],
+      "videoQuery": "semântica sinônimos antônimos parônimos homônimos concurso FCC",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre \"ratificar\" e \"retificar\"?",
+          "verso": "Ratificar significa confirmar/validar; retificar significa corrigir/emendar. São parônimos."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Assinale a alternativa em que a palavra destacada foi empregada com sentido adequado ao contexto.",
+          "alternativas": [
+            "O chefe ratificou o relatório, corrigindo todos os erros de cálculo.",
+            "A comissão retificou a decisão anterior, confirmando-a integralmente.",
+            "O documento descreve, com discrição, os procedimentos internos do setor.",
+            "O tráfico de veículos na avenida aumentou no horário de pico.",
+            "Ele agiu com muito tráfego ao tratar de assunto tão delicado."
+          ],
+          "gabarito": 2,
+          "comentario": "Em C, \"descreve\" (relatar) e \"discrição\" (reserva, prudência) estão corretos no contexto. Em A, quem corrige 'retifica', não 'ratifica'. Em B, confirmar é 'ratificar', não 'retificar'. Em D, o aumento de circulação de veículos é 'tráfego', não 'tráfico'. Em E, agir com reserva é 'discrição', não 'tráfego'.",
+          "banca": "FCC",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Redação oficial",
+      "resumo": "A redação oficial, regida pelo Manual de Redação da Presidência da República, deve observar impessoalidade, clareza, concisão, formalidade, padronização e uso da norma-padrão (linguagem formal). A impessoalidade impõe ausência de impressões individuais e foco no interesse público. O padrão ofício unificou ofício, aviso e memorando em um único tipo de documento. O fecho varia conforme a hierarquia: \"Respeitosamente\" para autoridades superiores e \"Atenciosamente\" para autoridades de mesma hierarquia ou inferiores. Os pronomes de tratamento exigem concordância verbal na 3ª pessoa, ainda que se refiram à 2ª pessoa do discurso. Vossa Excelência abrevia-se V. Exa. e é usado para altas autoridades; o vocativo de chefes de Poder é \"Excelentíssimo Senhor\".",
+      "pontosChave": [
+        "Atributos: impessoalidade, clareza, concisão, formalidade, padronização e norma-padrão",
+        "O padrão ofício unificou ofício, aviso e memorando em um só modelo",
+        "Fechos: 'Respeitosamente' (superior) e 'Atenciosamente' (igual ou inferior)",
+        "Pronomes de tratamento concordam com verbo na 3ª pessoa",
+        "A redação oficial busca o interesse público e evita rebuscamento e ambiguidade"
+      ],
+      "pegadinhas": [
+        "Usar verbo na 2ª pessoa com pronome de tratamento (errado: 'Vossa Excelência sabeis')",
+        "Inverter os fechos, empregando 'Respeitosamente' para autoridade de mesma hierarquia"
+      ],
+      "videoQuery": "redação oficial manual da presidência fechos pronomes de tratamento concurso",
+      "flashcards": [
+        {
+          "frente": "Quando se usam os fechos \"Respeitosamente\" e \"Atenciosamente\"?",
+          "verso": "\"Respeitosamente\" para autoridades superiores; \"Atenciosamente\" para autoridades de mesma hierarquia ou de hierarquia inferior."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o Manual de Redação da Presidência da República, assinale a alternativa correta sobre a redação oficial.",
+          "alternativas": [
+            "A redação oficial admite o uso de linguagem regional e de gírias para aproximar-se do leitor.",
+            "Os pronomes de tratamento exigem concordância verbal na segunda pessoa do discurso.",
+            "O fecho \"Respeitosamente\" é empregado para autoridades de hierarquia inferior.",
+            "A impessoalidade impõe que o texto seja redigido com foco no interesse público, sem impressões pessoais.",
+            "O padrão ofício mantém ofício, aviso e memorando como três documentos distintos e independentes."
+          ],
+          "gabarito": 3,
+          "comentario": "A impessoalidade é atributo essencial: o texto oficial trata de assuntos de interesse público, sem marcas individuais do redator (letra D). Em A, a redação oficial usa a norma-padrão, sem gírias. Em B, a concordância é na 3ª pessoa. Em C, 'Respeitosamente' é para superiores. Em E, o atual manual unificou esses documentos no padrão ofício.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

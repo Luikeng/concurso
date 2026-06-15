@@ -1,0 +1,450 @@
+{
+  "materia": "Direito do Trabalho",
+  "videos": [
+    {
+      "titulo": "Concurso TRT SC: aula de Direito do Trabalho",
+      "youtubeId": "lhXAHWH-OMU",
+      "url": "https://www.youtube.com/watch?v=lhXAHWH-OMU"
+    },
+    {
+      "titulo": "Concurso TRT 12 (SC): aula de Direito do Trabalho",
+      "youtubeId": "mKH8NNeUT4M",
+      "url": "https://www.youtube.com/watch?v=mKH8NNeUT4M"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Princípios e fontes do Direito do Trabalho",
+      "resumo": "O Direito do Trabalho rege-se por princípios próprios que buscam compensar a desigualdade material entre empregado e empregador. O principal é o princípio da proteção, que se desdobra em três regras: in dubio pro operario (interpretação mais favorável), aplicação da norma mais favorável e condição mais benéfica. Somam-se a ele os princípios da irrenunciabilidade, da continuidade da relação de emprego, da primazia da realidade (os fatos prevalecem sobre os documentos) e da inalterabilidade contratual lesiva. As fontes dividem-se em formais (heterônomas, como a CF/88, a CLT e leis, e autônomas, como convenções e acordos coletivos) e materiais (fatos sociais, econômicos e políticos). A EC 45/2004 ampliou a competência da Justiça do Trabalho.",
+      "pontosChave": [
+        "Princípio da proteção: in dubio pro operario, norma mais favorável e condição mais benéfica",
+        "Primazia da realidade: os fatos prevalecem sobre a forma e os documentos",
+        "Princípio da continuidade: presume-se que o contrato vigora por prazo indeterminado",
+        "Fontes heterônomas (CF, CLT, leis) e autônomas (convenções e acordos coletivos)",
+        "Irrenunciabilidade dos direitos trabalhistas como regra geral"
+      ],
+      "pegadinhas": [
+        "Confundir norma mais favorável (escolha entre normas distintas) com condição mais benéfica (situação já incorporada ao contrato)",
+        "Afirmar que a jurisprudência e a doutrina são fontes formais autônomas do Direito do Trabalho",
+        "Tratar a irrenunciabilidade como absoluta, ignorando hipóteses de transação e negociado sobre o legislado (Lei 13.467/2017)"
+      ],
+      "videoQuery": "fontes e princípios do direito do trabalho concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Em que se desdobra o princípio da proteção no Direito do Trabalho?",
+          "verso": "In dubio pro operario, aplicação da norma mais favorável e princípio da condição mais benéfica."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre os princípios do Direito do Trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "O princípio da primazia da realidade determina que prevalecem os documentos formais sobre a realidade dos fatos.",
+            "O princípio da proteção desdobra-se em in dubio pro operario, norma mais favorável e condição mais benéfica.",
+            "O princípio da continuidade presume que o contrato de trabalho é, em regra, por prazo determinado.",
+            "A irrenunciabilidade dos direitos trabalhistas é absoluta, vedando qualquer transação.",
+            "Convenções e acordos coletivos são fontes materiais do Direito do Trabalho."
+          ],
+          "gabarito": 1,
+          "comentario": "A alternativa B está correta: o princípio da proteção desdobra-se exatamente nessas três regras. A) erra ao inverter a primazia da realidade, em que os fatos prevalecem sobre a forma. C) erra pois a continuidade presume contrato por prazo indeterminado. D) a irrenunciabilidade não é absoluta, admitindo transação. E) convenções e acordos coletivos são fontes formais autônomas, não materiais.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Relação de emprego e contrato de trabalho",
+      "resumo": "A relação de emprego caracteriza-se pela presença simultânea de cinco requisitos extraídos dos arts. 2º e 3º da CLT: pessoa física (a prestação é sempre por pessoa natural), pessoalidade (o serviço é prestado intuitu personae, sem se fazer substituir), não eventualidade (habitualidade na prestação), onerosidade (intuito de receber contraprestação) e subordinação (jurídica, sujeição ao poder diretivo do empregador). Presentes esses elementos, há vínculo empregatício, ainda que sob outra roupagem contratual. O contrato de trabalho pode ser por prazo indeterminado (regra) ou determinado (exceção, máximo de 2 anos), além de modalidades como o contrato intermitente (art. 443, §3º, CLT). A Lei 13.467/2017 (reforma trabalhista) inovou ao regular o trabalho intermitente e o teletrabalho.",
+      "pontosChave": [
+        "Cinco requisitos: pessoa física, pessoalidade, não eventualidade, onerosidade e subordinação",
+        "A subordinação relevante é a jurídica, sujeição ao poder diretivo do empregador",
+        "Contrato por prazo determinado é exceção, limitado a 2 anos (art. 445 da CLT)",
+        "Empregador é a empresa que admite, assalaria e dirige a prestação (art. 2º da CLT)",
+        "A reforma trabalhista (Lei 13.467/2017) criou o trabalho intermitente"
+      ],
+      "pegadinhas": [
+        "Confundir relação de trabalho (gênero) com relação de emprego (espécie)",
+        "Achar que o contrato por prazo determinado pode ser livremente renovado sem limite de tempo",
+        "Esquecer que a ausência de um único requisito (ex.: pessoalidade) descaracteriza o vínculo de emprego"
+      ],
+      "videoQuery": "requisitos da relação de emprego CLT artigos 2 e 3 concurso",
+      "flashcards": [
+        {
+          "frente": "Quais são os cinco requisitos da relação de emprego?",
+          "verso": "Pessoa física, pessoalidade, não eventualidade, onerosidade e subordinação (arts. 2º e 3º da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Para a caracterização da relação de emprego nos termos dos arts. 2º e 3º da CLT, NÃO se exige:",
+          "alternativas": [
+            "Pessoalidade na prestação do serviço.",
+            "Subordinação jurídica ao empregador.",
+            "Onerosidade da prestação.",
+            "Exclusividade na prestação para um único tomador.",
+            "Não eventualidade (habitualidade)."
+          ],
+          "gabarito": 3,
+          "comentario": "A exclusividade NÃO é requisito da relação de emprego; o empregado pode prestar serviços a mais de um empregador. Os requisitos legais são pessoa física, pessoalidade, não eventualidade, onerosidade e subordinação. As demais alternativas indicam requisitos efetivamente exigidos.",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Acerca do contrato de trabalho por prazo determinado, assinale a alternativa correta:",
+          "alternativas": [
+            "Pode ter duração de até 5 anos, prorrogável indefinidamente.",
+            "É a regra geral no Direito do Trabalho brasileiro.",
+            "Não pode exceder, em regra, o prazo de 2 anos, conforme o art. 445 da CLT.",
+            "Admite uma única prorrogação por igual período, sem limite total de duração.",
+            "Independe de previsão das hipóteses autorizadoras na CLT."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a alternativa C: o art. 445 da CLT limita o contrato por prazo determinado a 2 anos. A) o prazo máximo é de 2 anos, não 5. B) a regra é o contrato por prazo indeterminado (princípio da continuidade). D) admite uma prorrogação, mas respeitado o teto de 2 anos (art. 451). E) o contrato a termo só é válido nas hipóteses do art. 443, §2º, da CLT.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Jornada de trabalho e intervalos",
+      "resumo": "A jornada normal de trabalho é de até 8 horas diárias e 44 horas semanais (art. 7º, XIII, da CF/88 e art. 58 da CLT). As horas extraordinárias são limitadas a 2 por dia e devem ser remuneradas com adicional mínimo de 50% (art. 7º, XVI, CF). É admitido o regime de compensação, inclusive o banco de horas, que pode ser pactuado por acordo individual escrito para compensação no período de até seis meses (art. 59, §5º, CLT). Quanto aos intervalos, a jornada superior a 6 horas exige intervalo intrajornada mínimo de 1 hora (máximo de 2); entre 4 e 6 horas, o intervalo é de 15 minutos. O intervalo interjornada mínimo é de 11 horas consecutivas (art. 66). A reforma trabalhista permitiu reduzir o intervalo intrajornada para 30 minutos por norma coletiva e tornou o descanso suprimido indenizável apenas quanto ao período suprimido, com adicional de 50%.",
+      "pontosChave": [
+        "Jornada normal: até 8 horas diárias e 44 semanais (CF, art. 7º, XIII)",
+        "Hora extra: máximo 2 por dia, adicional mínimo de 50%",
+        "Intervalo intrajornada: 1 a 2 horas para jornada acima de 6 horas; 15 min entre 4 e 6 horas",
+        "Intervalo interjornada mínimo de 11 horas consecutivas (art. 66 da CLT)",
+        "Supressão do intervalo intrajornada gera pagamento só do período suprimido + 50% (art. 71, §4º)"
+      ],
+      "pegadinhas": [
+        "Confundir intervalo intrajornada (dentro da jornada) com interjornada (entre duas jornadas)",
+        "Dizer que a supressão do intervalo intrajornada gera pagamento da hora cheia integral (após a reforma, paga-se apenas o período suprimido com 50%)",
+        "Afirmar que o adicional de hora extra é sempre de 100% (o mínimo constitucional é de 50%)"
+      ],
+      "videoQuery": "jornada de trabalho e intervalos CLT concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Qual o intervalo intrajornada para jornada superior a 6 horas?",
+          "verso": "No mínimo 1 hora e no máximo 2 horas (art. 71 da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Em relação aos intervalos para descanso, assinale a alternativa correta segundo a CLT:",
+          "alternativas": [
+            "O intervalo interjornada mínimo é de 12 horas consecutivas.",
+            "Para jornada superior a 6 horas, o intervalo intrajornada é de no mínimo 1 hora.",
+            "Para jornada entre 4 e 6 horas, não há intervalo intrajornada obrigatório.",
+            "O intervalo intrajornada não pode, em nenhuma hipótese, ser reduzido.",
+            "A supressão do intervalo intrajornada acarreta pagamento integral da jornada em dobro."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a B: o art. 71 da CLT prevê intervalo intrajornada de 1 a 2 horas para jornadas acima de 6 horas. A) o intervalo interjornada mínimo é de 11 horas (art. 66). C) entre 4 e 6 horas há intervalo de 15 minutos. D) o intervalo intrajornada pode ser reduzido a 30 minutos por norma coletiva (art. 611-A). E) a supressão gera pagamento apenas do período suprimido acrescido de 50% (art. 71, §4º).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre a jornada de trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "A jornada normal não pode exceder 6 horas diárias, em qualquer hipótese.",
+            "As horas extras são limitadas a 4 por dia.",
+            "A jornada normal é de até 8 horas diárias e 44 semanais, admitida prorrogação de até 2 horas extras.",
+            "O adicional de horas extras deve ser sempre de 100%.",
+            "O banco de horas só pode ser instituído por convenção coletiva, jamais por acordo individual."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a C: a CF (art. 7º, XIII) e a CLT (art. 58) fixam a jornada em até 8 horas diárias e 44 semanais, com prorrogação de até 2 horas (art. 59). A) a regra geral é 8 horas, não 6. B) horas extras são limitadas a 2 por dia. D) o adicional mínimo é de 50%, não 100%. E) o banco de horas para compensação em até 6 meses pode ser pactuado por acordo individual escrito (art. 59, §5º).",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Remuneração e salário",
+      "resumo": "Salário é a contraprestação devida e paga diretamente pelo empregador ao empregado em razão do contrato; remuneração é conceito mais amplo, abrangendo o salário acrescido das gorjetas recebidas (art. 457 da CLT). Integram o salário, além da importância fixa, comissões, percentagens e gratificações ajustadas. A reforma trabalhista (Lei 13.467/2017) excluiu expressamente da natureza salarial as ajudas de custo, o auxílio-alimentação (vedado o pagamento em dinheiro), as diárias para viagem, os prêmios e os abonos (art. 457, §2º). Vigoram os princípios da irredutibilidade salarial (salvo norma coletiva), da intangibilidade (proteção contra descontos indevidos, art. 462) e da isonomia, que fundamenta a equiparação salarial (art. 461): mesma função, mesmo empregador, igual produtividade e perfeição técnica, diferença de tempo de serviço na função não superior a 4 anos e no mesmo estabelecimento.",
+      "pontosChave": [
+        "Remuneração = salário + gorjetas (art. 457 da CLT)",
+        "Prêmios, abonos, diárias e auxílio-alimentação não têm natureza salarial (art. 457, §2º)",
+        "Equiparação salarial: mesma função, mesmo empregador e estabelecimento, igual produtividade e perfeição técnica",
+        "Diferença de tempo na função não pode superar 4 anos e no mesmo estabelecimento não mais que 2 anos",
+        "Princípio da intangibilidade: descontos só nas hipóteses do art. 462 da CLT"
+      ],
+      "pegadinhas": [
+        "Tratar gorjeta como salário (ela integra a remuneração, mas não o salário)",
+        "Esquecer que, após a reforma, prêmios e abonos não integram o salário",
+        "Confundir os requisitos da equiparação: a diferença de tempo é de função (4 anos) e não apenas de empresa"
+      ],
+      "videoQuery": "remuneração salário e equiparação salarial CLT concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre salário e remuneração?",
+          "verso": "Salário é pago diretamente pelo empregador; remuneração é o salário somado às gorjetas (art. 457 da CLT)."
+        },
+        {
+          "frente": "Quais os requisitos da equiparação salarial (art. 461 da CLT)?",
+          "verso": "Mesma função, mesmo empregador e estabelecimento, igual produtividade e perfeição técnica, diferença de tempo na função não superior a 4 anos e no estabelecimento não superior a 2 anos."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca dos requisitos da equiparação salarial previstos no art. 461 da CLT, assinale a alternativa correta:",
+          "alternativas": [
+            "Basta que os empregados exerçam a mesma função, ainda que para empregadores distintos.",
+            "Exige-se identidade de função, mesmo empregador, igual produtividade e perfeição técnica, com diferença de tempo na função não superior a 4 anos.",
+            "Não se admite qualquer diferença de tempo de serviço entre os empregados comparados.",
+            "A equiparação independe de os empregados atuarem no mesmo estabelecimento.",
+            "A equiparação é devida ainda que exista quadro de carreira homologado com promoções por antiguidade e merecimento."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a B, que reproduz os requisitos do art. 461 da CLT. A) exige-se o mesmo empregador. C) admite-se diferença de tempo na função de até 4 anos. D) é necessário o mesmo estabelecimento empresarial. E) havendo quadro de carreira com promoções alternadas por antiguidade e merecimento, não cabe equiparação.",
+          "banca": "FCC",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Férias e 13º salário",
+      "resumo": "Após cada período de 12 meses de vigência do contrato (período aquisitivo), o empregado tem direito a férias, gozadas no período concessivo dos 12 meses seguintes (art. 134 da CLT). A duração varia conforme as faltas injustificadas: 30 dias se houve até 5 faltas, reduzindo-se progressivamente. As férias podem ser fracionadas em até três períodos, sendo um deles de no mínimo 14 dias e os demais não inferiores a 5 dias (art. 134, §1º, após a reforma). É garantido o terço constitucional (art. 7º, XVII, CF). A concessão fora do prazo legal gera pagamento em dobro (art. 137). O abono pecuniário permite converter até 1/3 das férias em dinheiro. O 13º salário (Lei 4.090/1962) corresponde a 1/12 da remuneração por mês trabalhado (ou fração igual ou superior a 15 dias), pago em duas parcelas: a primeira entre fevereiro e novembro e a segunda até 20 de dezembro.",
+      "pontosChave": [
+        "Período aquisitivo de 12 meses gera direito a férias de 30 dias (até 5 faltas injustificadas)",
+        "Férias podem ser fracionadas em até 3 períodos (um de no mínimo 14 dias, os demais ≥ 5 dias)",
+        "Terço constitucional de férias (art. 7º, XVII, da CF/88)",
+        "Concessão fora do prazo legal: pagamento em dobro (art. 137 da CLT)",
+        "13º salário: 1/12 por mês trabalhado, pago em duas parcelas; 2ª até 20 de dezembro"
+      ],
+      "pegadinhas": [
+        "Confundir período aquisitivo (em que se adquire o direito) com período concessivo (em que se goza)",
+        "Dizer que as férias só podem ser fracionadas em 2 períodos (após a reforma são até 3)",
+        "Achar que a fração de 15 dias ou mais de trabalho no mês não conta para o 13º (conta como mês integral)"
+      ],
+      "videoQuery": "férias e décimo terceiro salário CLT concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Em quantos períodos as férias podem ser fracionadas após a reforma trabalhista?",
+          "verso": "Em até 3 períodos, sendo um de no mínimo 14 dias e os demais não inferiores a 5 dias (art. 134, §1º, CLT)."
+        },
+        {
+          "frente": "Qual a consequência de conceder férias fora do prazo legal?",
+          "verso": "Pagamento das férias em dobro (art. 137 da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre o direito a férias na CLT, assinale a alternativa correta:",
+          "alternativas": [
+            "O empregado com até 5 faltas injustificadas no período aquisitivo tem direito a 20 dias de férias.",
+            "As férias podem ser fracionadas em até 3 períodos, sendo um deles de no mínimo 14 dias corridos.",
+            "A concessão das férias fora do prazo legal não gera qualquer penalidade ao empregador.",
+            "O período concessivo é aquele em que o empregado adquire o direito às férias.",
+            "É vedada a conversão de parte das férias em abono pecuniário."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a B: o art. 134, §1º, da CLT, após a reforma, permite fracionar as férias em até três períodos, um de no mínimo 14 dias e os demais não inferiores a 5 dias. A) com até 5 faltas o empregado tem direito a 30 dias. C) a concessão fora do prazo gera pagamento em dobro (art. 137). D) o período concessivo é o de gozo; o aquisitivo é o de aquisição do direito. E) é permitido converter até 1/3 das férias em abono pecuniário (art. 143).",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Quanto ao 13º salário (gratificação natalina), assinale a alternativa correta:",
+          "alternativas": [
+            "Corresponde a 1/6 da remuneração por mês trabalhado.",
+            "A segunda parcela deve ser paga até o dia 30 de novembro.",
+            "A fração igual ou superior a 15 dias de trabalho no mês é contada como mês integral.",
+            "É pago em parcela única, sempre em dezembro.",
+            "Não integra a base de cálculo do FGTS."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a C: nos termos da Lei 4.090/1962, a fração igual ou superior a 15 dias de trabalho conta como mês integral para o cálculo do 13º. A) corresponde a 1/12 por mês trabalhado, não 1/6. B) a segunda parcela é paga até 20 de dezembro. D) é pago em duas parcelas. E) o 13º integra a base de cálculo do FGTS.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Alteração, suspensão e interrupção do contrato",
+      "resumo": "A alteração do contrato de trabalho rege-se pelo princípio da inalterabilidade contratual lesiva: só é lícita por mútuo consentimento e desde que não cause prejuízo direto ou indireto ao empregado (art. 468 da CLT). A reversão ao cargo efetivo de quem ocupava cargo de confiança não é considerada alteração unilateral ilícita. Na suspensão do contrato, cessam as principais obrigações de ambas as partes: o empregado não trabalha e não recebe salário, e o tempo, em regra, não conta como serviço (ex.: afastamento por auxílio-doença a partir do 16º dia, suspensão disciplinar, greve). Na interrupção, o empregado não trabalha, mas recebe salário e o período é computado como tempo de serviço (ex.: primeiros 15 dias de afastamento por doença, férias, descanso semanal, licença-maternidade, faltas legais do art. 473).",
+      "pontosChave": [
+        "Alteração contratual exige mútuo consentimento e ausência de prejuízo ao empregado (art. 468)",
+        "Suspensão: não há trabalho nem salário, e o tempo não é computado (regra)",
+        "Interrupção: não há trabalho, mas há salário e contagem do tempo de serviço",
+        "Auxílio-doença: 1º ao 15º dia é interrupção; a partir do 16º dia é suspensão",
+        "Licença-maternidade é hipótese de interrupção (salário-maternidade pago)"
+      ],
+      "pegadinhas": [
+        "Inverter os conceitos: na suspensão NÃO há salário; na interrupção HÁ salário",
+        "Achar que todo afastamento por doença é suspensão (os 15 primeiros dias são interrupção)",
+        "Considerar lícita a alteração unilateral prejudicial ao empregado"
+      ],
+      "videoQuery": "suspensão e interrupção do contrato de trabalho CLT concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre suspensão e interrupção do contrato de trabalho?",
+          "verso": "Na suspensão não há trabalho nem salário e o tempo não é contado; na interrupção não há trabalho, mas há salário e contagem do tempo de serviço."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Assinale a alternativa que apresenta hipótese de INTERRUPÇÃO do contrato de trabalho:",
+          "alternativas": [
+            "Afastamento por auxílio-doença a partir do 16º dia.",
+            "Período de gozo de férias anuais remuneradas.",
+            "Suspensão disciplinar aplicada ao empregado.",
+            "Afastamento para prestação de serviço militar obrigatório.",
+            "Participação em greve."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a B: nas férias o empregado não trabalha, mas recebe remuneração e o período é computado como tempo de serviço, caracterizando interrupção. As demais são hipóteses de suspensão, em que não há pagamento de salário pelo empregador e, em regra, não há contagem do tempo de serviço (auxílio-doença após o 15º dia, suspensão disciplinar, serviço militar e greve).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre a alteração do contrato de trabalho (art. 468 da CLT), assinale a alternativa correta:",
+          "alternativas": [
+            "É lícita a alteração unilateral imposta pelo empregador, ainda que prejudicial ao empregado.",
+            "Somente por mútuo consentimento e desde que não resulte prejuízo ao empregado é lícita a alteração.",
+            "A alteração contratual prescinde de consentimento quando favorável ao empregador.",
+            "A reversão do empregado ao cargo efetivo é sempre alteração ilícita.",
+            "Qualquer alteração do contrato é nula, ainda que benéfica ao empregado."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a B, que reproduz o art. 468 da CLT: a alteração só é lícita por mútuo consentimento e sem prejuízo ao empregado. A) e C) a alteração unilateral prejudicial é vedada. D) a reversão ao cargo efetivo de quem exercia função de confiança não é alteração unilateral ilícita (parágrafo único do art. 468). E) alterações benéficas são válidas.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "FGTS",
+      "resumo": "O Fundo de Garantia do Tempo de Serviço (FGTS), regido pela Lei 8.036/1990, é um direito constitucional dos trabalhadores urbanos e rurais (art. 7º, III, CF). O empregador deposita mensalmente, em conta vinculada na Caixa Econômica Federal, o valor correspondente a 8% da remuneração paga ao empregado, sem qualquer desconto deste. A base de cálculo abrange parcelas de natureza salarial, inclusive 13º salário. O saque é permitido em hipóteses taxativas, como dispensa sem justa causa, aposentadoria, aquisição de moradia própria, doença grave e rescisão por culpa recíproca ou força maior. Na dispensa sem justa causa, é devida a multa rescisória de 40% sobre o montante de todos os depósitos realizados durante o contrato; na culpa recíproca, a multa é de 20%.",
+      "pontosChave": [
+        "Depósito mensal de 8% da remuneração, sem desconto do empregado (Lei 8.036/1990)",
+        "Conta vinculada gerida pela Caixa Econômica Federal",
+        "13º salário integra a base de cálculo do FGTS",
+        "Multa de 40% sobre os depósitos na dispensa sem justa causa",
+        "Saque permitido apenas nas hipóteses legais (dispensa sem justa causa, aposentadoria, moradia etc.)"
+      ],
+      "pegadinhas": [
+        "Achar que o FGTS é descontado do salário do empregado (o ônus é integralmente do empregador)",
+        "Confundir a multa de 40% (dispensa sem justa causa) com a de 20% (culpa recíproca)",
+        "Pensar que o saque do FGTS é livre a qualquer tempo (as hipóteses são taxativas)"
+      ],
+      "videoQuery": "FGTS Lei 8036 alíquota e multa rescisória concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Qual a multa do FGTS na dispensa sem justa causa e na culpa recíproca?",
+          "verso": "40% sobre os depósitos na dispensa sem justa causa e 20% na culpa recíproca."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca do FGTS (Lei 8.036/1990), assinale a alternativa correta:",
+          "alternativas": [
+            "O depósito mensal corresponde a 8% da remuneração, descontados do salário do empregado.",
+            "A multa rescisória na dispensa sem justa causa é de 20% sobre os depósitos.",
+            "O depósito mensal do empregador é de 8% da remuneração do empregado, sem desconto deste.",
+            "O 13º salário não integra a base de cálculo do FGTS.",
+            "O saque do FGTS pode ser realizado livremente pelo trabalhador a qualquer tempo."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a C: o FGTS corresponde a 8% da remuneração, depositados pelo empregador sem desconto do empregado. A) o valor não é descontado do salário, é ônus do empregador. B) a multa na dispensa sem justa causa é de 40% (20% é a da culpa recíproca). D) o 13º integra a base de cálculo. E) o saque ocorre apenas nas hipóteses legais taxativas.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Rescisão do contrato de trabalho",
+      "resumo": "A extinção do contrato pode ocorrer por iniciativa do empregador (dispensa com ou sem justa causa), do empregado (pedido de demissão ou rescisão indireta), por acordo entre as partes (art. 484-A, CLT) ou por causas alheias à vontade (morte, força maior, extinção da empresa). Na dispensa sem justa causa, o empregado faz jus a aviso prévio, saldo de salário, férias proporcionais + 1/3, 13º proporcional, saque do FGTS e multa de 40%. A justa causa (art. 482) exige falta grave e suprime parcelas como aviso prévio, multa do FGTS e férias proporcionais. A rescisão indireta (art. 483) é a justa causa do empregador, autorizando o empregado a romper o contrato com os mesmos direitos da dispensa imotivada. A reforma criou a rescisão por acordo, em que o aviso prévio e a multa do FGTS são pagos pela metade e o saque do FGTS limita-se a 80%, sem direito ao seguro-desemprego.",
+      "pontosChave": [
+        "Dispensa sem justa causa garante aviso prévio, férias proporcionais + 1/3, 13º, FGTS + 40%",
+        "Justa causa (art. 482) suprime aviso prévio, multa do FGTS e férias proporcionais",
+        "Rescisão indireta (art. 483) é a justa causa do empregador",
+        "Rescisão por acordo (art. 484-A): aviso prévio e multa do FGTS pela metade, saque de até 80%",
+        "Aviso prévio: 30 dias mais 3 dias por ano de serviço, até o máximo de 90 dias (Lei 12.506/2011)"
+      ],
+      "pegadinhas": [
+        "Conceder férias proporcionais ao empregado dispensado por justa causa (não são devidas)",
+        "Achar que na rescisão por acordo há direito ao seguro-desemprego (não há)",
+        "Confundir rescisão indireta (falta do empregador) com pedido de demissão (iniciativa do empregado)"
+      ],
+      "videoQuery": "rescisão do contrato de trabalho verbas rescisórias justa causa concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Quais verbas o empregado perde na dispensa por justa causa?",
+          "verso": "Aviso prévio, multa de 40% do FGTS, férias proporcionais e 13º proporcional; recebe apenas saldo de salário e férias vencidas, se houver."
+        },
+        {
+          "frente": "Como funciona a rescisão por acordo (art. 484-A da CLT)?",
+          "verso": "Aviso prévio e multa do FGTS pela metade, saque de até 80% do FGTS e sem direito ao seguro-desemprego."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Na rescisão do contrato de trabalho por acordo entre empregado e empregador (art. 484-A da CLT), é correto afirmar que:",
+          "alternativas": [
+            "O empregado tem direito ao saque integral do FGTS e ao seguro-desemprego.",
+            "A multa do FGTS é devida em 40% e o aviso prévio é integral.",
+            "O aviso prévio, se indenizado, e a multa do FGTS são devidos pela metade, com saque de até 80% do FGTS e sem seguro-desemprego.",
+            "Não há direito ao saque de qualquer parcela do FGTS.",
+            "O empregado mantém todos os direitos da dispensa sem justa causa."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a C, conforme o art. 484-A da CLT: na rescisão por acordo, o aviso prévio indenizado e a multa do FGTS são pagos pela metade, o saque limita-se a 80% e não há direito ao seguro-desemprego. A) o saque é de 80% e não há seguro-desemprego. B) a multa é de 20% (metade de 40%) e o aviso é pela metade. D) há saque de até 80%. E) o empregado não mantém todos os direitos da dispensa imotivada.",
+          "banca": "FGV",
+          "dificuldade": 3
+        },
+        {
+          "enunciado": "Sobre a rescisão indireta do contrato de trabalho (art. 483 da CLT), assinale a alternativa correta:",
+          "alternativas": [
+            "Decorre de falta grave cometida pelo empregado.",
+            "Equivale ao pedido de demissão, sem direito a verbas rescisórias.",
+            "Configura-se por falta grave do empregador e assegura ao empregado os mesmos direitos da dispensa sem justa causa.",
+            "Impede o saque do FGTS pelo empregado.",
+            "Exige sempre prévia homologação sindical para sua validade."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a C: a rescisão indireta é a justa causa do empregador (art. 483), garantindo ao empregado as verbas da dispensa imotivada, inclusive aviso prévio, multa de 40% e saque do FGTS. A) a falta grave é do empregador, não do empregado. B) não equivale a pedido de demissão, pois garante todas as verbas. D) o saque do FGTS é assegurado. E) não há exigência de prévia homologação sindical para configurar a rescisão indireta.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Estabilidade e garantias de emprego",
+      "resumo": "Estabilidade é a garantia de permanência no emprego, impedindo a dispensa imotivada durante certo período. As garantias provisórias mais cobradas são: gestante, desde a confirmação da gravidez até cinco meses após o parto (art. 10, II, b, ADCT); dirigente sindical, desde o registro da candidatura até um ano após o fim do mandato (art. 8º, VIII, CF e art. 543 da CLT); membro da CIPA eleito (representante dos empregados), do registro da candidatura até um ano após o mandato (art. 10, II, a, ADCT); e o empregado acidentado, que goza de 12 meses de estabilidade após a cessação do auxílio-doença acidentário (art. 118 da Lei 8.213/1991). A estabilidade decenal do art. 492 da CLT foi substituída pelo regime do FGTS. Durante o período estabilitário, a dispensa só é possível por justa causa ou força maior, garantindo-se ao empregado, em caso de dispensa indevida, a reintegração ou a indenização do período.",
+      "pontosChave": [
+        "Gestante: estabilidade da confirmação da gravidez até 5 meses após o parto (ADCT, art. 10, II, b)",
+        "Dirigente sindical: do registro da candidatura até 1 ano após o mandato (CF, art. 8º, VIII)",
+        "Cipeiro eleito (representante dos empregados): do registro até 1 ano após o mandato (ADCT, art. 10, II, a)",
+        "Acidentado: 12 meses de estabilidade após cessar o auxílio-doença acidentário (Lei 8.213/1991, art. 118)",
+        "No período estabilitário, a dispensa só cabe por justa causa ou força maior"
+      ],
+      "pegadinhas": [
+        "Afirmar que a estabilidade da gestante depende de o empregador conhecer a gravidez (a responsabilidade é objetiva)",
+        "Estender a estabilidade da CIPA aos representantes indicados pelo empregador (só os eleitos a possuem)",
+        "Confundir o prazo de estabilidade do acidentado (12 meses após a alta) com o da gestante (5 meses após o parto)"
+      ],
+      "videoQuery": "estabilidade provisória gestante dirigente sindical CIPA concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Qual o período de estabilidade da empregada gestante?",
+          "verso": "Da confirmação da gravidez até 5 meses após o parto (art. 10, II, b, do ADCT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre as estabilidades provisórias no emprego, assinale a alternativa correta:",
+          "alternativas": [
+            "A gestante tem estabilidade da confirmação da gravidez até 3 meses após o parto.",
+            "O dirigente sindical tem estabilidade apenas durante o exercício do mandato.",
+            "A empregada gestante tem estabilidade da confirmação da gravidez até 5 meses após o parto, sendo a garantia objetiva.",
+            "Os representantes da CIPA indicados pelo empregador também possuem estabilidade.",
+            "O empregado acidentado tem estabilidade de 6 meses após a alta previdenciária."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a C: o art. 10, II, b, do ADCT garante à gestante estabilidade da confirmação da gravidez até 5 meses após o parto, sendo a garantia objetiva (independe do conhecimento do empregador, Súmula 244 do TST). A) o prazo é de 5 meses, não 3. B) o dirigente sindical tem estabilidade do registro da candidatura até 1 ano após o mandato. D) apenas os cipeiros eleitos (representantes dos empregados) têm estabilidade. E) o acidentado tem 12 meses de estabilidade (art. 118 da Lei 8.213/1991).",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "materia": "Noções de Informática",
+  "videos": [
+    {
+      "titulo": "Reta Final TRT SP Pós-Edital: Noções de Informática - Prof. Renato da Costa",
+      "youtubeId": "vuRa6prwJ-A",
+      "url": "https://www.youtube.com/watch?v=vuRa6prwJ-A"
+    },
+    {
+      "titulo": "Noções de Informática para Concursos | Aula Gratuita",
+      "youtubeId": "e-w07JpTYvo",
+      "url": "https://www.youtube.com/watch?v=e-w07JpTYvo"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Hardware e software",
+      "resumo": "Hardware é a parte física do computador (componentes tangíveis), enquanto software é o conjunto de programas e instruções lógicas que comandam o hardware. O processador (CPU) executa as instruções e divide-se em Unidade de Controle (UC), Unidade Lógica e Aritmética (ULA) e registradores. A memória RAM é volátil (perde o conteúdo ao desligar) e serve como memória principal de trabalho, ao passo que a ROM é não volátil. Dispositivos de armazenamento secundário (HD, SSD, pen drive) são não voláteis e guardam dados de forma permanente. Os softwares classificam-se em básicos (sistemas operacionais), utilitários e aplicativos.",
+      "pontosChave": [
+        "Hardware = parte física; software = parte lógica (programas)",
+        "CPU é composta por Unidade de Controle, ULA e registradores",
+        "Memória RAM é volátil e de leitura/escrita; ROM é não volátil",
+        "Periféricos de entrada (teclado, mouse, scanner) e de saída (monitor, impressora); alguns são de entrada e saída (touchscreen, modem)",
+        "Software básico = sistema operacional; aplicativos = editores, navegadores, etc."
+      ],
+      "pegadinhas": [
+        "Confundir memória RAM (volátil) com ROM (não volátil): RAM perde os dados quando o computador é desligado",
+        "Achar que SSD é um tipo de memória RAM; na verdade, é armazenamento secundário não volátil"
+      ],
+      "videoQuery": "hardware e software conceitos básicos para concursos",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre memória RAM e ROM quanto à volatilidade?",
+          "verso": "A RAM é volátil (perde os dados ao desligar o computador); a ROM é não volátil (mantém os dados mesmo sem energia)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca dos conceitos de hardware e software, assinale a alternativa correta.",
+          "alternativas": [
+            "A memória RAM é não volátil e mantém os dados armazenados mesmo após o desligamento do computador.",
+            "O sistema operacional é classificado como software aplicativo, juntamente com editores de texto e planilhas.",
+            "A memória RAM é a memória principal de trabalho, sendo volátil, pois perde seu conteúdo quando o computador é desligado.",
+            "O disco SSD é um tipo de memória volátil utilizada para acelerar o processamento da CPU.",
+            "A Unidade Lógica e Aritmética (ULA) é um componente de software responsável por gerenciar arquivos."
+          ],
+          "gabarito": 2,
+          "comentario": "A alternativa correta é a 'C': a RAM é a memória principal, de leitura e escrita, e volátil, perdendo o conteúdo ao desligar. A 'A' erra porque a RAM é volátil. A 'B' erra porque o sistema operacional é software básico, não aplicativo. A 'D' erra porque o SSD é armazenamento secundário não volátil. A 'E' erra porque a ULA é parte do hardware (CPU), não software.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Os dispositivos de um computador podem ser classificados como periféricos de entrada, de saída ou de entrada e saída. Assinale a alternativa que apresenta APENAS periféricos de entrada.",
+          "alternativas": [
+            "Monitor e impressora.",
+            "Teclado, mouse e scanner.",
+            "Monitor, teclado e caixas de som.",
+            "Impressora e pen drive.",
+            "Caixas de som e projetor."
+          ],
+          "gabarito": 1,
+          "comentario": "A alternativa 'B' apresenta apenas dispositivos de entrada (teclado, mouse e scanner). Monitor, impressora, caixas de som e projetor são de saída; o pen drive é de entrada e saída. Por isso as demais estão incorretas.",
+          "banca": "CESPE",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Sistema operacional Windows",
+      "resumo": "O Windows é um sistema operacional proprietário da Microsoft, com interface gráfica (GUI) baseada em janelas, ícones e ponteiro do mouse. Gerencia recursos de hardware, processos, memória e arquivos, intermediando a relação entre o usuário e a máquina. O Explorador de Arquivos (antigo Windows Explorer) é a ferramenta de gerenciamento de pastas e arquivos, e a Lixeira armazena temporariamente itens excluídos. O Painel de Controle e o aplicativo Configurações permitem ajustar o sistema. Atalhos comuns incluem Ctrl+C (copiar), Ctrl+V (colar), Ctrl+X (recortar), Ctrl+Z (desfazer) e a tecla Windows para abrir o menu Iniciar.",
+      "pontosChave": [
+        "Windows é proprietário (Microsoft); usa interface gráfica (GUI)",
+        "Explorador de Arquivos gerencia pastas e arquivos; usa caminhos com barra invertida (\\)",
+        "Lixeira guarda arquivos excluídos temporariamente; Shift+Delete exclui sem passar pela Lixeira",
+        "Atalhos: Ctrl+C copiar, Ctrl+V colar, Ctrl+X recortar, Ctrl+Z desfazer, Win abre o Iniciar",
+        "Configurações e Painel de Controle permitem personalizar o sistema"
+      ],
+      "pegadinhas": [
+        "Pensar que arquivos excluídos com Shift+Delete vão para a Lixeira; eles são excluídos permanentemente",
+        "Confundir o Windows (proprietário/pago) com sistemas livres como o Linux"
+      ],
+      "videoQuery": "Windows 10 11 para concursos atalhos e explorador de arquivos",
+      "flashcards": [
+        {
+          "frente": "Qual a função da combinação Shift+Delete no Windows?",
+          "verso": "Exclui o arquivo permanentemente, sem enviá-lo para a Lixeira."
+        },
+        {
+          "frente": "Qual ferramenta do Windows é usada para gerenciar pastas e arquivos?",
+          "verso": "O Explorador de Arquivos (antigo Windows Explorer)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "No sistema operacional Windows, um usuário selecionou um arquivo e pressionou simultaneamente as teclas Shift e Delete. Em relação a essa ação, é correto afirmar que o arquivo será",
+          "alternativas": [
+            "movido para a Lixeira, podendo ser restaurado posteriormente.",
+            "excluído permanentemente, sem ser enviado para a Lixeira.",
+            "copiado para a área de transferência do sistema.",
+            "renomeado automaticamente pelo sistema operacional.",
+            "compactado em formato ZIP na mesma pasta."
+          ],
+          "gabarito": 1,
+          "comentario": "A combinação Shift+Delete exclui o arquivo de forma permanente, sem passá-lo pela Lixeira (alternativa 'B'). A 'A' descreve a exclusão simples (tecla Delete sozinha). As demais (copiar, renomear, compactar) não correspondem à ação descrita.",
+          "banca": "FGV",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Considerando o uso de atalhos de teclado no Windows, assinale a alternativa que apresenta corretamente a função do atalho Ctrl+Z.",
+          "alternativas": [
+            "Recortar o item selecionado.",
+            "Colar o conteúdo da área de transferência.",
+            "Desfazer a última ação realizada.",
+            "Fechar a janela ativa.",
+            "Salvar o documento atual."
+          ],
+          "gabarito": 2,
+          "comentario": "Ctrl+Z desfaz a última ação (alternativa 'C'). Recortar é Ctrl+X, colar é Ctrl+V, salvar é Ctrl+S e fechar a janela ativa é Alt+F4. Por isso as demais estão incorretas.",
+          "banca": "FCC",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Editores de texto e planilhas (Office/LibreOffice)",
+      "resumo": "Os editores de texto (Microsoft Word e LibreOffice Writer) permitem criar e formatar documentos, com recursos de fontes, parágrafos, estilos, revisão e mala direta. As planilhas eletrônicas (Microsoft Excel e LibreOffice Calc) organizam dados em células identificadas por colunas (letras) e linhas (números), permitindo cálculos por meio de fórmulas e funções. Toda fórmula no Excel/Calc inicia com o sinal de igual (=). Referências podem ser relativas (A1), absolutas (\\$A\\$1) ou mistas. Funções comuns incluem SOMA, MÉDIA, SE, CONT.SE e PROCV. O LibreOffice é gratuito e de código aberto, sendo compatível com a maioria dos formatos do Office.",
+      "pontosChave": [
+        "No Word/Writer: formatação de fontes, parágrafos, estilos e revisão de texto",
+        "Toda fórmula em Excel/Calc começa com o sinal de igual (=)",
+        "Referência relativa (A1) muda ao copiar; absoluta (\\$A\\$1) é fixada pelo cifrão",
+        "Funções comuns: SOMA, MÉDIA, SE, CONT.SE, PROCV/PROCH",
+        "LibreOffice é livre/gratuito; padrão ODF (.odt, .ods)"
+      ],
+      "pegadinhas": [
+        "Esquecer que fórmulas começam com '=' (e não com '+' obrigatoriamente, embora o Excel aceite + e -)",
+        "Confundir referência absoluta (\\$A\\$1) com relativa (A1): o cifrão é que torna a referência fixa ao copiar"
+      ],
+      "videoQuery": "Excel e Word para concursos fórmulas referência absoluta e relativa",
+      "flashcards": [
+        {
+          "frente": "Como se distingue uma referência absoluta de uma relativa no Excel/Calc?",
+          "verso": "A referência absoluta usa o cifrão ($A$1) e não se altera ao copiar a fórmula; a relativa (A1) se ajusta automaticamente ao ser copiada."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Em uma planilha do Microsoft Excel, a célula A1 contém o valor 10, a célula A2 contém 20 e a célula A3 contém 30. Na célula A4 foi digitada a fórmula =SOMA(A1:A3). Qual será o resultado exibido na célula A4?",
+          "alternativas": [
+            "10",
+            "30",
+            "60",
+            "A1:A3",
+            "Erro de fórmula"
+          ],
+          "gabarito": 2,
+          "comentario": "A função SOMA(A1:A3) soma todos os valores do intervalo: 10 + 20 + 30 = 60 (alternativa 'C'). As demais não correspondem à soma do intervalo informado.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Sobre referências de células em planilhas eletrônicas (Excel e Calc), assinale a alternativa correta.",
+          "alternativas": [
+            "A referência $A$1 é relativa e se altera quando a fórmula é copiada para outra célula.",
+            "A referência A1 é absoluta e permanece fixa ao copiar a fórmula.",
+            "A referência $A$1 é absoluta, permanecendo fixa quando a fórmula é copiada para outras células.",
+            "Toda fórmula em uma planilha eletrônica deve iniciar com o sinal de asterisco (*).",
+            "Referências mistas, como A$1, não são permitidas nas planilhas eletrônicas."
+          ],
+          "gabarito": 2,
+          "comentario": "A alternativa correta é a 'C': o cifrão em $A$1 fixa a referência (absoluta), mantendo-a inalterada ao copiar. A 'A' e a 'B' invertem os conceitos. A 'D' erra porque fórmulas iniciam com '='. A 'E' erra porque referências mistas (A$1 ou $A1) são permitidas.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Internet e navegadores",
+      "resumo": "A Internet é uma rede mundial de computadores interconectados que utiliza o conjunto de protocolos TCP/IP. A World Wide Web (WWW) é um serviço da Internet baseado em hipertexto, acessado por navegadores (browsers) como Google Chrome, Mozilla Firefox e Microsoft Edge. O endereço de um recurso é a URL, e a comunicação web utiliza os protocolos HTTP e, na versão segura com criptografia, HTTPS. O DNS traduz nomes de domínio (como www.trt.jus.br) em endereços IP. Recursos comuns dos navegadores incluem favoritos, histórico, abas, cookies e o modo de navegação anônima/privativa, que não armazena histórico localmente.",
+      "pontosChave": [
+        "Internet usa o conjunto de protocolos TCP/IP; a Web (WWW) é um serviço sobre a Internet",
+        "HTTP é o protocolo web; HTTPS é a versão segura (criptografada via TLS/SSL)",
+        "DNS traduz nomes de domínio em endereços IP",
+        "URL é o endereço do recurso; navegadores: Chrome, Firefox, Edge",
+        "Navegação anônima não salva histórico/cookies localmente, mas não garante anonimato total na rede"
+      ],
+      "pegadinhas": [
+        "Achar que Internet e Web (WWW) são a mesma coisa; a Web é apenas um dos serviços da Internet",
+        "Pensar que a navegação anônima torna o usuário invisível ao provedor/sites; ela apenas não guarda dados localmente"
+      ],
+      "videoQuery": "internet navegadores HTTP HTTPS DNS para concursos",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre os protocolos HTTP e HTTPS?",
+          "verso": "Ambos transferem páginas web, mas o HTTPS adiciona uma camada de segurança com criptografia (TLS/SSL), protegendo os dados transmitidos."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito dos conceitos de Internet e navegadores web, assinale a alternativa correta.",
+          "alternativas": [
+            "A World Wide Web (WWW) e a Internet são sinônimos, designando exatamente o mesmo serviço.",
+            "O protocolo HTTPS é a versão segura do HTTP, utilizando criptografia para proteger a comunicação.",
+            "O DNS é responsável por enviar e receber mensagens de correio eletrônico entre servidores.",
+            "A navegação anônima garante o anonimato completo do usuário perante o provedor de Internet.",
+            "A URL é um componente físico do computador responsável pela conexão com a Internet."
+          ],
+          "gabarito": 1,
+          "comentario": "A alternativa correta é a 'B': o HTTPS é o HTTP com camada de criptografia (TLS/SSL). A 'A' erra porque a Web é apenas um serviço da Internet. A 'C' erra porque o DNS traduz nomes em IPs (e-mail usa SMTP/POP/IMAP). A 'D' erra porque a navegação anônima não impede o provedor de ver o tráfego. A 'E' erra porque a URL é um endereço lógico, não um componente físico.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "O serviço da Internet responsável por traduzir um nome de domínio, como www.trt.jus.br, no respectivo endereço IP do servidor é o",
+          "alternativas": [
+            "DHCP.",
+            "FTP.",
+            "DNS.",
+            "SMTP.",
+            "HTTP."
+          ],
+          "gabarito": 2,
+          "comentario": "O DNS (Domain Name System) traduz nomes de domínio em endereços IP (alternativa 'C'). O DHCP atribui IPs automaticamente; o FTP transfere arquivos; o SMTP envia e-mails; o HTTP transfere páginas web. Por isso as demais estão incorretas.",
+          "banca": "FGV",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Correio eletrônico",
+      "resumo": "O correio eletrônico (e-mail) é um serviço de envio e recebimento de mensagens pela Internet. O envio de mensagens utiliza o protocolo SMTP (Simple Mail Transfer Protocol), enquanto o recebimento pode usar POP3 (que normalmente baixa as mensagens para o dispositivo e pode removê-las do servidor) ou IMAP (que mantém as mensagens no servidor, sincronizando entre dispositivos). Um endereço de e-mail tem o formato usuario@dominio. Os campos de destinatário incluem Para, Cc (cópia carbono) e Cco (cópia carbono oculta), sendo que os destinatários em Cco não são vistos pelos demais. Anexos podem transportar malware, exigindo cautela.",
+      "pontosChave": [
+        "SMTP é usado para envio de e-mails",
+        "POP3 baixa as mensagens (pode removê-las do servidor); IMAP mantém e sincroniza no servidor",
+        "Formato do endereço: usuario@dominio",
+        "Cc = cópia visível; Cco = cópia oculta (destinatários não veem os demais em Cco)",
+        "Anexos podem conter vírus/malware; abrir com cautela"
+      ],
+      "pegadinhas": [
+        "Trocar SMTP (envio) por POP/IMAP (recebimento)",
+        "Achar que os destinatários em Cco aparecem para os demais; eles ficam ocultos"
+      ],
+      "videoQuery": "correio eletrônico protocolos SMTP POP IMAP Cc Cco concursos",
+      "flashcards": [
+        {
+          "frente": "Qual protocolo é utilizado para o ENVIO de e-mails?",
+          "verso": "O SMTP (Simple Mail Transfer Protocol). Para recebimento usam-se POP3 ou IMAP."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre os protocolos e recursos do correio eletrônico, assinale a alternativa correta.",
+          "alternativas": [
+            "O protocolo POP3 é utilizado exclusivamente para o envio de mensagens de e-mail.",
+            "O protocolo SMTP é responsável pelo envio de mensagens de correio eletrônico.",
+            "Os destinatários inseridos no campo Cco (cópia carbono oculta) são visíveis para todos os demais destinatários.",
+            "O protocolo IMAP baixa todas as mensagens e as remove permanentemente do servidor.",
+            "Um endereço de e-mail válido dispensa o caractere arroba (@) entre o usuário e o domínio."
+          ],
+          "gabarito": 1,
+          "comentario": "A alternativa correta é a 'B': o SMTP é o protocolo de envio. A 'A' erra porque o POP3 é de recebimento. A 'C' erra porque os destinatários em Cco ficam ocultos. A 'D' descreve melhor o comportamento típico do POP3, não do IMAP (que mantém as mensagens no servidor). A 'E' erra porque o '@' é obrigatório separando usuário e domínio.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Segurança da informação",
+      "resumo": "A segurança da informação visa preservar três pilares básicos: confidencialidade (acesso restrito a quem é autorizado), integridade (não alteração indevida dos dados) e disponibilidade (acesso quando necessário), conhecidos como tríade CID/CIA. Ameaças incluem malwares como vírus, worms (autorreplicantes pela rede), trojans (cavalos de Troia), spyware, ransomware (sequestra dados por criptografia exigindo resgate) e keyloggers. Ataques de engenharia social, como phishing, induzem o usuário a revelar dados. Medidas de proteção envolvem antivírus, firewall, atualizações, senhas fortes, autenticação em dois fatores e criptografia. O backup é fundamental contra a perda de dados, inclusive por ransomware.",
+      "pontosChave": [
+        "Tríade da segurança: Confidencialidade, Integridade e Disponibilidade (CID/CIA)",
+        "Vírus precisa de hospedeiro; worm é autorreplicante e se propaga sozinho pela rede",
+        "Ransomware criptografa/sequestra os dados e exige resgate (geralmente em criptomoedas)",
+        "Phishing é engenharia social que tenta enganar o usuário para obter dados/credenciais",
+        "Firewall controla o tráfego de rede; antivírus detecta e remove malwares"
+      ],
+      "pegadinhas": [
+        "Confundir vírus com worm: o worm se autorreplica e propaga sozinho, sem precisar de arquivo hospedeiro",
+        "Achar que firewall substitui o antivírus; são ferramentas com funções diferentes e complementares"
+      ],
+      "videoQuery": "segurança da informação malware ransomware phishing tríade CID concursos",
+      "flashcards": [
+        {
+          "frente": "Quais são os três pilares (tríade) da segurança da informação?",
+          "verso": "Confidencialidade, Integridade e Disponibilidade (CID/CIA)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Um tipo de malware criptografa os arquivos do usuário e exige o pagamento de um resgate, geralmente em criptomoedas, para a liberação dos dados. Esse tipo de praga digital é denominado",
+          "alternativas": [
+            "spyware.",
+            "adware.",
+            "ransomware.",
+            "rootkit.",
+            "phishing."
+          ],
+          "gabarito": 2,
+          "comentario": "O ransomware (alternativa 'C') é o malware que sequestra dados por criptografia e exige resgate. Spyware espiona o usuário; adware exibe propaganda; rootkit oculta a presença de invasores; phishing é técnica de engenharia social, não um malware que criptografa arquivos.",
+          "banca": "CESPE",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Acerca dos pilares da segurança da informação, assinale a alternativa que apresenta corretamente o princípio que garante que a informação não seja alterada indevidamente, mantendo-se exata e completa.",
+          "alternativas": [
+            "Disponibilidade.",
+            "Confidencialidade.",
+            "Integridade.",
+            "Autenticidade.",
+            "Irretratabilidade."
+          ],
+          "gabarito": 2,
+          "comentario": "A integridade (alternativa 'C') garante que a informação não seja alterada de forma não autorizada, permanecendo exata e completa. Disponibilidade trata do acesso quando necessário; confidencialidade restringe o acesso a autorizados; autenticidade e irretratabilidade são princípios complementares, mas não correspondem à definição dada.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Backup e armazenamento",
+      "resumo": "Backup é a cópia de segurança de dados, feita para permitir a recuperação em caso de perda, falha ou ataque (como ransomware). Os principais tipos são: completo/full (copia todos os dados selecionados), incremental (copia apenas o que mudou desde o último backup de qualquer tipo, sendo mais rápido e econômico em espaço) e diferencial (copia tudo o que mudou desde o último backup completo). Boas práticas incluem a regra 3-2-1 (três cópias, em dois tipos de mídia, com uma cópia externa/off-site). O armazenamento pode ser local (HD, SSD, pen drive) ou em nuvem (cloud), como Google Drive, OneDrive e Dropbox, que oferecem acesso remoto e sincronização.",
+      "pontosChave": [
+        "Backup completo (full) copia todos os dados selecionados",
+        "Incremental copia o que mudou desde o último backup (de qualquer tipo); ocupa menos espaço",
+        "Diferencial copia o que mudou desde o último backup COMPLETO",
+        "Regra 3-2-1: 3 cópias, 2 mídias diferentes, 1 cópia off-site (externa)",
+        "Armazenamento em nuvem (Drive, OneDrive, Dropbox) permite acesso remoto e sincronização"
+      ],
+      "pegadinhas": [
+        "Confundir backup incremental (desde o último backup, de qualquer tipo) com diferencial (desde o último backup COMPLETO)",
+        "Achar que a sincronização em nuvem substitui o backup; sincronizar pode propagar a exclusão/erro para todas as cópias"
+      ],
+      "videoQuery": "backup completo incremental diferencial regra 3-2-1 nuvem concursos",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre backup incremental e diferencial?",
+          "verso": "O incremental copia o que mudou desde o último backup de qualquer tipo; o diferencial copia tudo o que mudou desde o último backup completo."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre os tipos de backup, assinale a alternativa correta.",
+          "alternativas": [
+            "O backup completo copia somente os arquivos que foram modificados desde a última cópia.",
+            "O backup incremental copia todos os dados selecionados a cada execução, independentemente de alterações.",
+            "O backup diferencial copia os dados que foram alterados desde o último backup completo.",
+            "O backup incremental e o diferencial são termos sinônimos e produzem cópias idênticas.",
+            "O backup completo é o tipo que ocupa menos espaço de armazenamento entre todos."
+          ],
+          "gabarito": 2,
+          "comentario": "A alternativa correta é a 'C': o backup diferencial copia o que mudou desde o último backup completo. A 'A' descreve o incremental/diferencial, não o completo. A 'B' descreve o completo, não o incremental. A 'D' erra porque incremental e diferencial têm critérios distintos. A 'E' erra porque o completo costuma ocupar mais espaço, não menos.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Conceitos de redes",
+      "resumo": "Uma rede de computadores interconecta dispositivos para compartilhar dados e recursos. Quanto à abrangência, classificam-se em LAN (rede local, como em um escritório), MAN (rede metropolitana) e WAN (rede de longa distância, como a Internet). A comunicação na Internet baseia-se no modelo/conjunto de protocolos TCP/IP, em que o IP endereça os dispositivos (IPv4 e IPv6) e o TCP garante a entrega confiável. Equipamentos de rede incluem o switch (comuta quadros dentro da LAN), o roteador (interliga redes distintas e encaminha pacotes) e o modem (modula/demodula sinais). Redes podem ser cabeadas (Ethernet) ou sem fio (Wi-Fi), sendo importante protegê-las com criptografia (WPA2/WPA3) e senhas fortes.",
+      "pontosChave": [
+        "Abrangência: LAN (local), MAN (metropolitana), WAN (longa distância, ex.: Internet)",
+        "TCP/IP é o conjunto de protocolos da Internet; IP endereça (IPv4/IPv6), TCP entrega de forma confiável",
+        "Switch atua na LAN; roteador interliga redes diferentes e encaminha pacotes",
+        "Modem modula e demodula sinais para acesso à rede do provedor",
+        "Redes sem fio (Wi-Fi) devem usar criptografia WPA2/WPA3 e senhas fortes"
+      ],
+      "pegadinhas": [
+        "Confundir switch (atua dentro de uma mesma rede local) com roteador (interliga redes distintas)",
+        "Achar que LAN é uma rede de longa distância; LAN é local, e a Internet é exemplo de WAN"
+      ],
+      "videoQuery": "conceitos de redes LAN WAN TCP/IP switch roteador para concursos",
+      "flashcards": [
+        {
+          "frente": "Qual a diferença entre as redes LAN e WAN quanto à abrangência?",
+          "verso": "A LAN é uma rede local (área restrita, como um escritório); a WAN é uma rede de longa distância (grande abrangência geográfica), sendo a Internet o principal exemplo."
+        },
+        {
+          "frente": "Qual a função do roteador em uma rede?",
+          "verso": "Interligar redes distintas e encaminhar (rotear) os pacotes entre elas, escolhendo o melhor caminho."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Em relação aos conceitos de redes de computadores, assinale a alternativa correta.",
+          "alternativas": [
+            "Uma rede LAN caracteriza-se por interligar dispositivos em grandes distâncias geográficas, como entre países.",
+            "O conjunto de protocolos TCP/IP é a base de comunicação utilizada na Internet.",
+            "O switch tem a função de interligar redes distintas e escolher o melhor caminho entre elas.",
+            "A Internet é classificada como uma rede do tipo LAN por conectar muitos usuários.",
+            "O endereço IP é utilizado exclusivamente em redes sem fio, não se aplicando a redes cabeadas."
+          ],
+          "gabarito": 1,
+          "comentario": "A alternativa correta é a 'B': o TCP/IP é o conjunto de protocolos que fundamenta a Internet. A 'A' erra porque LAN é rede local. A 'C' descreve o roteador, não o switch. A 'D' erra porque a Internet é uma WAN. A 'E' erra porque o IP é usado tanto em redes cabeadas quanto sem fio.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

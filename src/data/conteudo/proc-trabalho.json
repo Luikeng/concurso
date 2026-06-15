@@ -1,0 +1,398 @@
+{
+  "materia": "Direito Processual do Trabalho",
+  "videos": [
+    {
+      "titulo": "Concurso TRT RJ - Aula de Direito Processual do Trabalho - Resolução de questões",
+      "youtubeId": "nQEkRVGaAeA",
+      "url": "https://www.youtube.com/watch?v=nQEkRVGaAeA"
+    },
+    {
+      "titulo": "Concurso TRT: Direito Processual do Trabalho | Jurisdição e competência",
+      "youtubeId": "1_kjkWm8Wow",
+      "url": "https://www.youtube.com/watch?v=1_kjkWm8Wow"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Organização da Justiça do Trabalho",
+      "resumo": "A Justiça do Trabalho é um dos ramos do Poder Judiciário, prevista no art. 111 da CF/88, sendo composta por três órgãos: o Tribunal Superior do Trabalho (TST), os Tribunais Regionais do Trabalho (TRTs) e os Juízes do Trabalho, que atuam nas Varas do Trabalho. O TST é o órgão de cúpula, com 27 ministros nomeados pelo Presidente da República após aprovação do Senado, observada a regra do quinto constitucional. Os TRTs possuem ao menos sete juízes, recrutados na respectiva região e nomeados pelo Presidente, e funcionam como segunda instância. Na primeira instância, a jurisdição é exercida monocraticamente pelo Juiz do Trabalho na Vara do Trabalho, tendo desaparecido os juízes classistas com a EC 24/1999. Integra ainda a estrutura o Conselho Superior da Justiça do Trabalho (CSJT) e a Escola Nacional de Formação e Aperfeiçoamento de Magistrados do Trabalho (ENAMAT).",
+      "pontosChave": [
+        "Órgãos da JT (art. 111 da CF/88): TST, TRTs e Juízes do Trabalho",
+        "TST tem 27 ministros; observa-se o quinto constitucional (advogados e MPT)",
+        "EC 24/1999 extinguiu a representação classista e as Juntas viraram Varas do Trabalho",
+        "Primeira instância: jurisdição monocrática do Juiz do Trabalho na Vara",
+        "CSJT exerce supervisão administrativa, orçamentária e financeira da JT de 1º e 2º graus"
+      ],
+      "pegadinhas": [
+        "Confundir a composição: a Vara do Trabalho é órgão monocrático (um juiz), não colegiado; ainda existem 'Juntas de Conciliação e Julgamento' é ERRADO desde a EC 24/1999"
+      ],
+      "videoQuery": "organização Justiça do Trabalho TST TRT Varas concurso aula",
+      "flashcards": [
+        {
+          "frente": "Quais são os órgãos da Justiça do Trabalho segundo o art. 111 da CF/88?",
+          "verso": "Tribunal Superior do Trabalho (TST), Tribunais Regionais do Trabalho (TRTs) e Juízes do Trabalho (Varas do Trabalho)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre a organização da Justiça do Trabalho na Constituição Federal de 1988, assinale a alternativa correta:",
+          "alternativas": [
+            "A Justiça do Trabalho é composta pelo TST, pelos TRTs e pelas Juntas de Conciliação e Julgamento.",
+            "São órgãos da Justiça do Trabalho o TST, os TRTs e os Juízes do Trabalho.",
+            "O Tribunal Superior do Trabalho compõe-se de quinze ministros vitalícios.",
+            "A jurisdição de primeiro grau é exercida de forma colegiada por três juízes na Vara do Trabalho.",
+            "Os Tribunais Regionais do Trabalho são órgãos de primeira instância."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B, conforme o art. 111 da CF/88, que enumera como órgãos da JT o TST, os TRTs e os Juízes do Trabalho. A letra A está errada porque a EC 24/1999 extinguiu as Juntas de Conciliação e Julgamento, substituídas pelas Varas do Trabalho. A letra C erra o número (o TST tem 27 ministros, art. 111-A). A letra D está errada porque a Vara do Trabalho é órgão monocrático. A letra E está errada, pois os TRTs são segunda instância.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Sobre a composição e as funções dos órgãos da Justiça do Trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "Os Tribunais Regionais do Trabalho devem compor-se de, no mínimo, sete juízes, recrutados na respectiva região.",
+            "A representação classista (juízes classistas) permanece em todos os graus de jurisdição da Justiça do Trabalho.",
+            "O Tribunal Superior do Trabalho é integrado exclusivamente por magistrados de carreira, sem reserva ao quinto constitucional.",
+            "A jurisdição de segundo grau é exercida monocraticamente pelo Juiz do Trabalho na Vara.",
+            "As Varas do Trabalho são órgãos colegiados de cúpula da Justiça do Trabalho."
+          ],
+          "gabarito": 0,
+          "comentario": "Correta a letra A, nos termos do art. 115 da CF/88, segundo o qual os TRTs compõem-se de, no mínimo, sete juízes recrutados na respectiva região. A letra B está errada porque a EC 24/1999 extinguiu a representação classista. A letra C está errada, pois o TST observa o quinto constitucional (advogados e membros do MPT, art. 111-A, I). A letra D inverte a estrutura (o segundo grau cabe aos TRTs, colegiados). A letra E está errada, pois a Vara é órgão monocrático de primeira instância.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Competência da Justiça do Trabalho",
+      "resumo": "A competência material da Justiça do Trabalho está fixada no art. 114 da CF/88, com a redação dada pela EC 45/2004, abrangendo, entre outras, as ações oriundas da relação de trabalho, as ações sobre exercício do direito de greve, as ações sindicais, os mandados de segurança, habeas corpus e habeas data quando o ato questionado envolver matéria de sua jurisdição, e as ações de indenização por dano moral ou patrimonial decorrentes da relação de trabalho. O STF firmou (ADI 3.395) que a JT não julga as causas estatutárias entre servidores públicos e a Administração. A competência territorial, em regra, é a do local da prestação de serviços (art. 651 da CLT), independentemente do local da contratação. Discute-se também a Súmula 736 do STF, que reconhece a competência da JT para ações sobre cumprimento de normas de saúde e segurança do trabalhador.",
+      "pontosChave": [
+        "Competência material: art. 114 da CF/88 (EC 45/2004)",
+        "A JT julga indenização por dano moral/material decorrente da relação de trabalho (art. 114, VI)",
+        "ADI 3.395: relação estatutária (servidor x Administração) NÃO é da JT",
+        "Competência territorial: regra do local da prestação dos serviços (art. 651, CLT)",
+        "Execução de contribuições previdenciárias decorrentes de suas sentenças (art. 114, VIII)"
+      ],
+      "pegadinhas": [
+        "Afirmar que a JT julga relação estatutária de servidor público é ERRADO (ADI 3.395, STF)",
+        "Confundir competência territorial: regra é o LOCAL DA PRESTAÇÃO de serviços, e não o local da contratação"
+      ],
+      "videoQuery": "competência Justiça do Trabalho art 114 CF concurso aula",
+      "flashcards": [
+        {
+          "frente": "Qual o dispositivo constitucional que fixa a competência material da Justiça do Trabalho e qual a regra de competência territorial?",
+          "verso": "A competência material está no art. 114 da CF/88 (EC 45/2004); a territorial, em regra, é a do local da prestação dos serviços (art. 651 da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca da competência da Justiça do Trabalho, é correto afirmar que:",
+          "alternativas": [
+            "Compete à Justiça do Trabalho julgar as ações de servidores públicos estatutários contra a Administração Pública.",
+            "Compete à Justiça do Trabalho processar e julgar as ações de indenização por dano moral decorrentes da relação de trabalho.",
+            "A competência territorial é, em regra, definida pelo local da celebração do contrato de trabalho.",
+            "A Justiça do Trabalho não detém competência para apreciar mandado de segurança em matéria de sua jurisdição.",
+            "Compete à Justiça do Trabalho julgar as causas criminais decorrentes da relação de emprego."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B, nos termos do art. 114, VI, da CF/88. A letra A está errada porque o STF, na ADI 3.395, excluiu da JT as causas estatutárias. A letra C erra porque a regra territorial é o local da prestação dos serviços (art. 651 da CLT). A letra D está errada, pois o art. 114, IV, prevê a competência para mandado de segurança em matéria sujeita à sua jurisdição. A letra E está errada porque a competência criminal não foi atribuída à JT.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "João foi contratado em São Paulo, mas prestou serviços exclusivamente na cidade de Campinas. Pretendendo ajuizar reclamação trabalhista, deverá observar que a competência territorial será, em regra, da Vara do Trabalho de:",
+          "alternativas": [
+            "São Paulo, local da contratação.",
+            "Campinas, local da prestação dos serviços.",
+            "qualquer comarca, à livre escolha do reclamante.",
+            "Brasília, sede do TST.",
+            "São Paulo, por ser a capital do Estado."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B. O art. 651 da CLT estabelece que a competência territorial é, em regra, do local da prestação dos serviços, ainda que a contratação tenha ocorrido em outra localidade. Assim, embora contratado em São Paulo, João prestou serviços em Campinas, sendo esta a Vara competente. As demais alternativas contrariam a regra do art. 651 da CLT.",
+          "banca": "FCC",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Atos, prazos e nulidades processuais",
+      "resumo": "Os atos processuais no processo do trabalho são, em regra, públicos e praticados nos dias úteis das 6h às 20h (art. 770 da CLT). Com a Lei 13.467/2017 (Reforma Trabalhista) e a aplicação subsidiária do CPC, os prazos passaram a ser contados em dias úteis (art. 775 da CLT). Os prazos processuais, salvo disposição em contrário, são contínuos e irreleváveis, podendo ser prorrogados por até oito dias pelo juízo, motivadamente. Quanto às nulidades, vigora o princípio do prejuízo (pas de nullité sans grief): não se declara a nulidade quando não houver prejuízo às partes (art. 794 da CLT). As nulidades devem ser arguidas na primeira oportunidade em que a parte tiver de falar nos autos, sob pena de preclusão (art. 795), salvo as que o juiz pode declarar de ofício (incompetência absoluta).",
+      "pontosChave": [
+        "Atos processuais: dias úteis das 6h às 20h (art. 770 da CLT)",
+        "Prazos contados em dias úteis após a Reforma Trabalhista (art. 775 da CLT)",
+        "Princípio do prejuízo: não há nulidade sem prejuízo (art. 794 da CLT)",
+        "Nulidade deve ser arguida na primeira oportunidade, sob pena de preclusão (art. 795)",
+        "Incompetência absoluta (em razão da matéria) pode ser declarada de ofício"
+      ],
+      "pegadinhas": [
+        "Após a Lei 13.467/2017 os prazos contam-se em DIAS ÚTEIS, e não mais em dias corridos",
+        "Confundir nulidade relativa (precisa de arguição e prejuízo) com nulidade absoluta declarável de ofício"
+      ],
+      "videoQuery": "atos prazos nulidades processo do trabalho CLT concurso aula",
+      "flashcards": [
+        {
+          "frente": "Como são contados os prazos processuais no processo do trabalho após a Reforma Trabalhista?",
+          "verso": "Em dias úteis, conforme o art. 775 da CLT (Lei 13.467/2017)."
+        },
+        {
+          "frente": "O que diz o princípio do prejuízo (pas de nullité sans grief) no processo do trabalho?",
+          "verso": "Não se declara nulidade de ato processual se dele não resultar prejuízo às partes (art. 794 da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre prazos e nulidades no processo do trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "Os prazos processuais trabalhistas são contados em dias corridos, sem alteração pela Reforma Trabalhista.",
+            "A nulidade processual será declarada ainda que não tenha havido prejuízo à parte interessada.",
+            "Os prazos processuais são contados em dias úteis, nos termos do art. 775 da CLT.",
+            "As nulidades não precisam ser arguidas, podendo a parte alegá-las a qualquer tempo sem preclusão.",
+            "Os atos processuais somente podem ser praticados aos sábados e domingos."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C: após a Lei 13.467/2017, o art. 775 da CLT determina a contagem dos prazos em dias úteis. A letra A está errada porque a Reforma justamente alterou a contagem. A letra B contraria o art. 794 (princípio do prejuízo). A letra D está errada porque, em regra, a nulidade deve ser arguida na primeira oportunidade (art. 795). A letra E está errada, pois os atos são praticados em dias úteis das 6h às 20h (art. 770).",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Determinada nulidade processual foi praticada no curso da reclamação trabalhista, sem que dela resultasse qualquer prejuízo à parte. Diante disso, segundo a CLT:",
+          "alternativas": [
+            "a nulidade deve ser sempre declarada, ainda que ausente prejuízo, por se tratar de matéria de ordem pública.",
+            "a nulidade não será pronunciada, pois não há nulidade sem prejuízo (art. 794 da CLT).",
+            "a nulidade pode ser arguida a qualquer tempo, não havendo preclusão para sua alegação.",
+            "a incompetência relativa deve ser declarada de ofício pelo juiz.",
+            "o reconhecimento da nulidade independe de manifestação da parte interessada em qualquer hipótese."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: o art. 794 da CLT consagra o princípio do prejuízo (pas de nullité sans grief), de modo que a nulidade só é declarada quando resultar manifesto prejuízo às partes. A letra A contraria esse princípio. A letra C está errada porque, em regra, a nulidade deve ser arguida na primeira oportunidade, sob pena de preclusão (art. 795). A letra D está errada, pois a incompetência relativa (territorial) não se declara de ofício; já a absoluta, sim. A letra E generaliza indevidamente, pois a regra exige arguição pela parte.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Reclamação trabalhista e procedimento",
+      "resumo": "A reclamação trabalhista é a petição inicial do processo do trabalho, podendo ser escrita ou verbal (art. 840 da CLT). Com a Reforma Trabalhista, a petição escrita passou a exigir, além do nome das partes e dos fatos, o pedido certo, determinado e com indicação de seu valor (art. 840, §1º). O ius postulandi permite que empregado e empregador reclamem pessoalmente, sem advogado, até o TRT (Súmula 425 do TST). Os procedimentos podem ser: ordinário (valor superior a 40 salários mínimos), sumaríssimo (até 40 salários mínimos, art. 852-A) e sumário/alçada (até 2 salários mínimos, em que a sentença é irrecorrível salvo matéria constitucional). No sumaríssimo, o pedido deve ser certo, determinado e líquido, vedada a citação por edital. O arquivamento ocorre quando o reclamante, ausente à audiência, não comparece (art. 844).",
+      "pontosChave": [
+        "Petição inicial trabalhista: reclamação escrita ou verbal (art. 840 da CLT)",
+        "Reforma exige pedido certo, determinado e com indicação de valor (art. 840, §1º)",
+        "Ius postulandi vai até o TRT (Súmula 425 do TST), não alcançando TST",
+        "Sumaríssimo: causas de até 40 salários mínimos (art. 852-A da CLT)",
+        "Ausência do reclamante à audiência gera arquivamento (art. 844 da CLT)"
+      ],
+      "pegadinhas": [
+        "O ius postulandi NÃO se aplica à ação rescisória, ação cautelar, mandado de segurança e recursos ao TST (Súmula 425 do TST)",
+        "Confundir os limites: sumaríssimo é até 40 salários mínimos; o procedimento sumário (alçada) é até 2 salários mínimos"
+      ],
+      "videoQuery": "reclamação trabalhista petição inicial procedimento sumaríssimo concurso aula",
+      "flashcards": [
+        {
+          "frente": "Até que instância vale o ius postulandi no processo do trabalho?",
+          "verso": "Até os Tribunais Regionais do Trabalho (TRT), conforme a Súmula 425 do TST; não alcança recursos de competência do TST."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito da reclamação trabalhista e dos procedimentos, assinale a alternativa correta:",
+          "alternativas": [
+            "A reclamação trabalhista somente pode ser apresentada por escrito.",
+            "O procedimento sumaríssimo aplica-se às causas de valor superior a 40 salários mínimos.",
+            "O ius postulandi autoriza a parte a atuar pessoalmente, inclusive em recurso de revista no TST.",
+            "Submetem-se ao procedimento sumaríssimo os dissídios individuais cujo valor não exceda a 40 vezes o salário mínimo (art. 852-A da CLT).",
+            "A ausência do reclamado à audiência inaugural acarreta o arquivamento da reclamação."
+          ],
+          "gabarito": 3,
+          "comentario": "Correta a letra D, nos termos do art. 852-A da CLT, que define o rito sumaríssimo para dissídios individuais de até 40 salários mínimos. A letra A está errada porque a reclamação pode ser verbal (art. 840). A letra B inverte o limite. A letra C está errada porque o ius postulandi não alcança o TST (Súmula 425 do TST). A letra E está errada porque a ausência do reclamado gera revelia/confissão; o arquivamento decorre da ausência do RECLAMANTE (art. 844).",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Audiência e conciliação",
+      "resumo": "A audiência é momento central do processo do trabalho, regida pelos princípios da oralidade e concentração dos atos. As propostas de conciliação são obrigatórias: a primeira após a abertura da audiência, antes da defesa (art. 846 da CLT), e a segunda após as razões finais, antes da sentença (art. 850). O não comparecimento do reclamante gera arquivamento e o do reclamado gera revelia e confissão quanto à matéria de fato (art. 844). Havendo acordo, este tem força de decisão irrecorrível, salvo para a Previdência Social quanto às contribuições devidas (art. 831, parágrafo único). As audiências devem realizar-se na sede do juízo, em dias úteis, das 8h às 18h, não podendo exceder cinco horas seguidas, salvo força maior (art. 813).",
+      "pontosChave": [
+        "Duas propostas obrigatórias de conciliação (arts. 846 e 850 da CLT)",
+        "Ausência do reclamante: arquivamento; ausência do reclamado: revelia e confissão (art. 844)",
+        "Termo de conciliação vale como decisão irrecorrível, salvo para a Previdência (art. 831, p. único)",
+        "Audiências em dias úteis, das 8h às 18h, máximo de 5 horas contínuas (art. 813)",
+        "Princípios da oralidade e concentração regem a audiência trabalhista"
+      ],
+      "pegadinhas": [
+        "O acordo homologado é irrecorrível PARA AS PARTES, mas a União/INSS pode recorrer quanto às contribuições previdenciárias (art. 831, p. único)",
+        "Lembrar que a Reforma (art. 844, §1º) permite, em alguns casos, o pagamento das custas para reproposição após arquivamento"
+      ],
+      "videoQuery": "audiência trabalhista conciliação revelia confissão CLT concurso aula",
+      "flashcards": [
+        {
+          "frente": "Quais as consequências da ausência das partes à audiência trabalhista?",
+          "verso": "Ausência do reclamante: arquivamento da reclamação; ausência do reclamado: revelia e confissão quanto à matéria de fato (art. 844 da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre a audiência e a conciliação no processo do trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "A proposta de conciliação é facultativa e ocorre apenas uma vez, ao final da instrução.",
+            "O termo de conciliação homologado é irrecorrível para as partes, mas a União pode recorrer quanto às contribuições previdenciárias.",
+            "A ausência do reclamado à audiência acarreta o arquivamento do processo.",
+            "As audiências podem ser realizadas em qualquer dia da semana, inclusive feriados, sem limite de horário.",
+            "A ausência do reclamante à audiência gera revelia e confissão ficta."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: o art. 831, parágrafo único, da CLT prevê que o termo de conciliação é decisão irrecorrível para as partes, ressalvada a possibilidade de recurso da Previdência Social quanto às contribuições que lhe forem devidas. A letra A está errada porque há duas propostas obrigatórias (arts. 846 e 850). A letra C inverte os efeitos do art. 844. A letra D contraria o art. 813 (dias úteis, das 8h às 18h). A letra E também inverte os efeitos: a ausência do reclamante gera arquivamento.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Em audiência una de instrução e julgamento, o reclamado, regularmente notificado, não compareceu nem se fez representar. Quanto a essa situação, é correto afirmar que ocorre:",
+          "alternativas": [
+            "o arquivamento da reclamação trabalhista.",
+            "a extinção do processo sem resolução do mérito por desídia do autor.",
+            "a revelia e a confissão quanto à matéria de fato (art. 844 da CLT).",
+            "a suspensão automática do processo por trinta dias.",
+            "a designação obrigatória de nova audiência, sem qualquer consequência ao ausente."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C: nos termos do art. 844 da CLT, o não comparecimento do reclamado à audiência importa revelia, além de confissão quanto à matéria de fato. A letra A está errada porque o arquivamento decorre da ausência do RECLAMANTE, não do reclamado. A letra B está errada pelo mesmo motivo, atribuindo a consequência ao autor. As letras D e E não encontram previsão legal para a hipótese.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Provas no processo do trabalho",
+      "resumo": "No processo do trabalho aplica-se a teoria da distribuição do ônus da prova, em regra cabendo ao reclamante provar o fato constitutivo de seu direito e ao reclamado os fatos impeditivos, modificativos ou extintivos (art. 818 da CLT, com redação da Reforma, alinhado ao CPC). A Reforma admitiu a distribuição dinâmica do ônus da prova por decisão fundamentada. São meios de prova o depoimento das partes, a prova testemunhal, documental e pericial. No procedimento ordinário cada parte pode levar até três testemunhas; no sumaríssimo, até duas (art. 821 e art. 852-H). A perícia é obrigatória nas ações que envolvam insalubridade e periculosidade (art. 195, §2º, da CLT). Vigoram o princípio do livre convencimento motivado e a aptidão para a prova. A confissão pode ser real ou ficta (decorrente da ausência ou da recusa em depor).",
+      "pontosChave": [
+        "Ônus da prova: art. 818 da CLT (fato constitutivo ao autor; impeditivo/modificativo/extintivo ao réu)",
+        "Reforma admitiu distribuição dinâmica do ônus da prova (art. 818, §1º)",
+        "Testemunhas: até 3 no ordinário e até 2 no sumaríssimo (arts. 821 e 852-H, §2º)",
+        "Perícia obrigatória em insalubridade e periculosidade (art. 195, §2º, da CLT)",
+        "Confissão ficta decorre da ausência da parte intimada para depor (Súmula 74 do TST)"
+      ],
+      "pegadinhas": [
+        "No sumaríssimo o número de testemunhas é DOIS, e não três como no ordinário",
+        "A distribuição dinâmica do ônus exige decisão FUNDAMENTADA e oportunidade de a parte se desincumbir do encargo"
+      ],
+      "videoQuery": "provas processo do trabalho ônus da prova testemunha perícia CLT concurso",
+      "flashcards": [
+        {
+          "frente": "Quantas testemunhas cada parte pode arrolar no processo do trabalho e quando a perícia é obrigatória?",
+          "verso": "Até 3 testemunhas no rito ordinário (art. 821) e até 2 no sumaríssimo (art. 852-H, §2º). A perícia é obrigatória nas ações sobre insalubridade e periculosidade (art. 195, §2º, da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Quanto às provas no processo do trabalho, é correto afirmar que:",
+          "alternativas": [
+            "No procedimento sumaríssimo cada parte pode arrolar até quatro testemunhas.",
+            "A prova pericial é facultativa nas ações que envolvam insalubridade e periculosidade.",
+            "Cabe ao reclamante provar todos os fatos, inclusive os impeditivos e extintivos do direito.",
+            "Admite-se a distribuição dinâmica do ônus da prova mediante decisão fundamentada (art. 818, §1º, da CLT).",
+            "A confissão ficta não é admitida no processo do trabalho."
+          ],
+          "gabarito": 3,
+          "comentario": "Correta a letra D: o art. 818, §1º, da CLT, com a redação da Reforma, permite ao juízo distribuir o ônus da prova de modo dinâmico, por decisão fundamentada. A letra A está errada porque no sumaríssimo são até 2 testemunhas (art. 852-H, §2º). A letra B contraria o art. 195, §2º (perícia obrigatória). A letra C está errada porque ao réu cabe provar fatos impeditivos, modificativos e extintivos (art. 818, II). A letra E está errada, pois a confissão ficta é admitida (Súmula 74 do TST).",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Recursos trabalhistas",
+      "resumo": "O sistema recursal trabalhista está regido principalmente pelo art. 893 e seguintes da CLT. Os recursos têm, em regra, efeito apenas devolutivo, permitindo a execução provisória (art. 899). Os principais recursos são: recurso ordinário (cabível das decisões definitivas ou terminativas das Varas e Tribunais, prazo de 8 dias); recurso de revista (das decisões dos TRTs em dissídios individuais, para o TST, exigindo prequestionamento e demonstração de divergência ou violação de lei, art. 896); agravo de petição (na execução, art. 897, 'a'); agravo de instrumento (para destrancar recurso denegado, art. 897, 'b'); embargos no TST; e embargos de declaração (5 dias, art. 897-A). O depósito recursal é pressuposto de admissibilidade dos recursos que impugnam condenação em pecúnia, dispensado para entes públicos e beneficiários da justiça gratuita. A Reforma instituiu a transcendência como filtro do recurso de revista (art. 896-A).",
+      "pontosChave": [
+        "Regra geral: prazo recursal de 8 dias (art. 6º da Lei 5.584/1970 e CLT)",
+        "Efeito meramente devolutivo dos recursos, autorizando execução provisória (art. 899)",
+        "Recurso de revista exige prequestionamento e transcendência (arts. 896 e 896-A)",
+        "Agravo de petição é o recurso próprio na fase de execução (art. 897, 'a')",
+        "Depósito recursal é pressuposto de admissibilidade; dispensado a entes públicos"
+      ],
+      "pegadinhas": [
+        "Embargos de declaração têm prazo de 5 DIAS, e não 8 (art. 897-A da CLT)",
+        "Não confundir agravo de petição (execução) com agravo de instrumento (destrancar recurso denegado)"
+      ],
+      "videoQuery": "recursos trabalhistas recurso ordinário recurso de revista agravo de petição concurso aula",
+      "flashcards": [
+        {
+          "frente": "Qual o recurso cabível contra decisão proferida na fase de execução trabalhista?",
+          "verso": "O agravo de petição (art. 897, alínea 'a', da CLT), no prazo de 8 dias."
+        },
+        {
+          "frente": "Qual o prazo dos embargos de declaração no processo do trabalho?",
+          "verso": "5 dias, conforme o art. 897-A da CLT."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre os recursos no processo do trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "Os recursos trabalhistas possuem, em regra, efeito suspensivo, impedindo a execução provisória.",
+            "O recurso cabível das decisões proferidas na execução é o recurso ordinário.",
+            "O agravo de petição é o recurso adequado para impugnar as decisões na fase de execução (art. 897, 'a', da CLT).",
+            "Os embargos de declaração devem ser opostos no prazo de oito dias.",
+            "O depósito recursal é exigido inclusive da Fazenda Pública e dos beneficiários da justiça gratuita."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C: o art. 897, alínea 'a', da CLT prevê o agravo de petição como recurso próprio das decisões do juiz na fase de execução. A letra A está errada porque a regra é o efeito meramente devolutivo (art. 899), permitindo execução provisória. A letra B está errada, pois na execução cabe agravo de petição, e não recurso ordinário. A letra D erra o prazo (são 5 dias, art. 897-A). A letra E está errada porque entes públicos e beneficiários da justiça gratuita são dispensados do depósito recursal.",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "O recurso de revista, no processo do trabalho, é endereçado ao Tribunal Superior do Trabalho e exige, entre outros pressupostos, a demonstração de:",
+          "alternativas": [
+            "exclusivamente erro material na decisão recorrida.",
+            "transcendência da causa e prequestionamento da matéria (arts. 896 e 896-A da CLT).",
+            "valor da causa superior a 60 salários mínimos.",
+            "ausência de advogado constituído nos autos.",
+            "interposição no prazo de 15 dias úteis."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: o recurso de revista (art. 896 da CLT) exige o prequestionamento da matéria e, após a Reforma Trabalhista, a demonstração da transcendência (art. 896-A), que pode ser econômica, política, social ou jurídica. As demais alternativas trazem requisitos inexistentes: não há limite de valor para a revista, ela não depende de erro material, o ius postulandi não chega ao TST e o prazo recursal trabalhista é de 8 dias.",
+          "banca": "CESPE",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Execução trabalhista",
+      "resumo": "A execução trabalhista busca a satisfação do crédito reconhecido em título executivo judicial (sentença) ou extrajudicial (termo de ajuste de conduta firmado perante o MPT e termo de conciliação firmado perante as Comissões de Conciliação Prévia). É regida pelos arts. 876 e seguintes da CLT, com aplicação subsidiária da Lei 6.830/1980 (execuções fiscais) e do CPC. A execução pode ser promovida de ofício pelo juiz nos casos em que as partes não estiverem representadas por advogado (art. 878, com redação da Reforma). Após a liquidação, o executado é citado para pagar ou garantir o juízo em 48 horas (art. 880). A defesa do executado é feita por embargos à execução no prazo de 5 dias, após garantido o juízo (art. 884). Da decisão dos embargos cabe agravo de petição. A Reforma criou o protesto e a inscrição em cadastros de inadimplentes como medidas coercitivas.",
+      "pontosChave": [
+        "Títulos executivos: judicial (sentença) e extrajudicial (TAC do MPT e termo de CCP) - art. 876 da CLT",
+        "Aplicação subsidiária da Lei 6.830/1980 e do CPC",
+        "Citação para pagar ou garantir o juízo em 48 horas (art. 880 da CLT)",
+        "Embargos à execução em 5 dias, após garantia do juízo (art. 884)",
+        "Da decisão dos embargos cabe agravo de petição (art. 897, 'a')"
+      ],
+      "pegadinhas": [
+        "Após a Reforma, a execução de ofício pelo juiz ficou restrita aos casos em que as partes NÃO têm advogado (art. 878)",
+        "O prazo para garantir o juízo/pagar é de 48 HORAS (art. 880); os embargos à execução têm prazo de 5 DIAS (art. 884)"
+      ],
+      "videoQuery": "execução trabalhista embargos à execução agravo de petição CLT concurso aula",
+      "flashcards": [
+        {
+          "frente": "Qual o prazo para o executado pagar ou garantir o juízo na execução trabalhista?",
+          "verso": "48 horas, contadas da citação (art. 880 da CLT)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre a execução no processo do trabalho, assinale a alternativa correta:",
+          "alternativas": [
+            "São títulos executivos extrajudiciais apenas as sentenças transitadas em julgado.",
+            "O executado é citado para pagar ou garantir o juízo no prazo de 15 dias.",
+            "Os embargos à execução podem ser opostos independentemente da garantia do juízo.",
+            "Após garantida a execução, o executado pode opor embargos à execução no prazo de 5 dias (art. 884 da CLT).",
+            "Da decisão dos embargos à execução cabe recurso ordinário."
+          ],
+          "gabarito": 3,
+          "comentario": "Correta a letra D: o art. 884 da CLT estabelece que, garantida a execução ou penhorados os bens, o executado pode apresentar embargos à execução no prazo de 5 dias. A letra A está errada porque a sentença é título judicial; extrajudiciais são o TAC do MPT e o termo de CCP. A letra B erra o prazo (são 48 horas, art. 880). A letra C contraria o art. 884 (garantia do juízo é pressuposto). A letra E está errada, pois da decisão dos embargos cabe agravo de petição (art. 897, 'a').",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

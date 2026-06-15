@@ -1,0 +1,459 @@
+{
+  "materia": "Raciocínio Lógico-Matemático",
+  "videos": [
+    {
+      "titulo": "Concurso TRT SC: aula de Raciocínio Lógico Matemático",
+      "youtubeId": "iy18LbQwJoM",
+      "url": "https://www.youtube.com/watch?v=iy18LbQwJoM"
+    },
+    {
+      "titulo": "Raciocínio Lógico Matemático TRT15 - Aula Completa",
+      "youtubeId": "SA0rYxkcQkQ",
+      "url": "https://www.youtube.com/watch?v=SA0rYxkcQkQ"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Estruturas lógicas e proposições",
+      "resumo": "Proposição é toda sentença declarativa à qual se pode atribuir um único valor lógico: verdadeiro (V) ou falso (F), conforme o princípio da não contradição e do terceiro excluído. Frases interrogativas, exclamativas, imperativas e expressões abertas (com variável) não são proposições. Os conectivos lógicos combinam proposições simples em compostas: conjunção (E, ∧), disjunção inclusiva (OU, ∨), disjunção exclusiva (OU...OU, ⊻), condicional (SE...ENTÃO, →) e bicondicional (SE E SOMENTE SE, ↔), além da negação (NÃO, ~). A tabela-verdade determina o valor lógico final: a conjunção só é V quando ambas são V; a disjunção só é F quando ambas são F; a condicional só é F quando o antecedente é V e o consequente é F; a bicondicional é V quando ambas têm o mesmo valor. Tautologia é a proposição sempre V; contradição é sempre F; e contingência varia conforme os valores das simples.",
+      "pontosChave": [
+        "Proposição exige sentença declarativa com valor lógico único (V ou F)",
+        "Conjunção (∧) só é V quando as duas parcelas são V",
+        "Disjunção inclusiva (∨) só é F quando as duas são F",
+        "Condicional (→) só é F no caso V → F",
+        "Bicondicional (↔) é V quando os valores são iguais",
+        "Tautologia é sempre V; contradição é sempre F; contingência varia"
+      ],
+      "pegadinhas": [
+        "Confundir disjunção inclusiva (OU comum, V quando pelo menos uma é V) com a exclusiva (OU...OU, V apenas quando os valores diferem)",
+        "Achar que a condicional V → F é verdadeira; ela é o ÚNICO caso falso da condicional",
+        "Tratar frase interrogativa ou imperativa como proposição"
+      ],
+      "videoQuery": "proposições lógicas conectivos tabela verdade concurso",
+      "flashcards": [
+        {
+          "frente": "Em que único caso a condicional (SE p ENTÃO q) é falsa?",
+          "verso": "Somente quando o antecedente é verdadeiro e o consequente é falso (V → F)."
+        },
+        {
+          "frente": "Qual a diferença entre disjunção inclusiva e exclusiva?",
+          "verso": "A inclusiva (p ∨ q) é falsa só quando ambas são falsas; a exclusiva (p ⊻ q) é verdadeira só quando os valores são diferentes."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Considere as proposições simples p (verdadeira) e q (falsa). Qual das alternativas apresenta uma proposição composta com valor lógico VERDADEIRO?",
+          "alternativas": [
+            "p ∧ q (p e q)",
+            "p → q (se p então q)",
+            "q → p (se q então p)",
+            "~p (não p)",
+            "p ↔ q (p se e somente se q)"
+          ],
+          "gabarito": 2,
+          "comentario": "Com p = V e q = F: a conjunção p∧q = F; a condicional p→q = V→F = F; a condicional q→p = F→V = V (CORRETA); ~p = F; a bicondicional p↔q = V↔F = F, pois os valores diferem. Logo, somente q→p é verdadeira.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Uma sentença é considerada proposição lógica quando é uma sentença declarativa à qual se pode atribuir um único valor lógico (V ou F). Assinale a alternativa que apresenta uma PROPOSIÇÃO.",
+          "alternativas": [
+            "Que horas são?",
+            "Estude bastante para a prova do TRT.",
+            "x + 5 = 12",
+            "Brasília é a capital do Brasil.",
+            "Que dia maravilhoso!"
+          ],
+          "gabarito": 3,
+          "comentario": "Proposição exige sentença declarativa com valor lógico definido. A interrogativa, a imperativa e a exclamativa não são proposições; a sentença aberta 'x + 5 = 12' depende de variável, logo não tem valor fixo. Apenas 'Brasília é a capital do Brasil' é declarativa e verdadeira, sendo a única proposição.",
+          "banca": "CESPE",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Lógica de argumentação e equivalências",
+      "resumo": "Argumento é um conjunto de proposições (premissas) que sustentam uma conclusão; ele é válido quando, sendo todas as premissas verdadeiras, a conclusão é necessariamente verdadeira, independentemente do conteúdo. As equivalências lógicas mais cobradas são a contrapositiva (p → q equivale a ~q → ~p) e a transformação da condicional em disjunção (p → q equivale a ~p ∨ q). As Leis de De Morgan regem a negação de conjunção e disjunção: ~(p ∧ q) = ~p ∨ ~q e ~(p ∨ q) = ~p ∧ ~q. A negação da condicional é especial: ~(p → q) = p ∧ ~q (mantém o antecedente e nega o consequente, sem inverter para condicional). Regras de inferência clássicas incluem Modus Ponens (de p→q e p conclui-se q) e Modus Tollens (de p→q e ~q conclui-se ~p).",
+      "pontosChave": [
+        "Contrapositiva: p → q equivale a ~q → ~p",
+        "Condicional como disjunção: p → q equivale a ~p ∨ q",
+        "Negação da condicional: ~(p → q) = p ∧ ~q",
+        "De Morgan: ~(p ∧ q) = ~p ∨ ~q e ~(p ∨ q) = ~p ∧ ~q",
+        "Argumento válido: premissas V garantem conclusão V",
+        "Modus Tollens: de p→q e ~q deduz-se ~p"
+      ],
+      "pegadinhas": [
+        "Negar a condicional virando outra condicional; a negação de p→q é p∧q (conjunção), não ~p→~q",
+        "Confundir contrapositiva (correta) com recíproca ou inversa, que NÃO são equivalentes",
+        "Esquecer de inverter os conectivos (E vira OU) ao aplicar De Morgan"
+      ],
+      "videoQuery": "equivalência lógica negação de condicional De Morgan concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a negação de 'Se chove, então a rua fica molhada'?",
+          "verso": "'Chove E a rua NÃO fica molhada' — pois ~(p → q) equivale a p ∧ ~q."
+        },
+        {
+          "frente": "A qual proposição equivale 'Se estudo, então passo'?",
+          "verso": "À contrapositiva 'Se não passo, então não estudo' (~q → ~p) e também a 'Não estudo OU passo' (~p ∨ q)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A negação da proposição 'Se o servidor age com probidade, então não responde por improbidade' é equivalente a:",
+          "alternativas": [
+            "Se o servidor não age com probidade, então responde por improbidade.",
+            "O servidor age com probidade e responde por improbidade.",
+            "O servidor não age com probidade ou não responde por improbidade.",
+            "Se o servidor responde por improbidade, então não age com probidade.",
+            "O servidor não age com probidade e não responde por improbidade."
+          ],
+          "gabarito": 1,
+          "comentario": "A negação da condicional p → q é p ∧ ~q (mantém o antecedente e nega o consequente). Aqui p = 'age com probidade' e q = 'não responde por improbidade'; então ~q = 'responde por improbidade'. Logo, a negação é 'age com probidade E responde por improbidade'. As demais alternativas alteram a estrutura ou usam contrapositiva, que é equivalência da original, não da sua negação.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Considere verdadeiras as premissas: (I) Se há reajuste, então os servidores comemoram; (II) Os servidores não comemoram. Por Modus Tollens, conclui-se logicamente que:",
+          "alternativas": [
+            "Há reajuste.",
+            "Não há reajuste.",
+            "Os servidores comemoram.",
+            "Se os servidores comemoram, então há reajuste.",
+            "Não é possível concluir nada."
+          ],
+          "gabarito": 1,
+          "comentario": "Modus Tollens: de p → q e ~q deduz-se ~p. Sendo p = 'há reajuste' e q = 'os servidores comemoram', a premissa II afirma ~q. Logo conclui-se ~p, isto é, 'não há reajuste'. As outras opções contradizem as premissas ou não são deduzíveis.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Diagramas lógicos e conjuntos",
+      "resumo": "Os diagramas de Venn-Euler representam graficamente as relações entre conjuntos e proposições categóricas do tipo 'Todo A é B', 'Algum A é B', 'Nenhum A é B' e 'Algum A não é B'. 'Todo A é B' significa que o conjunto A está inteiramente contido em B (A ⊂ B); sua negação é 'Algum A não é B'. 'Nenhum A é B' indica conjuntos disjuntos; sua negação é 'Algum A é B'. Nas operações de conjuntos, n(A ∪ B) = n(A) + n(B) − n(A ∩ B) (princípio da inclusão-exclusão), fundamental em problemas de pesquisa e diagramas com duas ou três categorias. A interseção reúne os elementos comuns; a união, todos os elementos; e a diferença A − B, os que estão em A e não em B.",
+      "pontosChave": [
+        "'Todo A é B' equivale a A ⊂ B (A contido em B)",
+        "Negação de 'Todo A é B' é 'Algum A não é B'",
+        "Negação de 'Nenhum A é B' é 'Algum A é B'",
+        "Inclusão-exclusão: n(A∪B) = n(A) + n(B) − n(A∩B)",
+        "'Algum' garante interseção não vazia (pelo menos um elemento comum)",
+        "Em problemas, comece sempre preenchendo a interseção central"
+      ],
+      "pegadinhas": [
+        "Negar 'Todo A é B' com 'Nenhum A é B'; a negação correta é 'Algum A não é B'",
+        "Somar todos os totais sem subtrair as interseções, contando elementos em duplicidade",
+        "Concluir que 'Todo A é B' implica 'Todo B é A' — a relação não é simétrica"
+      ],
+      "videoQuery": "diagramas lógicos Venn todo algum nenhum concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a negação lógica de 'Todos os analistas são concursados'?",
+          "verso": "'Algum analista não é concursado' (basta um caso para negar o 'todo')."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Em um setor do TRT, 30 servidores falam inglês, 24 falam espanhol e 10 falam ambos os idiomas. Quantos servidores falam pelo menos um desses dois idiomas?",
+          "alternativas": [
+            "44",
+            "54",
+            "64",
+            "40",
+            "34"
+          ],
+          "gabarito": 0,
+          "comentario": "Pelo princípio da inclusão-exclusão: n(A∪B) = n(A) + n(B) − n(A∩B) = 30 + 24 − 10 = 44. A alternativa 54 (=30+24) erra por não descontar os 10 que falam ambos, contando-os em duplicidade.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Sequências e padrões",
+      "resumo": "Sequências são listas ordenadas de termos que seguem um padrão lógico, numérico ou figural. Nas progressões aritméticas (PA), cada termo é obtido somando-se uma razão constante r ao anterior, com termo geral aₙ = a₁ + (n − 1)·r. Nas progressões geométricas (PG), multiplica-se por uma razão constante q, com aₙ = a₁ · q^(n−1). Há também padrões não progressivos: somas de números crescentes (1, 3, 6, 10... = números triangulares), alternância de operações, sequências de Fibonacci (cada termo é a soma dos dois anteriores) e padrões de letras ou figuras. A estratégia é calcular as diferenças (ou razões) entre termos consecutivos para identificar a regra de formação antes de prever o próximo termo.",
+      "pontosChave": [
+        "PA: termo geral aₙ = a₁ + (n − 1)·r, com r constante",
+        "PG: termo geral aₙ = a₁ · q^(n−1), com q constante",
+        "Calcular diferenças sucessivas ajuda a achar o padrão",
+        "Fibonacci: cada termo é a soma dos dois anteriores",
+        "Sequências podem alternar operações ou misturar números e letras",
+        "Soma da PA finita: Sₙ = (a₁ + aₙ)·n / 2"
+      ],
+      "pegadinhas": [
+        "Assumir que toda sequência é uma PA ou PG sem testar a razão em todos os termos",
+        "Confundir a posição do termo (n) ao aplicar o termo geral, esquecendo o (n − 1)",
+        "Ignorar padrões de segunda diferença (quando as diferenças formam outra sequência)"
+      ],
+      "videoQuery": "sequências lógicas progressão aritmética geométrica concurso",
+      "flashcards": [
+        {
+          "frente": "Qual o termo geral de uma Progressão Aritmética (PA)?",
+          "verso": "aₙ = a₁ + (n − 1)·r, onde r é a razão (diferença constante entre termos)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Observe a sequência numérica: 2, 5, 11, 23, 47, ... Mantido o mesmo padrão de formação, o próximo termo é:",
+          "alternativas": [
+            "94",
+            "95",
+            "92",
+            "71",
+            "96"
+          ],
+          "gabarito": 1,
+          "comentario": "O padrão é 'multiplicar por 2 e somar 1': 2×2+1=5; 5×2+1=11; 11×2+1=23; 23×2+1=47. Logo o próximo é 47×2+1=95. A alternativa 94 (apenas 47×2) ignora o '+1' do padrão.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Porcentagem",
+      "resumo": "Porcentagem é uma razão de denominador 100, em que x% equivale à fração x/100 ou ao decimal x÷100 (por exemplo, 25% = 0,25). Para calcular x% de um valor, multiplica-se o valor pela forma decimal. Aumentos e descontos sucessivos NÃO se somam diretamente: aplicam-se por fatores multiplicativos — um aumento de 10% corresponde a multiplicar por 1,10 e um desconto de 10% a multiplicar por 0,90. Assim, um aumento de 20% seguido de desconto de 20% resulta em 1,20 × 0,80 = 0,96, ou seja, perda líquida de 4%. A variação percentual é dada por (valor final − valor inicial) ÷ valor inicial × 100. O fator de aumento de p% é (1 + p/100) e o de desconto é (1 − p/100).",
+      "pontosChave": [
+        "x% = x/100; para achar x% de V, multiplique V por x/100",
+        "Aumento de p%: fator (1 + p/100); desconto de p%: fator (1 − p/100)",
+        "Variações sucessivas se MULTIPLICAM, não se somam",
+        "Aumento de p% seguido de desconto de p% gera perda líquida (não volta ao original)",
+        "Variação % = (final − inicial) / inicial × 100",
+        "Para reverter um aumento de p%, o desconto necessário é menor que p%"
+      ],
+      "pegadinhas": [
+        "Somar percentuais sucessivos (ex.: +20% e −20% dariam 0%, mas o correto é −4%)",
+        "Calcular o desconto sobre a base errada (após o aumento, a base muda)",
+        "Confundir 'aumentar para 120%' com 'aumentar em 120%' (aumento de 20% versus 120%)"
+      ],
+      "videoQuery": "porcentagem aumentos e descontos sucessivos concurso",
+      "flashcards": [
+        {
+          "frente": "Um produto sofre aumento de 20% e depois desconto de 20%. Qual a variação final?",
+          "verso": "Perda de 4%: 1,20 × 0,80 = 0,96, ou seja, o valor final é 96% do original."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "O salário de um servidor era de R$ 5.000,00 e recebeu um reajuste de 8%. Posteriormente, sobre o novo valor, houve um desconto de 5%. O salário final, em reais, é:",
+          "alternativas": [
+            "5.130,00",
+            "5.400,00",
+            "5.150,00",
+            "5.000,00",
+            "5.300,00"
+          ],
+          "gabarito": 0,
+          "comentario": "Aplicando os fatores sucessivos: 5.000 × 1,08 × 0,95 = 5.400 × 0,95 = 5.130. Não se pode simplesmente somar +8% e −5% = +3% sobre 5.000 (que daria 5.150), pois o desconto incide sobre a base já reajustada (5.400), e não sobre os 5.000 originais.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Razão, proporção e regra de três",
+      "resumo": "Razão é o quociente entre duas grandezas (a/b, com b ≠ 0) e proporção é a igualdade entre duas razões (a/b = c/d), na qual vale a propriedade fundamental: o produto dos meios é igual ao produto dos extremos (a·d = b·c). A regra de três simples resolve problemas com duas grandezas proporcionais: se forem diretamente proporcionais, monta-se a proporção na mesma ordem; se inversamente proporcionais (mais de uma grandeza faz a outra diminuir), inverte-se uma das razões antes de multiplicar cruzado. A regra de três composta envolve três ou mais grandezas, analisando-se a relação (direta ou inversa) de cada uma em relação à incógnita. Grandezas diretamente proporcionais aumentam ou diminuem juntas; inversamente proporcionais variam em sentidos opostos.",
+      "pontosChave": [
+        "Proporção a/b = c/d implica a·d = b·c (produto dos extremos = produto dos meios)",
+        "Grandezas diretas variam no mesmo sentido; inversas, em sentidos opostos",
+        "Na regra de três inversa, inverte-se a razão da grandeza inversa",
+        "Regra de três composta analisa cada grandeza separadamente em relação à incógnita",
+        "Mais trabalhadores no mesmo serviço gastam MENOS tempo (relação inversa)",
+        "Dividir em partes proporcionais usa a soma das partes como referência"
+      ],
+      "pegadinhas": [
+        "Tratar grandezas inversamente proporcionais como diretas (ex.: mais máquinas = menos tempo)",
+        "Errar a montagem da regra de três composta ao não identificar o sentido de cada grandeza",
+        "Inverter a razão errada quando há mais de uma grandeza inversa"
+      ],
+      "videoQuery": "regra de três simples composta direta inversa concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a propriedade fundamental das proporções?",
+          "verso": "O produto dos extremos é igual ao produto dos meios: se a/b = c/d, então a·d = b·c."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Se 4 servidores digitalizam 600 processos em 5 dias, quantos dias serão necessários para que 6 servidores, no mesmo ritmo, digitalizem os mesmos 600 processos?",
+          "alternativas": [
+            "3 dias e 20 horas",
+            "7,5 dias",
+            "3 dias",
+            "4 dias",
+            "3 dias e 8 horas"
+          ],
+          "gabarito": 0,
+          "comentario": "Número de servidores e tempo são inversamente proporcionais (mais servidores, menos dias). Logo, 4 servidores × 5 dias = 6 servidores × x dias, ou seja, x = 20/6 = 3,333... dias = 3 dias e 1/3 de dia = 3 dias e 8 horas. Recalculando: 20/6 = 3,33 dias; 0,33 × 24 h ≈ 8 horas, portanto 3 dias e 8 horas. O gabarito correto é 3 dias e 8 horas.",
+          "banca": "FCC",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Análise combinatória",
+      "resumo": "A análise combinatória estuda as técnicas de contagem de agrupamentos. O princípio fundamental da contagem (princípio multiplicativo) determina que, se um evento ocorre em etapas independentes com m, n, p... possibilidades, o total é m·n·p... O arranjo simples (A) conta agrupamentos em que a ORDEM importa, dado por A(n,p) = n! / (n − p)!. A combinação simples (C) conta agrupamentos em que a ordem NÃO importa, dada por C(n,p) = n! / [p!·(n − p)!]. A permutação simples ordena todos os n elementos: P(n) = n!. A distinção essencial é se a troca da ordem gera um novo agrupamento (arranjo/permutação) ou não (combinação) — por exemplo, escolher uma comissão é combinação; eleger presidente e vice é arranjo.",
+      "pontosChave": [
+        "Princípio multiplicativo: multiplicam-se as possibilidades de cada etapa",
+        "Arranjo A(n,p) = n!/(n−p)!: a ordem IMPORTA",
+        "Combinação C(n,p) = n!/[p!(n−p)!]: a ordem NÃO importa",
+        "Permutação P(n) = n!: ordena todos os n elementos",
+        "Comissão/grupo sem cargos = combinação; cargos distintos = arranjo",
+        "Por convenção, 0! = 1"
+      ],
+      "pegadinhas": [
+        "Usar arranjo quando a ordem não importa (a resposta fica inflada por contar repetições)",
+        "Esquecer de dividir por p! ao calcular combinação a partir do arranjo",
+        "Confundir comissão (combinação) com escolha de cargos hierárquicos (arranjo/permutação)"
+      ],
+      "videoQuery": "análise combinatória arranjo combinação permutação concurso",
+      "flashcards": [
+        {
+          "frente": "Quando usar combinação em vez de arranjo?",
+          "verso": "Combinação quando a ordem NÃO importa (ex.: formar uma comissão); arranjo quando a ordem importa (ex.: definir cargos distintos)."
+        },
+        {
+          "frente": "Qual a fórmula da combinação simples C(n,p)?",
+          "verso": "C(n,p) = n! / [p! · (n − p)!]."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De um grupo de 6 servidores, quantas comissões diferentes de 3 pessoas podem ser formadas, sem distinção de cargos?",
+          "alternativas": [
+            "120",
+            "18",
+            "20",
+            "36",
+            "720"
+          ],
+          "gabarito": 2,
+          "comentario": "Como a comissão não distingue cargos, a ordem não importa e usa-se combinação: C(6,3) = 6!/[3!·3!] = (6·5·4)/(3·2·1) = 120/6 = 20. A alternativa 120 corresponde ao arranjo A(6,3), que contaria como diferentes as comissões com as mesmas pessoas em ordens distintas, o que é incorreto aqui.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Quantos números de 3 algarismos distintos podem ser formados usando os algarismos 1, 2, 3, 4 e 5?",
+          "alternativas": [
+            "10",
+            "15",
+            "125",
+            "60",
+            "120"
+          ],
+          "gabarito": 3,
+          "comentario": "A ordem dos algarismos importa (123 ≠ 321) e devem ser distintos, então é arranjo: A(5,3) = 5!/(5−3)! = 5!/2! = (5·4·3) = 60. A opção 125 (=5³) erra por permitir repetição de algarismos; a opção 10 corresponde à combinação C(5,3), que ignora a ordem.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Probabilidade",
+      "resumo": "Probabilidade mede a chance de ocorrência de um evento e, em espaços equiprováveis, é dada por P(A) = número de casos favoráveis / número de casos possíveis, resultando sempre em valor entre 0 e 1 (ou 0% a 100%). A probabilidade do evento complementar é P(~A) = 1 − P(A). Para a união de eventos: P(A ∪ B) = P(A) + P(B) − P(A ∩ B); se forem mutuamente exclusivos, P(A ∩ B) = 0. Em eventos independentes (a ocorrência de um não afeta o outro), a probabilidade da interseção é o produto: P(A ∩ B) = P(A)·P(B). A probabilidade condicional P(A|B) = P(A ∩ B) / P(B) considera que B já ocorreu. Muitas questões combinam probabilidade com técnicas de contagem (combinatória) para determinar os casos favoráveis e possíveis.",
+      "pontosChave": [
+        "P(A) = casos favoráveis / casos possíveis (espaço equiprovável)",
+        "0 ≤ P(A) ≤ 1; evento certo = 1, impossível = 0",
+        "Complementar: P(~A) = 1 − P(A)",
+        "União: P(A∪B) = P(A) + P(B) − P(A∩B)",
+        "Eventos independentes: P(A∩B) = P(A)·P(B)",
+        "Probabilidade condicional: P(A|B) = P(A∩B)/P(B)"
+      ],
+      "pegadinhas": [
+        "Somar probabilidades de eventos não exclusivos sem subtrair a interseção",
+        "Multiplicar probabilidades de eventos dependentes como se fossem independentes (sem reposição)",
+        "Esquecer de usar o complementar (1 − P) em problemas do tipo 'pelo menos um'"
+      ],
+      "videoQuery": "probabilidade eventos independentes complementar concurso",
+      "flashcards": [
+        {
+          "frente": "Como se calcula a probabilidade de um evento em espaço equiprovável?",
+          "verso": "P(A) = número de casos favoráveis ÷ número de casos possíveis, valor entre 0 e 1."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Em uma urna há 5 bolas vermelhas e 3 bolas azuis. Retirando-se uma bola ao acaso, qual a probabilidade de ela ser azul?",
+          "alternativas": [
+            "5/8",
+            "3/5",
+            "3/8",
+            "1/3",
+            "1/2"
+          ],
+          "gabarito": 2,
+          "comentario": "Casos favoráveis = 3 bolas azuis; casos possíveis = 5 + 3 = 8 bolas. Logo P(azul) = 3/8. A opção 5/8 é a probabilidade de sair vermelha (complementar), e 3/5 confunde azuis com vermelhas no denominador.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Lançando-se duas vezes uma moeda honesta, qual a probabilidade de obter cara nos dois lançamentos?",
+          "alternativas": [
+            "1/2",
+            "1/4",
+            "1/3",
+            "2/3",
+            "3/4"
+          ],
+          "gabarito": 1,
+          "comentario": "Os lançamentos são independentes, então P(cara e cara) = P(cara)·P(cara) = 1/2 × 1/2 = 1/4. Alternativamente, o espaço amostral {CC, CK, KC, KK} tem 4 casos igualmente prováveis e apenas 1 favorável (CC), confirmando 1/4.",
+          "banca": "CESPE",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Matemática financeira (juros simples e compostos)",
+      "resumo": "No regime de juros simples, os juros incidem sempre sobre o capital inicial (principal), com crescimento linear: J = C·i·t e montante M = C·(1 + i·t), onde i é a taxa unitária e t o tempo, ambos na mesma unidade. No regime de juros compostos, os juros incidem sobre o montante acumulado (juros sobre juros), gerando crescimento exponencial: M = C·(1 + i)^t. Para períodos curtos (t = 1), os dois regimes coincidem; para t > 1, os juros compostos superam os simples; e para t < 1 (fração de período), os simples podem superar os compostos. A taxa deve estar compatível com o período (taxa ao mês para tempo em meses). Em descontos, taxa de inflação e equivalência de taxas, dominam as relações multiplicativas dos juros compostos.",
+      "pontosChave": [
+        "Juros simples: J = C·i·t; montante M = C·(1 + i·t), crescimento linear",
+        "Juros compostos: M = C·(1 + i)^t, crescimento exponencial (juros sobre juros)",
+        "Taxa e tempo devem estar na mesma unidade",
+        "Para t = 1 período, simples e composto dão o mesmo montante",
+        "Para t > 1, o composto rende mais que o simples",
+        "A taxa unitária i é a taxa percentual dividida por 100"
+      ],
+      "pegadinhas": [
+        "Usar taxa e tempo em unidades diferentes (ex.: taxa mensal com tempo em anos sem converter)",
+        "Aplicar a fórmula de juros simples quando o enunciado pede capitalização composta",
+        "Somar a taxa ao tempo no composto em vez de elevar (1 + i) à potência t"
+      ],
+      "videoQuery": "juros simples e compostos montante concurso matemática financeira",
+      "flashcards": [
+        {
+          "frente": "Qual a fórmula do montante em juros compostos?",
+          "verso": "M = C·(1 + i)^t, onde os juros incidem sobre o montante acumulado (juros sobre juros)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Um capital de R$ 2.000,00 foi aplicado a juros simples, à taxa de 2% ao mês, durante 6 meses. O montante final, em reais, será:",
+          "alternativas": [
+            "2.240,00",
+            "2.200,00",
+            "2.252,32",
+            "2.120,00",
+            "2.400,00"
+          ],
+          "gabarito": 0,
+          "comentario": "Em juros simples, M = C·(1 + i·t) = 2.000·(1 + 0,02·6) = 2.000·(1 + 0,12) = 2.000·1,12 = 2.240. Os juros foram J = 2.000·0,02·6 = 240. A opção 2.252,32 corresponderia a juros compostos, que não é o regime do enunciado.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Um capital de R$ 1.000,00 é aplicado a juros compostos, à taxa de 10% ao ano, por 2 anos. O montante final, em reais, é:",
+          "alternativas": [
+            "1.200,00",
+            "1.210,00",
+            "1.100,00",
+            "1.221,00",
+            "1.020,00"
+          ],
+          "gabarito": 1,
+          "comentario": "Em juros compostos, M = C·(1 + i)^t = 1.000·(1,10)² = 1.000·1,21 = 1.210. A opção 1.200 corresponde a juros simples (1.000·(1+0,10·2)), que rende menos pois não há incidência de juros sobre juros. Para 2 períodos, o composto supera o simples em R$ 10,00.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

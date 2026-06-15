@@ -1,0 +1,433 @@
+{
+  "materia": "Noções de Direito Constitucional",
+  "videos": [
+    {
+      "titulo": "Concurso TRT 22 - Analista Judiciário - Aula de Direito Constitucional - AlfaCon",
+      "youtubeId": "E6CuI8u0M5A",
+      "url": "https://www.youtube.com/watch?v=E6CuI8u0M5A"
+    },
+    {
+      "titulo": "Concurso TRT 9 Paraná - Analista Judiciário - Aula de Direito Constitucional - AlfaCon",
+      "youtubeId": "9W5MYkVWK5w",
+      "url": "https://www.youtube.com/watch?v=9W5MYkVWK5w"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Princípios fundamentais (arts. 1º a 4º)",
+      "resumo": "Os arts. 1º a 4º da CF/88 abrem o texto constitucional definindo a República Federativa do Brasil como Estado Democrático de Direito. O art. 1º enumera os fundamentos: soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa e pluralismo político, fixando ainda que todo poder emana do povo. O art. 2º consagra a separação dos Poderes (Legislativo, Executivo e Judiciário), independentes e harmônicos entre si. O art. 3º lista os objetivos fundamentais (construir sociedade livre, justa e solidária; garantir o desenvolvimento nacional; erradicar a pobreza e a marginalização; reduzir desigualdades; promover o bem de todos sem preconceitos). O art. 4º traz os princípios que regem as relações internacionais, com destaque para a prevalência dos direitos humanos e a busca da integração da América Latina.",
+      "pontosChave": [
+        "Fundamentos do art. 1º (mnemônico SO-CI-DI-VA-PLU): Soberania, Cidadania, Dignidade da pessoa humana, Valores sociais do trabalho e da livre iniciativa, Pluralismo político",
+        "Objetivos do art. 3º são verbos de ação (construir, garantir, erradicar, reduzir, promover) - normas programáticas",
+        "Princípios das relações internacionais (art. 4º) incluem prevalência dos direitos humanos, autodeterminação dos povos e repúdio ao terrorismo e ao racismo",
+        "Parágrafo único do art. 4º: o Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina",
+        "Art. 2º: Poderes independentes e harmônicos entre si (sistema de freios e contrapesos)"
+      ],
+      "pegadinhas": [
+        "Confundir FUNDAMENTOS (art. 1º) com OBJETIVOS (art. 3º): bancas trocam um item de uma lista pela outra. Erradicar a pobreza é OBJETIVO, não fundamento.",
+        "A concessão de asilo político e a prevalência dos direitos humanos são PRINCÍPIOS DAS RELAÇÕES INTERNACIONAIS (art. 4º), não fundamentos da República."
+      ],
+      "videoQuery": "princípios fundamentais CF 88 art 1 a 4 fundamentos objetivos concurso",
+      "flashcards": [
+        {
+          "frente": "Quais são os cinco fundamentos da República Federativa do Brasil (art. 1º)?",
+          "verso": "Soberania; Cidadania; Dignidade da pessoa humana; Valores sociais do trabalho e da livre iniciativa; Pluralismo político (mnemônico SO-CI-DI-VA-PLU)."
+        },
+        {
+          "frente": "Diferença entre os arts. 1º, 3º e 4º da CF/88.",
+          "verso": "Art. 1º = FUNDAMENTOS; Art. 3º = OBJETIVOS fundamentais; Art. 4º = PRINCÍPIOS que regem as relações internacionais."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca dos princípios fundamentais previstos nos arts. 1º a 4º da Constituição Federal de 1988, assinale a alternativa que apresenta um OBJETIVO fundamental da República Federativa do Brasil.",
+          "alternativas": [
+            "A soberania.",
+            "Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.",
+            "O pluralismo político.",
+            "A dignidade da pessoa humana.",
+            "A prevalência dos direitos humanos."
+          ],
+          "gabarito": 1,
+          "comentario": "Os objetivos fundamentais estão no art. 3º e são expressos por verbos de ação. \"Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais\" é o objetivo do art. 3º, III. As alternativas A, C e D são FUNDAMENTOS (art. 1º), e a E é PRINCÍPIO das relações internacionais (art. 4º, II). A banca explora justamente a troca entre as três listas.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Segundo o art. 4º da CF/88, que rege as relações internacionais do Brasil, considere: I. Independência nacional. II. Prevalência dos direitos humanos. III. Concessão de asilo político. IV. Construção de uma sociedade livre, justa e solidária. Estão CORRETAMENTE indicados como princípios das relações internacionais APENAS os itens:",
+          "alternativas": [
+            "I, II e III.",
+            "I e IV.",
+            "II, III e IV.",
+            "I, III e IV.",
+            "II e IV."
+          ],
+          "gabarito": 0,
+          "comentario": "O art. 4º elenca, entre seus incisos, a independência nacional (I), a prevalência dos direitos humanos (II) e a concessão de asilo político (X). O item IV (\"construir uma sociedade livre, justa e solidária\") é OBJETIVO fundamental do art. 3º, I, e não princípio das relações internacionais. Logo, corretos apenas I, II e III.",
+          "banca": "FCC",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Direitos e garantias fundamentais (art. 5º)",
+      "resumo": "O art. 5º da CF/88 assegura a todos, brasileiros e estrangeiros residentes no País, a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. O caput consagra o princípio da igualdade (homens e mulheres são iguais em direitos e obrigações). Os 78 incisos detalham direitos individuais e coletivos: legalidade (II), vedação à tortura (III), liberdade de manifestação do pensamento com vedação ao anonimato (IV), liberdade religiosa, inviolabilidade do domicílio (XI), sigilo de correspondência e comunicações (XII), devido processo legal, contraditório e ampla defesa (LIV e LV) e os remédios constitucionais (habeas corpus, mandado de segurança, mandado de injunção, habeas data e ação popular). O § 1º estabelece aplicabilidade imediata das normas definidoras de direitos fundamentais, e o § 2º consagra a não taxatividade do rol. O § 3º permite que tratados sobre direitos humanos aprovados em dois turnos, por 3/5, em cada Casa, tenham status de emenda constitucional.",
+      "pontosChave": [
+        "Destinatários: brasileiros e estrangeiros residentes - mas o STF estende a proteção a estrangeiros não residentes e apátridas em território nacional",
+        "Remédios constitucionais: HC (liberdade de locomoção), MS (direito líquido e certo não amparado por HC ou HD), MI (omissão regulamentadora), HD (informações pessoais) e ação popular (anular ato lesivo ao patrimônio público)",
+        "§ 1º: normas definidoras de direitos e garantias fundamentais têm aplicação imediata",
+        "§ 3º: tratados de direitos humanos aprovados em 2 turnos, 3/5 dos votos, em cada Casa do Congresso = equivalência a emenda constitucional",
+        "A casa é asilo inviolável (XI): entrada sem consentimento só em flagrante delito, desastre, para prestar socorro ou, durante o dia, por determinação judicial",
+        "Princípio da inafastabilidade da jurisdição (XXXV): a lei não excluirá da apreciação do Judiciário lesão ou ameaça a direito"
+      ],
+      "pegadinhas": [
+        "A prática do RACISMO e a ação de grupos armados contra a ordem constitucional são crimes IMPRESCRITÍVEIS; já os crimes de tortura, tráfico e terrorismo são INAFIANÇÁVEIS e INSUSCETÍVEIS DE GRAÇA/ANISTIA, mas NÃO imprescritíveis.",
+        "Mandado de injunção pressupõe FALTA de norma regulamentadora; mandado de segurança pressupõe norma existente e direito líquido e certo. Bancas trocam os dois.",
+        "Nem todo direito do art. 5º é absoluto: a casa é inviolável, mas há exceções (flagrante, desastre, socorro e ordem judicial durante o dia)."
+      ],
+      "videoQuery": "direitos garantias fundamentais art 5 remédios constitucionais concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Quais crimes a CF/88 (art. 5º) considera IMPRESCRITÍVEIS?",
+          "verso": "A prática do racismo (XLII) e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático (XLIV). São inafiançáveis e imprescritíveis."
+        },
+        {
+          "frente": "Qual o quórum para um tratado de direitos humanos equivaler a emenda constitucional (§ 3º do art. 5º)?",
+          "verso": "Aprovação em cada Casa do Congresso, em dois turnos, por três quintos (3/5) dos votos dos respectivos membros."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com o art. 5º da CF/88, assinale a alternativa correta sobre os direitos e garantias fundamentais.",
+          "alternativas": [
+            "A casa é asilo inviolável do indivíduo, sendo vedada qualquer hipótese de ingresso sem o consentimento do morador.",
+            "É livre a manifestação do pensamento, sendo permitido o anonimato.",
+            "São inafiançáveis e imprescritíveis a prática do racismo e a ação de grupos armados contra a ordem constitucional e o Estado Democrático.",
+            "As normas definidoras dos direitos e garantias fundamentais dependem de regulamentação para produzir efeitos.",
+            "A pena de morte é, em qualquer hipótese, vedada no ordenamento brasileiro."
+          ],
+          "gabarito": 2,
+          "comentario": "A alternativa C reproduz os incisos XLII e XLIV combinados: racismo e ação de grupos armados contra a ordem constitucional são inafiançáveis e imprescritíveis. A) Errada: há exceções (flagrante, desastre, socorro e, durante o dia, ordem judicial - inciso XI). B) Errada: a manifestação é livre, mas é VEDADO o anonimato (IV). D) Errada: o § 1º garante aplicação imediata. E) Errada: a CF admite pena de morte em caso de guerra declarada (art. 5º, XLVII, a).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Maria descobriu que determinado órgão público mantém registros pessoais sobre ela e deseja conhecer e, se necessário, retificar essas informações. O remédio constitucional adequado é o:",
+          "alternativas": [
+            "habeas corpus.",
+            "mandado de segurança coletivo.",
+            "mandado de injunção.",
+            "habeas data.",
+            "ação popular."
+          ],
+          "gabarito": 3,
+          "comentario": "O habeas data (art. 5º, LXXII) destina-se a assegurar o conhecimento e a retificação de informações relativas à pessoa do impetrante constantes de registros ou bancos de dados de entidades governamentais ou de caráter público. O HC protege a liberdade de locomoção; o MI supre falta de norma regulamentadora; o MS tutela direito líquido e certo não amparado por HC ou HD; a ação popular visa anular ato lesivo ao patrimônio público.",
+          "banca": "FGV",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Direitos sociais",
+      "resumo": "Os direitos sociais estão previstos a partir do art. 6º da CF/88: educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados. São direitos de segunda geração, que exigem prestações positivas do Estado. O art. 7º lista os direitos dos trabalhadores urbanos e rurais, como salário mínimo nacionalmente unificado, FGTS, décimo terceiro salário, jornada não superior a 8 horas diárias e 44 semanais, repouso semanal remunerado, férias com 1/3, licença-maternidade de 120 dias e licença-paternidade. Os arts. 8º a 11 tratam da liberdade de associação sindical, do direito de greve e da participação dos trabalhadores. Tema sensível para o TRT por sua proximidade com o Direito do Trabalho.",
+      "pontosChave": [
+        "Art. 6º: direitos sociais são de SEGUNDA geração - exigem prestações positivas (fazer) do Estado",
+        "Rol do art. 6º: Educação, Saúde, Alimentação, Trabalho, Moradia, Transporte, Lazer, Segurança, Previdência, Proteção à maternidade e infância e Assistência aos desamparados",
+        "Direitos do art. 7º: salário mínimo, FGTS, 13º salário, jornada de 8h/44h semanais, repouso semanal remunerado, férias + 1/3, licença-maternidade (120 dias)",
+        "Art. 8º: livre associação profissional ou sindical, vedada ao Poder Público a interferência na organização sindical (autonomia sindical)",
+        "Art. 9º: o direito de greve é assegurado, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e os interesses a defender"
+      ],
+      "pegadinhas": [
+        "MORADIA e TRANSPORTE foram incluídos no art. 6º por emendas posteriores (EC 26/2000 e EC 90/2015); bancas perguntam se constam do rol - hoje constam expressamente.",
+        "A licença-maternidade constitucional é de 120 dias (art. 7º, XVIII), não confunda com prazos de leis específicas de prorrogação (ex.: programa empresa cidadã).",
+        "Salário mínimo é nacionalmente UNIFICADO e fixado em lei; é vedada sua vinculação para qualquer fim."
+      ],
+      "videoQuery": "direitos sociais art 6 e 7 CF 88 direitos trabalhadores concurso",
+      "flashcards": [
+        {
+          "frente": "Cite os direitos sociais expressos no caput do art. 6º da CF/88.",
+          "verso": "Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência social, proteção à maternidade e à infância e assistência aos desamparados."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos do art. 7º da Constituição Federal, é direito dos trabalhadores urbanos e rurais:",
+          "alternativas": [
+            "jornada de trabalho não superior a dez horas diárias e cinquenta semanais.",
+            "duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais.",
+            "férias anuais sem acréscimo sobre a remuneração normal.",
+            "licença-maternidade com a duração de sessenta dias.",
+            "vinculação do salário mínimo para todos os fins legais."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 7º, XIII, fixa a duração do trabalho normal em não superior a 8 horas diárias e 44 semanais. A) Errada: os limites são 8h/44h, não 10h/50h. C) Errada: as férias têm acréscimo de pelo menos um terço sobre a remuneração (inciso XVII). D) Errada: a licença-maternidade é de 120 dias (inciso XVIII). E) Errada: é vedada a vinculação do salário mínimo para qualquer fim (inciso IV).",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre os direitos sociais previstos na Constituição Federal, assinale a alternativa correta.",
+          "alternativas": [
+            "Os direitos sociais são classificados como direitos de primeira geração, ligados às liberdades negativas.",
+            "São direitos sociais, entre outros, a educação, a saúde, a moradia, o transporte e a previdência social.",
+            "O direito de greve dos trabalhadores em geral foi expressamente suprimido pela Constituição de 1988.",
+            "É facultado ao Poder Público interferir e intervir livremente na organização sindical.",
+            "A proteção à maternidade e à infância não consta do rol de direitos sociais."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 6º arrola, entre os direitos sociais, a educação, a saúde, a moradia, o transporte e a previdência social. A) Errada: direitos sociais são de SEGUNDA geração (prestações positivas/igualdade). C) Errada: o direito de greve é assegurado (art. 9º). D) Errada: o art. 8º, I, veda ao Poder Público a interferência e a intervenção na organização sindical. E) Errada: a proteção à maternidade e à infância integra expressamente o rol do art. 6º.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Organização do Estado e da Administração",
+      "resumo": "A organização político-administrativa da República, regida pelo art. 18 da CF/88, compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos. A autonomia dos entes manifesta-se pela capacidade de auto-organização, autogoverno, autoadministração e autolegislação. A CF reparte competências em materiais (administrativas) e legislativas, que podem ser exclusivas, privativas (delegáveis), comuns (art. 23, cumulativas a todos os entes) e concorrentes (art. 24, União fixa normas gerais e Estados suplementam). O art. 19 veda aos entes federativos, entre outras condutas, estabelecer cultos religiosos ou criar distinções entre brasileiros. A intervenção (federal, do art. 34, e estadual, do art. 35) é medida excepcional que afasta temporariamente a autonomia de um ente em hipóteses taxativas, como a manutenção da integridade nacional.",
+      "pontosChave": [
+        "Entes federativos (art. 18): União, Estados, DF e Municípios - todos autônomos (a federação brasileira inclui os Municípios como ente autônomo)",
+        "Competência COMUM (art. 23): material/administrativa, exercida cumulativamente por todos os entes",
+        "Competência CONCORRENTE (art. 24): legislativa - União edita normas GERAIS e Estados/DF SUPLEMENTAM; Municípios não constam do caput do art. 24",
+        "Competência privativa (art. 22, União) admite DELEGAÇÃO a Estados por lei complementar; competência exclusiva é indelegável",
+        "Intervenção é medida excepcional e taxativa: federal (art. 34) sobre Estados/DF; estadual (art. 35) sobre Municípios"
+      ],
+      "pegadinhas": [
+        "No art. 24 (competência concorrente) os MUNICÍPIOS não estão no caput; eles legislam por competência suplementar do art. 30, II. Banca afirma erroneamente que Municípios têm competência concorrente nos termos do art. 24.",
+        "Competência PRIVATIVA (delegável por LC) x EXCLUSIVA (indelegável): o termo é cobrado com rigor técnico.",
+        "A autonomia dos entes NÃO se confunde com soberania (atributo apenas da República Federativa do Brasil no plano internacional)."
+      ],
+      "videoQuery": "organização do Estado federação competências art 18 23 24 CF concurso",
+      "flashcards": [
+        {
+          "frente": "Na competência legislativa concorrente (art. 24), como se divide a atuação entre União e Estados?",
+          "verso": "À União cabe estabelecer normas GERAIS; aos Estados e ao DF cabe a competência SUPLEMENTAR. Inexistindo lei federal de normas gerais, os Estados exercem competência legislativa plena."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre a organização político-administrativa do Estado brasileiro, assinale a alternativa correta conforme a CF/88.",
+          "alternativas": [
+            "A União, os Estados, o Distrito Federal e os Municípios são entes soberanos.",
+            "No âmbito da legislação concorrente, a competência da União limita-se a estabelecer normas gerais.",
+            "A competência material comum do art. 23 é exercida exclusivamente pela União.",
+            "Os Municípios possuem competência legislativa concorrente nos exatos termos do caput do art. 24.",
+            "A intervenção federal pode ocorrer livremente, a critério do Presidente da República, em qualquer hipótese."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 24, § 1º, dispõe que, no âmbito da legislação concorrente, a competência da União limita-se a estabelecer normas gerais. A) Errada: os entes são AUTÔNOMOS, não soberanos. C) Errada: a competência comum (art. 23) é cumulativa de TODOS os entes. D) Errada: o caput do art. 24 não inclui os Municípios; eles atuam por competência suplementar (art. 30, II). E) Errada: a intervenção é medida excepcional, cabível apenas nas hipóteses taxativas do art. 34.",
+          "banca": "CESPE",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Administração Pública (art. 37)",
+      "resumo": "O art. 37 da CF/88 submete a Administração Pública direta e indireta de qualquer dos Poderes da União, Estados, DF e Municípios aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência (mnemônico LIMPE). A investidura em cargo ou emprego público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração. O prazo de validade do concurso é de até dois anos, prorrogável uma vez por igual período. A lei reservará percentual de cargos para pessoas com deficiência. A não observância dos princípios e regras gera responsabilização. O § 6º consagra a responsabilidade civil OBJETIVA do Estado pelos danos que seus agentes causarem a terceiros, assegurado o direito de regresso contra o agente responsável nos casos de dolo ou culpa.",
+      "pontosChave": [
+        "Princípios expressos da Administração (art. 37, caput): Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (LIMPE) - eficiência incluída pela EC 19/1998",
+        "Investidura depende de concurso público de provas ou de provas e títulos, salvo cargos em comissão de livre nomeação e exoneração",
+        "Prazo de validade do concurso: até 2 anos, prorrogável UMA vez por igual período (art. 37, III)",
+        "Responsabilidade civil do Estado (§ 6º): OBJETIVA (independe de culpa) perante o terceiro; direito de regresso contra o agente exige DOLO ou CULPA",
+        "Vedação ao nepotismo decorre dos princípios da moralidade e impessoalidade (Súmula Vinculante 13 do STF)",
+        "Acumulação remunerada de cargos é vedada, salvo exceções (ex.: dois cargos de professor; um de professor com outro técnico/científico; dois cargos privativos de profissionais de saúde com profissões regulamentadas)"
+      ],
+      "pegadinhas": [
+        "A responsabilidade do Estado perante a vítima é OBJETIVA (teoria do risco administrativo); a do agente perante o Estado (regresso) é SUBJETIVA (exige dolo ou culpa). Banca inverte os termos.",
+        "O concurso é válido por até 2 anos, prorrogável UMA vez - não 'tantas vezes quantas a Administração quiser'.",
+        "Eficiência foi acrescentada pela EC 19/98; não constava da redação original de 1988."
+      ],
+      "videoQuery": "administração pública art 37 princípios LIMPE concurso responsabilidade do Estado",
+      "flashcards": [
+        {
+          "frente": "Quais os cinco princípios expressos da Administração Pública no caput do art. 37 da CF/88?",
+          "verso": "Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (mnemônico LIMPE). A eficiência foi incluída pela EC 19/1998."
+        },
+        {
+          "frente": "Qual a natureza da responsabilidade civil do Estado e do agente público (art. 37, § 6º)?",
+          "verso": "Do Estado perante o terceiro: OBJETIVA (risco administrativo, independe de culpa). Do agente perante o Estado, em ação de regresso: SUBJETIVA (exige dolo ou culpa)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito do regime constitucional da Administração Pública (art. 37 da CF/88), é correto afirmar que:",
+          "alternativas": [
+            "os princípios expressos são apenas a legalidade, a moralidade e a publicidade.",
+            "a investidura em qualquer cargo público independe de concurso, bastando ato de nomeação.",
+            "o prazo de validade do concurso público é de até dois anos, prorrogável uma vez por igual período.",
+            "a responsabilidade civil do Estado perante terceiros é subjetiva, exigindo prova de dolo ou culpa do agente.",
+            "é livre e ilimitada a acumulação remunerada de cargos públicos."
+          ],
+          "gabarito": 2,
+          "comentario": "O art. 37, III, fixa o prazo de validade do concurso em até dois anos, prorrogável uma vez por igual período. A) Errada: os princípios expressos são cinco (LIMPE - legalidade, impessoalidade, moralidade, publicidade e eficiência). B) Errada: a investidura depende de concurso, salvo cargos em comissão. D) Errada: a responsabilidade do Estado perante o terceiro é OBJETIVA (§ 6º). E) Errada: a acumulação é vedada, salvo as exceções constitucionais (art. 37, XVI).",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Durante uma operação, agente público estatal causa, por culpa, dano a um particular. Sobre a responsabilidade civil prevista no art. 37, § 6º, da CF/88, assinale a alternativa correta.",
+          "alternativas": [
+            "O particular deverá provar a culpa do agente para obter indenização do Estado.",
+            "O Estado responde objetivamente perante o particular e tem direito de regresso contra o agente que agiu com dolo ou culpa.",
+            "A responsabilidade do Estado é sempre subsidiária à do agente.",
+            "Não há direito de regresso do Estado contra o agente em nenhuma hipótese.",
+            "A responsabilidade do agente perante o Estado é objetiva."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 37, § 6º, adota a responsabilidade OBJETIVA do Estado (teoria do risco administrativo): a vítima não precisa provar culpa, basta demonstrar conduta, dano e nexo causal. Assegura-se ao Estado o direito de regresso contra o agente nos casos de dolo ou culpa (responsabilidade subjetiva do agente). Por isso, A, C, D e E contrariam o dispositivo.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Poder Judiciário",
+      "resumo": "O Poder Judiciário é tratado nos arts. 92 a 126 da CF/88. São seus órgãos: STF, CNJ, STJ, Tribunais Regionais Federais e juízes federais, Tribunais e juízes do Trabalho, Tribunais e juízes Eleitorais, Tribunais e juízes Militares e Tribunais e juízes dos Estados. A magistratura possui garantias de independência: vitaliciedade (após dois anos de exercício para o primeiro grau), inamovibilidade e irredutibilidade de subsídios. O ingresso na carreira da magistratura dá-se por concurso público de provas e títulos, com a participação da OAB. A regra do quinto constitucional (art. 94) reserva um quinto dos lugares nos TRFs, TRTs e Tribunais dos Estados a advogados e membros do Ministério Público. A Justiça do Trabalho (arts. 111 a 116) compõe-se do TST, dos TRTs e dos Juízes do Trabalho, sendo o ramo mais relevante para o concurso do TRT.",
+      "pontosChave": [
+        "Órgãos do Judiciário (art. 92): STF, CNJ, STJ, TST (incluído pela EC 92/2016), TRFs e juízes federais, Tribunais e juízes do Trabalho, Eleitorais, Militares e dos Estados/DF",
+        "Garantias da magistratura: vitaliciedade, inamovibilidade e irredutibilidade de subsídio (art. 95)",
+        "Vitaliciedade no primeiro grau só se adquire após DOIS anos de exercício; no período, perda do cargo por deliberação do tribunal",
+        "Quinto constitucional (art. 94): 1/5 dos lugares nos TRFs, TRTs e TJs reservado a advogados e membros do MP, com mais de 10 anos de carreira/efetiva atividade",
+        "Justiça do Trabalho (arts. 111-116): composta por TST, TRTs e Juízes do Trabalho; foco do concurso TRT",
+        "Princípios: motivação das decisões e publicidade dos julgamentos (art. 93, IX); inafastabilidade do controle judicial"
+      ],
+      "pegadinhas": [
+        "A vitaliciedade no PRIMEIRO grau só é adquirida após dois anos de exercício; magistrados que ingressam diretamente em tribunais (quinto) adquirem vitaliciedade desde a posse. Banca confunde os prazos.",
+        "O CNJ integra o Poder Judiciário (art. 92, I-A), mas NÃO exerce função jurisdicional - é órgão de controle administrativo e financeiro.",
+        "Quinto constitucional exige mais de DEZ anos de carreira (MP) ou de efetiva atividade profissional (advogados); bancas alteram o número de anos."
+      ],
+      "videoQuery": "poder judiciário órgãos garantias magistratura quinto constitucional art 92 95 concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Quais são as três garantias constitucionais da magistratura (art. 95)?",
+          "verso": "Vitaliciedade (no 1º grau, após 2 anos de exercício), inamovibilidade e irredutibilidade de subsídio."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca do Poder Judiciário na CF/88, assinale a alternativa correta.",
+          "alternativas": [
+            "A vitaliciedade do magistrado de primeiro grau é adquirida no momento da posse.",
+            "São garantias da magistratura a vitaliciedade, a inamovibilidade e a irredutibilidade de subsídio.",
+            "O Conselho Nacional de Justiça exerce típica função jurisdicional de revisão de decisões judiciais.",
+            "O quinto constitucional reserva metade dos lugares dos tribunais a advogados e membros do Ministério Público.",
+            "O ingresso na carreira da magistratura dispensa concurso público quando houver notório saber jurídico."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 95 estabelece como garantias dos juízes a vitaliciedade, a inamovibilidade e a irredutibilidade de subsídio. A) Errada: no primeiro grau a vitaliciedade só é adquirida após dois anos de exercício. C) Errada: o CNJ é órgão de controle administrativo, financeiro e disciplinar, sem função jurisdicional. D) Errada: o quinto constitucional reserva 1/5 (um quinto), não a metade. E) Errada: o ingresso na carreira (1º grau) exige concurso público de provas e títulos (art. 93, I).",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "A Justiça do Trabalho, órgão do Poder Judiciário da União, é composta pelos seguintes órgãos:",
+          "alternativas": [
+            "Supremo Tribunal Federal, Superior Tribunal de Justiça e Juízes do Trabalho.",
+            "Tribunal Superior do Trabalho, Tribunais Regionais do Trabalho e Juízes do Trabalho.",
+            "Superior Tribunal do Trabalho, Tribunais Regionais Federais e Juízes Federais.",
+            "Conselho Nacional de Justiça, Tribunais Regionais do Trabalho e Juízes Estaduais.",
+            "Tribunal Superior do Trabalho e exclusivamente os Tribunais Regionais do Trabalho."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 111 da CF/88 dispõe que são órgãos da Justiça do Trabalho o Tribunal Superior do Trabalho (TST), os Tribunais Regionais do Trabalho (TRTs) e os Juízes do Trabalho. As demais alternativas inserem órgãos estranhos a esse ramo (STF, STJ, TRFs, CNJ) ou excluem os juízes do trabalho, contrariando o dispositivo.",
+          "banca": "FGV",
+          "dificuldade": 1
+        }
+      ]
+    },
+    {
+      "nome": "Conselho Nacional de Justiça (CNJ)",
+      "resumo": "O CNJ foi criado pela EC 45/2004 (Reforma do Judiciário) e está disciplinado no art. 103-B da CF/88. Integra o Poder Judiciário (art. 92, I-A), mas exerce funções de controle da atuação administrativa e financeira do Judiciário e do cumprimento dos deveres funcionais dos juízes, SEM exercer jurisdição. Compõe-se de 15 membros, com mandato de 2 anos, admitida uma recondução. É presidido pelo Presidente do STF. Sua composição inclui magistrados de diferentes graus e ramos, membros do Ministério Público, advogados indicados pela OAB e dois cidadãos de notável saber jurídico e reputação ilibada (indicados pela Câmara dos Deputados e pelo Senado Federal). Entre suas competências estão zelar pela autonomia do Judiciário e pelo cumprimento do Estatuto da Magistratura, receber reclamações contra membros e órgãos do Judiciário e rever, de ofício ou mediante provocação, processos disciplinares.",
+      "pontosChave": [
+        "Criado pela EC 45/2004; previsto no art. 103-B; integra o Poder Judiciário (art. 92, I-A), mas NÃO tem função jurisdicional",
+        "Composição: 15 membros, mandato de 2 anos, admitida UMA recondução",
+        "Presidido pelo Presidente do STF; nas ausências e impedimentos, pelo Vice-Presidente do STF",
+        "Inclui dois cidadãos de notável saber jurídico e reputação ilibada (um indicado pela Câmara, outro pelo Senado) e dois advogados (indicados pela OAB)",
+        "Competência: controle administrativo, financeiro e disciplinar do Judiciário, exceto sobre o STF (o STF não se sujeita ao CNJ)",
+        "Atua mediante reclamações; pode rever processos disciplinares de juízes e membros de tribunais"
+      ],
+      "pegadinhas": [
+        "O CNJ controla órgãos e juízes do Judiciário, MAS NÃO exerce controle sobre o STF (o STF está acima do CNJ); ações contra o CNJ são julgadas pelo STF.",
+        "O CNJ NÃO exerce função jurisdicional - é controle administrativo. Banca afirma que o CNJ revisa o mérito de decisões judiciais (falso).",
+        "São 15 membros, mandato de 2 anos com UMA recondução - bancas alteram o número de membros ou o número de reconduções."
+      ],
+      "videoQuery": "Conselho Nacional de Justiça CNJ composição competência art 103-B EC 45 concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a composição e o mandato dos membros do CNJ (art. 103-B)?",
+          "verso": "15 membros, com mandato de 2 anos, admitida uma recondução. É presidido pelo Presidente do STF."
+        },
+        {
+          "frente": "O CNJ exerce função jurisdicional? Controla o STF?",
+          "verso": "Não exerce função jurisdicional - é órgão de controle administrativo, financeiro e disciplinar do Judiciário. E o STF NÃO se submete ao seu controle (o STF está acima do CNJ)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre o Conselho Nacional de Justiça (CNJ), previsto no art. 103-B da CF/88, assinale a alternativa correta.",
+          "alternativas": [
+            "É órgão externo ao Poder Judiciário, com função de fiscalização parlamentar.",
+            "Compõe-se de quinze membros, com mandato de dois anos, admitida uma recondução, e é presidido pelo Presidente do STF.",
+            "Exerce função jurisdicional, podendo reformar o mérito das decisões dos tribunais.",
+            "Submete o Supremo Tribunal Federal ao seu controle administrativo e disciplinar.",
+            "É composto exclusivamente por magistrados, sendo vedada a participação de advogados e do Ministério Público."
+          ],
+          "gabarito": 1,
+          "comentario": "O art. 103-B prevê que o CNJ é composto por 15 membros, com mandato de 2 anos, admitida uma recondução, sendo presidido pelo Presidente do STF. A) Errada: o CNJ INTEGRA o Poder Judiciário (art. 92, I-A). C) Errada: o CNJ não exerce função jurisdicional, mas controle administrativo/financeiro/disciplinar. D) Errada: o STF não se submete ao controle do CNJ. E) Errada: a composição inclui membros do MP, advogados e cidadãos, além de magistrados.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Controle de constitucionalidade (noções)",
+      "resumo": "O controle de constitucionalidade verifica a compatibilidade de leis e atos normativos com a Constituição, que ocupa o ápice do ordenamento (supremacia constitucional). Quanto ao momento, pode ser preventivo (antes da vigência, ex.: CCJ e veto do Presidente) ou repressivo (após, regra a cargo do Judiciário). Quanto ao modo, é difuso (qualquer juiz ou tribunal, no caso concreto, com efeitos inter partes) ou concentrado (perante o STF, em abstrato, com efeitos erga omnes e vinculantes). As principais ações do controle concentrado, julgadas pelo STF, são: ADI (ação direta de inconstitucionalidade), ADC (ação declaratória de constitucionalidade), ADPF (arguição de descumprimento de preceito fundamental) e ADO (ação direta de inconstitucionalidade por omissão). O art. 103 lista o rol de legitimados (Presidente da República, Mesas das Casas, governadores, PGR, Conselho Federal da OAB, partidos com representação no Congresso e entidades de classe de âmbito nacional, entre outros). As decisões em ADI/ADC têm eficácia contra todos e efeito vinculante.",
+      "pontosChave": [
+        "Controle DIFUSO (incidental/concreto): exercido por qualquer juiz ou tribunal, no caso concreto; efeitos, em regra, inter partes",
+        "Controle CONCENTRADO (abstrato): exercido pelo STF (CF) ou TJ (Constituição Estadual); efeitos erga omnes e vinculantes",
+        "Ações do controle concentrado: ADI, ADC, ADPF e ADO - competência do STF (art. 102, I, a; e art. 103)",
+        "Legitimados do art. 103: Presidente da República, Mesas da Câmara e do Senado, Mesa de Assembleia/Câmara Legislativa, Governador, PGR, Conselho Federal da OAB, partido político com representação no Congresso, confederação sindical ou entidade de classe de âmbito nacional",
+        "Controle preventivo (antes da vigência): CCJ das Casas e veto jurídico do Presidente; repressivo (após): em regra pelo Judiciário",
+        "Decisão definitiva de mérito em ADI e ADC produz eficácia contra todos (erga omnes) e efeito vinculante aos demais órgãos do Judiciário e à Administração Pública"
+      ],
+      "pegadinhas": [
+        "Controle DIFUSO x CONCENTRADO: difuso é feito por qualquer juiz no caso concreto; concentrado, apenas pelo STF em abstrato. Banca troca os conceitos ou diz que qualquer juiz faz controle concentrado (falso).",
+        "Alguns legitimados do art. 103 precisam comprovar PERTINÊNCIA TEMÁTICA (ex.: governador, entidade de classe); outros são legitimados universais (ex.: PGR, Presidente, OAB). Banca ignora essa distinção.",
+        "ADC e ADI são ações de natureza dúplice/ambivalente: a procedência de uma equivale à improcedência da outra."
+      ],
+      "videoQuery": "controle de constitucionalidade difuso concentrado ADI ADC ADPF legitimados art 103 concurso",
+      "flashcards": [
+        {
+          "frente": "Diferencie controle difuso e concentrado de constitucionalidade.",
+          "verso": "Difuso: exercido por qualquer juiz/tribunal, no caso concreto, com efeitos em regra inter partes. Concentrado: exercido pelo STF (frente à CF), em abstrato, com efeitos erga omnes e vinculantes."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito do controle de constitucionalidade no Brasil, assinale a alternativa correta.",
+          "alternativas": [
+            "O controle difuso só pode ser exercido pelo Supremo Tribunal Federal.",
+            "No controle concentrado abstrato, a decisão de mérito do STF em ADI produz, em regra, efeitos apenas entre as partes do processo.",
+            "O controle difuso é exercido por qualquer juiz ou tribunal, no caso concreto, com efeitos, em regra, inter partes.",
+            "A ação direta de inconstitucionalidade pode ser proposta por qualquer cidadão.",
+            "O controle preventivo de constitucionalidade é exercido exclusivamente pelo Poder Judiciário."
+          ],
+          "gabarito": 2,
+          "comentario": "O controle difuso (incidental) é exercido por qualquer juiz ou tribunal, no julgamento do caso concreto, com efeitos em regra inter partes. A) Errada: o difuso é exercido por qualquer órgão do Judiciário, não só o STF. B) Errada: a decisão em ADI tem eficácia erga omnes e efeito vinculante. D) Errada: o cidadão não consta do rol do art. 103; os legitimados são taxativos. E) Errada: o controle preventivo é exercido predominantemente pelos Poderes Legislativo (CCJ) e Executivo (veto).",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Nos termos do art. 103 da CF/88, NÃO se inclui entre os legitimados para propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:",
+          "alternativas": [
+            "o Presidente da República.",
+            "o Procurador-Geral da República.",
+            "o Conselho Federal da Ordem dos Advogados do Brasil.",
+            "qualquer cidadão no gozo de seus direitos políticos.",
+            "partido político com representação no Congresso Nacional."
+          ],
+          "gabarito": 3,
+          "comentario": "O rol de legitimados do art. 103 é taxativo e NÃO inclui o cidadão individualmente considerado. São legitimados, entre outros, o Presidente da República (I), o PGR (VI), o Conselho Federal da OAB (VII) e partido político com representação no Congresso Nacional (VIII). O cidadão pode, no caso concreto, suscitar a inconstitucionalidade pela via difusa, mas não propor ADI/ADC.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

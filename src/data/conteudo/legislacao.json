@@ -1,0 +1,359 @@
+{
+  "materia": "Legislação Específica",
+  "videos": [
+    {
+      "titulo": "Hora da Verdade TRT SC - Lei nº 8.112/1990 - Prof. Thállius Moraes",
+      "youtubeId": "IzDiIZI8WFk",
+      "url": "https://www.youtube.com/watch?v=IzDiIZI8WFk"
+    },
+    {
+      "titulo": "Lei Geral de Proteção de Dados Pessoais para Concursos - Lei 13.709/18 - Prof. Herbert Almeida",
+      "youtubeId": "hjnd-8AZtMI",
+      "url": "https://www.youtube.com/watch?v=hjnd-8AZtMI"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Regime jurídico dos servidores (Lei 8.112/1990)",
+      "resumo": "A Lei 8.112/1990 institui o Regime Jurídico Único dos servidores públicos civis da União, autarquias e fundações públicas federais. Servidor é a pessoa legalmente investida em cargo público, que é o conjunto de atribuições e responsabilidades criado por lei. A investidura em cargo efetivo depende de aprovação em concurso público e ocorre com a posse, sendo a nomeação a forma de provimento originário. A posse deve ocorrer em até 30 dias da publicação do ato de nomeação e o exercício, em até 15 dias da posse. O estágio probatório tem duração de 36 meses (24 meses no texto original, mas 36 segundo a jurisprudência e a EC 19/98 c/c art. 41 da CF), durante os quais se avaliam aptidão e capacidade do servidor.",
+      "pontosChave": [
+        "Cargo público é criado por lei, com denominação própria e vencimento pago pelos cofres públicos (art. 3º).",
+        "Posse: até 30 dias da publicação da nomeação; exercício: até 15 dias contados da posse (arts. 13 e 15).",
+        "Estágio probatório de 36 meses, com avaliação de assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade.",
+        "São formas de provimento: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução (art. 8º).",
+        "A vacância decorre de exoneração, demissão, promoção, aposentadoria, posse em outro cargo inacumulável, falecimento, readaptação."
+      ],
+      "pegadinhas": [
+        "Posse não é o mesmo que exercício: a posse formaliza a investidura, mas é o efetivo exercício que marca o início da contagem para estágio probatório e demais prazos funcionais.",
+        "Exoneração não é punição; demissão é penalidade disciplinar. Confundir os dois é erro clássico de prova."
+      ],
+      "videoQuery": "Lei 8112 provimento posse exercício estágio probatório concurso",
+      "flashcards": [
+        {
+          "frente": "Qual o prazo para a posse e para o exercício na Lei 8.112/1990?",
+          "verso": "Posse: até 30 dias da publicação do ato de nomeação. Exercício: até 15 dias contados da data da posse."
+        },
+        {
+          "frente": "Diferença entre exoneração e demissão na Lei 8.112/1990",
+          "verso": "Exoneração é desligamento sem caráter punitivo (a pedido ou de ofício). Demissão é penalidade disciplinar aplicada após processo administrativo."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Conforme a Lei 8.112/1990, a posse do servidor em cargo público deve ocorrer no prazo de:",
+          "alternativas": [
+            "15 dias contados da publicação do ato de provimento",
+            "30 dias contados da publicação do ato de provimento",
+            "30 dias contados da data da nomeação verbal",
+            "45 dias contados do resultado do concurso",
+            "60 dias contados da homologação do certame"
+          ],
+          "gabarito": 1,
+          "comentario": "Nos termos do art. 13, § 1º, da Lei 8.112/1990, a posse ocorre no prazo de 30 dias contados da publicação do ato de provimento (nomeação). O prazo de 15 dias (alternativa A) é o do exercício, contado da posse. As demais alternativas trazem prazos e marcos inexistentes na lei.",
+          "banca": "FCC",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Sobre as formas de provimento de cargo público previstas na Lei 8.112/1990, assinale a alternativa correta:",
+          "alternativas": [
+            "A demissão é forma de provimento derivado de cargo público",
+            "A reintegração é o retorno do servidor estável ao cargo anteriormente ocupado, ou ao resultante de sua transformação, quando invalidada sua demissão por decisão administrativa ou judicial",
+            "A nomeação é forma de provimento derivado, pois pressupõe vínculo anterior",
+            "O aproveitamento independe da existência de cargo vago",
+            "A reversão é forma de vacância do cargo público"
+          ],
+          "gabarito": 1,
+          "comentario": "A reintegração (art. 28) é a reinvestidura do servidor estável quando invalidada sua demissão, com ressarcimento de vantagens. A demissão é forma de vacância e penalidade, não provimento (A errada). A nomeação é provimento originário (C errada). O aproveitamento depende de cargo vago compatível (D errada). A reversão é forma de provimento, não de vacância (E errada).",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Carreiras do Poder Judiciário (Lei 11.416/2006)",
+      "resumo": "A Lei 11.416/2006 dispõe sobre as carreiras dos servidores do Poder Judiciário da União. São estruturadas em três carreiras: Analista Judiciário, Técnico Judiciário e Auxiliar Judiciário (esta em extinção). Cada carreira organiza-se em classes (A, B e C) e padrões, com desenvolvimento por progressão funcional (entre padrões da mesma classe) e promoção (de uma classe para outra superior). O ingresso ocorre no padrão inicial do cargo, mediante concurso público de provas ou de provas e títulos, exigindo-se nível superior para o cargo de Analista e nível médio para o de Técnico. A lei também prevê funções comissionadas (FC) e cargos em comissão (CJ), além de gratificações como a Gratificação de Atividade Judiciária (GAJ).",
+      "pontosChave": [
+        "Carreiras: Analista Judiciário (nível superior), Técnico Judiciário (nível médio) e Auxiliar Judiciário (em extinção).",
+        "Cada carreira tem 3 classes (A, B e C); cada classe possui padrões (de 1 a 5).",
+        "Progressão = mudança de padrão dentro da mesma classe; Promoção = passagem da última posição de uma classe para a primeira da classe imediatamente superior.",
+        "Interstício mínimo de 1 ano em cada padrão e cumprimento de requisitos de avaliação de desempenho e cursos.",
+        "Áreas de atividade: administrativa, judiciária e apoio especializado."
+      ],
+      "pegadinhas": [
+        "Progressão e promoção não são sinônimos: progressão é entre padrões da mesma classe; promoção é entre classes diferentes.",
+        "O cargo de Analista Judiciário exige nível superior; confundir com nível médio (que é exigência do Técnico) é erro frequente."
+      ],
+      "videoQuery": "Lei 11416 carreiras Poder Judiciário analista técnico progressão promoção",
+      "flashcards": [
+        {
+          "frente": "Quais são as carreiras dos servidores do Poder Judiciário (Lei 11.416/2006)?",
+          "verso": "Analista Judiciário (nível superior), Técnico Judiciário (nível médio) e Auxiliar Judiciário (em extinção)."
+        },
+        {
+          "frente": "Diferença entre progressão e promoção na Lei 11.416/2006",
+          "verso": "Progressão funcional é a passagem para o padrão imediatamente superior dentro da mesma classe. Promoção é a passagem do último padrão de uma classe para o primeiro padrão da classe seguinte."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com a Lei 11.416/2006, que dispõe sobre as carreiras dos servidores do Poder Judiciário da União, o desenvolvimento dentre padrões de uma mesma classe denomina-se:",
+          "alternativas": [
+            "Promoção",
+            "Ascensão funcional",
+            "Progressão funcional",
+            "Readaptação",
+            "Reenquadramento"
+          ],
+          "gabarito": 2,
+          "comentario": "A progressão funcional é a movimentação entre padrões de uma mesma classe (art. 9º). A promoção, por sua vez, é a passagem da última posição de uma classe para a primeira da classe superior. A ascensão funcional é vedada pela CF/88. Readaptação e reenquadramento são institutos distintos.",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre o ingresso nas carreiras dos servidores do Poder Judiciário da União, segundo a Lei 11.416/2006, é correto afirmar:",
+          "alternativas": [
+            "O ingresso no cargo de Analista Judiciário exige escolaridade de nível médio",
+            "O ingresso ocorre por nomeação independentemente de concurso público, em razão da especialização das funções",
+            "O ingresso dá-se sempre no último padrão da classe C",
+            "O ingresso depende de habilitação em concurso público de provas ou de provas e títulos, no padrão inicial da classe inicial do respectivo cargo",
+            "O cargo de Técnico Judiciário exige diploma de nível superior em qualquer área"
+          ],
+          "gabarito": 3,
+          "comentario": "O ingresso ocorre por concurso público de provas ou de provas e títulos, no padrão inicial da classe inicial do cargo (art. 8º). Analista exige nível superior, não médio (A errada). Concurso é obrigatório por força do art. 37, II, da CF (B errada). O ingresso é no padrão inicial, não no último (C errada). Técnico exige nível médio (E errada).",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Código de Ética do servidor (Decreto 1.171/1994)",
+      "resumo": "O Decreto 1.171/1994 aprova o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal. Estabelece regras deontológicas, deveres e vedações de natureza ética, distintas das punições disciplinares da Lei 8.112/1990. Determina que a moralidade administrativa deve pautar-se não apenas na legalidade, mas no critério do honesto e do desonesto, sendo a função pública vista como exercício profissional integrado à vida particular do servidor. Prevê a criação de Comissões de Ética em cada órgão e entidade, competentes para apurar condutas e aplicar a única penalidade prevista: a censura. A cortesia, a probidade, a presteza e a publicidade dos atos administrativos são deveres fundamentais.",
+      "pontosChave": [
+        "A única penalidade aplicável pela Comissão de Ética é a censura (Inciso XXII das Vedações/Seção III).",
+        "O servidor deve tratar o público com cortesia; a ausência injustificada de urbanidade é falta ética.",
+        "A publicidade é regra e o sigilo, exceção; salvo segurança da sociedade e do Estado.",
+        "A função pública integra a vida particular do servidor, projetando-se sobre seu comportamento.",
+        "Toda ausência ao trabalho que provoque atraso na prestação do serviço é, ética e moralmente, dano ao usuário."
+      ],
+      "pegadinhas": [
+        "A penalidade do Código de Ética é apenas a censura, e não advertência, suspensão ou demissão (estas pertencem ao regime disciplinar da Lei 8.112).",
+        "O Código de Ética não substitui a responsabilização civil, penal e administrativa: a censura ética é independente das demais esferas."
+      ],
+      "videoQuery": "Decreto 1171 1994 código de ética servidor comissão de ética censura concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a única penalidade que a Comissão de Ética pode aplicar conforme o Decreto 1.171/1994?",
+          "verso": "A censura. Demais penalidades (advertência, suspensão, demissão) são do regime disciplinar da Lei 8.112/1990, não do Código de Ética."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Segundo o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto 1.171/1994), a pena aplicável ao servidor público pela Comissão de Ética é a de:",
+          "alternativas": [
+            "Advertência",
+            "Suspensão por até 90 dias",
+            "Censura",
+            "Demissão",
+            "Multa equivalente a 10% do vencimento"
+          ],
+          "gabarito": 2,
+          "comentario": "Nos termos do Decreto 1.171/1994 (Seção III), a pena aplicável ao servidor público pela Comissão de Ética é a de censura, cuja fundamentação consta do respectivo parecer. Advertência, suspensão e demissão são penalidades do regime disciplinar da Lei 8.112/1990, aplicadas em outras esferas. Multa não está prevista.",
+          "banca": "CESPE",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Conforme os deveres éticos previstos no Decreto 1.171/1994, é dever fundamental do servidor público:",
+          "alternativas": [
+            "Tratar com sigilo absoluto todos os atos administrativos, sendo a publicidade exceção excepcionalíssima",
+            "Tratar cuidadosamente os usuários dos serviços, aperfeiçoando o processo de comunicação e contato com o público",
+            "Privilegiar interesses pessoais legítimos em detrimento do interesse coletivo",
+            "Recusar atendimento a pessoas que não comprovem prévia necessidade do serviço",
+            "Manter-se neutro diante de ato lesivo praticado por colega, evitando delações"
+          ],
+          "gabarito": 1,
+          "comentario": "O Código de Ética (Decreto 1.171/1994, Seção I) impõe ao servidor tratar cuidadosamente os usuários, aperfeiçoando o contato com o público, sendo a cortesia e a urbanidade deveres fundamentais. A publicidade é a regra e o sigilo, exceção (A errada). O interesse coletivo prevalece sobre o pessoal (C errada). Não se pode recusar atendimento (D errada). O servidor deve comunicar atos lesivos, não se omitir (E errada).",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Regime disciplinar do servidor",
+      "resumo": "O regime disciplinar dos servidores federais está nos arts. 116 a 142 da Lei 8.112/1990, abrangendo deveres, proibições, acumulação, responsabilidades e penalidades. As penalidades disciplinares são: advertência, suspensão, demissão, cassação de aposentadoria ou disponibilidade, destituição de cargo em comissão e destituição de função comissionada. A advertência é por escrito, para infrações leves; a suspensão, de até 90 dias, para reincidência ou faltas mais graves. A demissão aplica-se a infrações graves como crime contra a administração pública, improbidade, abandono de cargo (ausência intencional por mais de 30 dias) e inassiduidade habitual (60 dias interpolados em 12 meses). A apuração se dá por sindicância ou processo administrativo disciplinar (PAD), assegurados contraditório e ampla defesa.",
+      "pontosChave": [
+        "Penalidades: advertência, suspensão (até 90 dias), demissão, cassação de aposentadoria/disponibilidade, destituição de cargo em comissão e de função comissionada (art. 127).",
+        "Abandono de cargo: ausência intencional do servidor ao serviço por mais de 30 dias consecutivos.",
+        "Inassiduidade habitual: falta ao serviço, sem causa justificada, por 60 dias interpoladamente, durante 12 meses.",
+        "PAD é obrigatório para penalidades de suspensão acima de 30 dias, demissão, cassação e destituição.",
+        "A prescrição da ação disciplinar: 5 anos (demissão, cassação, destituição), 2 anos (suspensão) e 180 dias (advertência)."
+      ],
+      "pegadinhas": [
+        "Abandono de cargo exige mais de 30 dias consecutivos e intenção (animus); inassiduidade habitual são 60 dias interpolados em 12 meses. Trocar os números é pegadinha clássica.",
+        "Suspensão pode ser convertida em multa (50% por dia de vencimento), permanecendo o servidor em exercício; isso não a descaracteriza como penalidade."
+      ],
+      "videoQuery": "Lei 8112 regime disciplinar penalidades demissão abandono cargo inassiduidade concurso",
+      "flashcards": [
+        {
+          "frente": "O que caracteriza abandono de cargo e inassiduidade habitual na Lei 8.112/1990?",
+          "verso": "Abandono de cargo: ausência intencional por mais de 30 dias consecutivos. Inassiduidade habitual: falta injustificada por 60 dias interpoladamente em 12 meses. Ambos punidos com demissão."
+        },
+        {
+          "frente": "Quais penalidades disciplinares exigem instauração de PAD?",
+          "verso": "Suspensão superior a 30 dias, demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão. Advertência e suspensão de até 30 dias podem ser por sindicância."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Nos termos da Lei 8.112/1990, configura abandono de cargo, punível com demissão, a ausência intencional do servidor ao serviço por mais de:",
+          "alternativas": [
+            "15 dias consecutivos",
+            "30 dias consecutivos",
+            "60 dias interpolados no período de 12 meses",
+            "45 dias consecutivos",
+            "90 dias consecutivos"
+          ],
+          "gabarito": 1,
+          "comentario": "Conforme o art. 138 da Lei 8.112/1990, configura abandono de cargo a ausência intencional do servidor ao serviço por mais de 30 dias consecutivos. A alternativa C descreve a inassiduidade habitual (art. 139), que é falta sem causa justificada por 60 dias interpoladamente em 12 meses. Ambas geram demissão, mas com pressupostos diferentes.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Acerca das penalidades disciplinares previstas na Lei 8.112/1990, assinale a alternativa correta:",
+          "alternativas": [
+            "A penalidade de suspensão não poderá exceder a 90 dias",
+            "A advertência será sempre aplicada verbalmente",
+            "A demissão prescreve em 2 anos contados da ciência do fato",
+            "A suspensão jamais pode ser convertida em multa",
+            "A cassação de aposentadoria não é considerada penalidade disciplinar"
+          ],
+          "gabarito": 0,
+          "comentario": "Pelo art. 130, a suspensão é aplicada em caso de reincidência das faltas punidas com advertência e de violação das demais proibições não puníveis com demissão, não podendo exceder 90 dias. A advertência é sempre por escrito (B errada). A demissão prescreve em 5 anos (C errada). A suspensão pode ser convertida em multa (D errada). A cassação de aposentadoria é penalidade do art. 127 (E errada).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre a prescrição da ação disciplinar na Lei 8.112/1990, assinale a alternativa correta:",
+          "alternativas": [
+            "Prescreve em 180 dias a infração punível com demissão",
+            "Prescreve em 5 anos a infração punível com advertência",
+            "Prescreve em 2 anos a infração punível com suspensão",
+            "Não há prazo prescricional para infrações disciplinares",
+            "Prescreve em 1 ano a infração punível com demissão"
+          ],
+          "gabarito": 2,
+          "comentario": "Conforme o art. 142, a ação disciplinar prescreve em 5 anos quanto às infrações puníveis com demissão, cassação de aposentadoria/disponibilidade e destituição; em 2 anos quanto à suspensão; e em 180 dias quanto à advertência. Logo, a infração punível com suspensão prescreve em 2 anos (alternativa C correta). As demais invertem ou inventam prazos.",
+          "banca": "FCC",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "CNJ — estrutura e competências",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) foi criado pela Emenda Constitucional 45/2004 e está previsto no art. 103-B da CF/88. É órgão do Poder Judiciário com atuação em todo o território nacional, voltado ao controle administrativo, financeiro e disciplinar do Judiciário, sem função jurisdicional. Compõe-se de 15 membros com mandato de 2 anos, admitida uma recondução, sendo presidido pelo Presidente do STF. Cabe ao CNJ zelar pela autonomia do Judiciário e pelo cumprimento do Estatuto da Magistratura, expedir atos regulamentares, receber reclamações contra membros e serviços auxiliares, e apreciar a legalidade de atos administrativos. O Ministro do STJ atua como Corregedor Nacional de Justiça. O controle do CNJ não alcança o STF, que está fora de sua supervisão.",
+      "pontosChave": [
+        "Criado pela EC 45/2004; previsto no art. 103-B da CF/88; é órgão do Judiciário sem competência jurisdicional.",
+        "Composto por 15 membros, mandato de 2 anos, admitida 1 recondução; presidido pelo Presidente do STF.",
+        "Exerce controle administrativo, financeiro e disciplinar dos órgãos do Judiciário e dos juízes.",
+        "O CNJ não controla o STF, que está acima de sua supervisão administrativa.",
+        "O Ministro do STJ integra o CNJ e exerce a função de Corregedor Nacional de Justiça."
+      ],
+      "pegadinhas": [
+        "O CNJ NÃO exerce função jurisdicional: seu controle é administrativo, financeiro e disciplinar. Atribuir-lhe poder de julgar processos é erro grave.",
+        "O CNJ não fiscaliza o STF; pensar que controla todo o Judiciário sem exceção é equívoco frequente."
+      ],
+      "videoQuery": "CNJ Conselho Nacional de Justiça competências composição art 103-B CF concurso",
+      "flashcards": [
+        {
+          "frente": "Qual a composição e o mandato dos membros do CNJ? O CNJ exerce função jurisdicional ou controla o STF?",
+          "verso": "15 membros, mandato de 2 anos, admitida uma recondução, presidido pelo Presidente do STF (art. 103-B da CF/88). Não exerce função jurisdicional (apenas controle administrativo, financeiro e disciplinar) e não controla o STF."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito do Conselho Nacional de Justiça (CNJ), previsto no art. 103-B da Constituição Federal, é correto afirmar que:",
+          "alternativas": [
+            "Possui competência jurisdicional para reformar decisões dos tribunais",
+            "É composto por 15 membros, com mandato de 2 anos, admitida uma recondução, e presidido pelo Presidente do STF",
+            "Exerce controle administrativo e disciplinar inclusive sobre o Supremo Tribunal Federal",
+            "É órgão vinculado ao Poder Executivo, com função de supervisão orçamentária",
+            "Seus membros têm mandato vitalício, à semelhança dos Ministros do STF"
+          ],
+          "gabarito": 1,
+          "comentario": "O CNJ é composto por 15 membros, mandato de 2 anos com uma recondução possível, presidido pelo Presidente do STF (art. 103-B, caput). Não tem função jurisdicional (A errada), pois exerce controle administrativo, financeiro e disciplinar. Não controla o STF (C errada). É órgão do Judiciário, não do Executivo (D errada). O mandato não é vitalício (E errada).",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre as competências do Conselho Nacional de Justiça, assinale a alternativa correta:",
+          "alternativas": [
+            "Cabe ao CNJ julgar, em grau de recurso, as causas trabalhistas de todo o país",
+            "O CNJ tem competência para legislar sobre direito processual",
+            "Compete ao CNJ zelar pela observância do art. 37 da CF e apreciar a legalidade dos atos administrativos praticados por membros ou órgãos do Poder Judiciário",
+            "O CNJ substitui as Corregedorias dos Tribunais, extinguindo-as",
+            "O CNJ é competente para nomear os Ministros do STF"
+          ],
+          "gabarito": 2,
+          "comentario": "Conforme o art. 103-B, § 4º, da CF/88, compete ao CNJ zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Judiciário, podendo desconstituí-los. Não julga causas (A errada), não legisla sobre processo (B errada), não extingue Corregedorias (D errada) e não nomeia Ministros do STF (E errada).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "LGPD (Lei 13.709/2018) — noções",
+      "resumo": "A Lei Geral de Proteção de Dados (Lei 13.709/2018) regula o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou jurídica de direito público ou privado, visando proteger os direitos fundamentais de liberdade, privacidade e o livre desenvolvimento da personalidade. Dado pessoal é informação relacionada a pessoa natural identificada ou identificável; dado sensível é o que revela origem racial, convicção religiosa, opinião política, saúde, vida sexual, dado genético ou biométrico. O tratamento exige base legal, como o consentimento do titular, o cumprimento de obrigação legal, a execução de políticas públicas ou o legítimo interesse. A lei prevê os princípios da finalidade, adequação, necessidade, transparência e segurança, além dos agentes de tratamento (controlador e operador) e da figura do encarregado (DPO). A fiscalização cabe à Autoridade Nacional de Proteção de Dados (ANPD).",
+      "pontosChave": [
+        "Dado pessoal: informação relacionada a pessoa natural identificada ou identificável; dado sensível tem proteção reforçada (art. 5º).",
+        "Agentes de tratamento: controlador (decide sobre o tratamento) e operador (realiza o tratamento em nome do controlador).",
+        "Encarregado (DPO) é o canal de comunicação entre controlador, titulares e a ANPD.",
+        "Bases legais incluem consentimento, obrigação legal, execução de políticas públicas e legítimo interesse (art. 7º).",
+        "A ANPD é a autoridade nacional competente para fiscalizar e aplicar sanções (advertência, multa de até 2% do faturamento, limitada a R$ 50 milhões por infração)."
+      ],
+      "pegadinhas": [
+        "O consentimento NÃO é a única base legal para tratamento de dados: a LGPD prevê dez hipóteses no art. 7º, sendo o consentimento apenas uma delas.",
+        "Dado anonimizado, em regra, não é considerado dado pessoal e está fora do âmbito da LGPD, salvo se possível a reversão do processo de anonimização."
+      ],
+      "videoQuery": "LGPD Lei 13709 dados pessoais sensíveis controlador operador ANPD concurso",
+      "flashcards": [
+        {
+          "frente": "Diferença entre controlador e operador na LGPD",
+          "verso": "Controlador é quem toma as decisões sobre o tratamento de dados pessoais. Operador é quem realiza o tratamento em nome e segundo as instruções do controlador."
+        },
+        {
+          "frente": "O que são dados pessoais sensíveis na LGPD?",
+          "verso": "Dados sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato/organização religiosa/filosófica/política, dado referente à saúde, vida sexual, dado genético ou biométrico."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "De acordo com a Lei 13.709/2018 (LGPD), considera-se dado pessoal sensível:",
+          "alternativas": [
+            "O nome e o endereço residencial do titular",
+            "O número de inscrição em cadastro de pessoa física",
+            "O dado referente à origem racial ou étnica, convicção religiosa ou dado relativo à saúde",
+            "O endereço de e-mail profissional do titular",
+            "Qualquer dado armazenado em meio digital"
+          ],
+          "gabarito": 2,
+          "comentario": "O art. 5º, II, da LGPD define dado pessoal sensível como aquele sobre origem racial ou étnica, convicção religiosa, opinião política, filiação sindical/religiosa/filosófica/política, saúde, vida sexual, dado genético ou biométrico. Nome, CPF e e-mail são dados pessoais comuns, não sensíveis. O meio de armazenamento (E) não define a natureza sensível do dado.",
+          "banca": "FGV",
+          "dificuldade": 1
+        },
+        {
+          "enunciado": "Sobre o tratamento de dados pessoais na LGPD, assinale a alternativa correta:",
+          "alternativas": [
+            "O consentimento do titular é a única base legal autorizadora do tratamento de dados pessoais",
+            "O operador é o responsável por tomar as decisões referentes ao tratamento de dados pessoais",
+            "A fiscalização e a aplicação de sanções competem ao Ministério Público Federal",
+            "O tratamento de dados pessoais pode ocorrer mediante o cumprimento de obrigação legal pelo controlador, entre outras hipóteses legais",
+            "Dados anonimizados são sempre considerados dados pessoais sensíveis"
+          ],
+          "gabarito": 3,
+          "comentario": "O art. 7º elenca dez hipóteses (bases legais) para o tratamento, entre elas o cumprimento de obrigação legal ou regulatória pelo controlador (inciso II). O consentimento é apenas uma das bases (A errada). Quem decide é o controlador, não o operador (B errada). A fiscalização cabe à ANPD (C errada). Dado anonimizado, em regra, não é dado pessoal (E errada).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    }
+  ]
+}

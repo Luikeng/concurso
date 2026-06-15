@@ -1,0 +1,462 @@
+{
+  "materia": "Noções de Direito Administrativo",
+  "videos": [
+    {
+      "titulo": "Concurso TRT 12 (TRT SC): Aula de Direito Administrativo",
+      "youtubeId": "juXuBEdcKAs",
+      "url": "https://www.youtube.com/watch?v=juXuBEdcKAs"
+    },
+    {
+      "titulo": "Direito Administrativo: Princípios da Administração Pública — LIMPE | Aula 02",
+      "youtubeId": "YDu8Ftky404",
+      "url": "https://www.youtube.com/watch?v=YDu8Ftky404"
+    }
+  ],
+  "topicos": [
+    {
+      "nome": "Princípios da Administração (LIMPE)",
+      "resumo": "O art. 37, caput, da CF/88 fixa os princípios expressos da Administração Pública direta e indireta de todos os Poderes da União, Estados, DF e Municípios, resumidos no mnemônico LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência. A legalidade impõe que o administrador só faça o que a lei autoriza, diferentemente do particular, que pode fazer tudo o que a lei não proíbe. A impessoalidade veda favorecimentos e exige tratamento isonômico, vinculando os atos à finalidade pública. A publicidade é requisito de eficácia e transparência dos atos, ressalvadas as hipóteses de sigilo. A eficiência foi inserida pela EC 19/1998 e exige atuação produtiva, econômica e de qualidade. Além dos expressos, a doutrina reconhece princípios implícitos como supremacia do interesse público, indisponibilidade, razoabilidade, proporcionalidade e motivação.",
+      "pontosChave": [
+        "LIMPE = Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (art. 37, caput, CF/88).",
+        "A Eficiência foi acrescentada pela Emenda Constitucional 19/1998.",
+        "Legalidade administrativa: a Administração só pode agir conforme autorização legal (legalidade estrita).",
+        "Publicidade é, em regra, condição de eficácia do ato, não de validade.",
+        "Princípios implícitos: supremacia e indisponibilidade do interesse público, razoabilidade, proporcionalidade, motivação e autotutela."
+      ],
+      "pegadinhas": [
+        "Trocar 'eficiência' por 'economicidade' ou afirmar que a eficiência já constava do texto originário de 1988 (foi a EC 19/1998).",
+        "Confundir a legalidade do particular (faz tudo que a lei não proíbe) com a do administrador (só o que a lei autoriza)."
+      ],
+      "videoQuery": "princípios da administração pública LIMPE art 37 CF concurso",
+      "flashcards": [
+        {
+          "frente": "O que significa o mnemônico LIMPE e onde está previsto?",
+          "verso": "Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência — princípios expressos no art. 37, caput, da CF/88."
+        },
+        {
+          "frente": "Qual princípio do LIMPE foi acrescentado por emenda constitucional e qual?",
+          "verso": "A Eficiência, inserida pela Emenda Constitucional nº 19/1998."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca dos princípios constitucionais da Administração Pública (art. 37, caput, da CF/88), assinale a alternativa correta.",
+          "alternativas": [
+            "Os princípios expressos no caput do art. 37 são legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "A eficiência integra o texto constitucional desde a promulgação da Constituição em 1988.",
+            "O princípio da publicidade é, em regra, requisito de validade do ato administrativo.",
+            "A legalidade autoriza o administrador a fazer tudo aquilo que a lei não proíba expressamente.",
+            "A supremacia do interesse público é princípio expresso no caput do art. 37 da CF/88."
+          ],
+          "gabarito": 0,
+          "comentario": "Correta a letra A: o LIMPE (legalidade, impessoalidade, moralidade, publicidade e eficiência) consta expressamente do art. 37, caput. B erra porque a eficiência foi incluída pela EC 19/1998. C erra porque a publicidade é, em regra, requisito de eficácia, não de validade. D descreve a legalidade do particular, não a do administrador (que só faz o que a lei autoriza). E erra porque a supremacia do interesse público é princípio implícito, não expresso.",
+          "banca": "FCC",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Um agente público nomeia o próprio irmão para cargo em comissão no órgão em que atua como chefe imediato. Tal conduta viola diretamente, antes de tudo, qual princípio da Administração Pública?",
+          "alternativas": [
+            "O princípio da impessoalidade, por configurar favorecimento pessoal vedado (nepotismo).",
+            "O princípio da publicidade, por ausência de divulgação do ato de nomeação.",
+            "O princípio da eficiência, por não atingir resultados produtivos.",
+            "O princípio da legalidade estrita, por inexistir lei sobre cargos em comissão.",
+            "Nenhum princípio, pois cargos em comissão são de livre nomeação irrestrita."
+          ],
+          "gabarito": 0,
+          "comentario": "Correta a letra A: o nepotismo afronta sobretudo a impessoalidade (e também a moralidade), por privilegiar interesse pessoal em detrimento do interesse público, conforme a Súmula Vinculante 13 do STF. B e C não são o vício central. D erra porque há previsão legal de cargos em comissão. E erra porque a livre nomeação não é irrestrita, encontrando limite nos princípios constitucionais.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Poderes administrativos",
+      "resumo": "Poderes administrativos são instrumentos de que dispõe a Administração para atingir o interesse público, sendo irrenunciáveis e exercidos como verdadeiros poderes-deveres. O poder vinculado atua sem margem de juízo, enquanto o poder discricionário comporta valoração de conveniência e oportunidade (mérito administrativo) dentro dos limites legais. O poder hierárquico permite ordenar, fiscalizar, delegar, avocar e rever atos dos subordinados. O poder disciplinar autoriza apurar infrações e aplicar penalidades a servidores e a particulares com vínculo especial. O poder regulamentar (ou normativo) habilita a edição de atos gerais para fiel execução da lei, como os decretos do art. 84, IV, da CF/88. O poder de polícia limita o exercício de direitos individuais em favor da coletividade, sendo dotado de discricionariedade, autoexecutoriedade e coercibilidade.",
+      "pontosChave": [
+        "Poder vinculado x discricionário: este admite juízo de conveniência e oportunidade (mérito).",
+        "Poder hierárquico: ordenar, fiscalizar, rever, delegar e avocar competências.",
+        "Poder disciplinar: apuração e punição de infrações funcionais, em regra discricionário quanto à dosimetria.",
+        "Poder regulamentar: decretos e regulamentos para fiel execução da lei (art. 84, IV, CF/88).",
+        "Atributos do poder de polícia: discricionariedade, autoexecutoriedade e coercibilidade.",
+        "O abuso de poder pode ocorrer por excesso de poder ou por desvio de finalidade."
+      ],
+      "pegadinhas": [
+        "Afirmar que todo ato de polícia é autoexecutável: nem toda medida o é (ex.: cobrança de multa exige via judicial).",
+        "Confundir poder disciplinar (vínculo especial) com poder de polícia (vínculo geral com a coletividade)."
+      ],
+      "videoQuery": "poderes administrativos hierárquico disciplinar polícia concurso",
+      "flashcards": [
+        {
+          "frente": "Quais são os três atributos do poder de polícia?",
+          "verso": "Discricionariedade, autoexecutoriedade e coercibilidade."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre os poderes administrativos, assinale a opção correta.",
+          "alternativas": [
+            "O poder hierárquico autoriza o superior a ordenar, fiscalizar, rever, delegar e avocar atribuições de seus subordinados.",
+            "O poder discricionário permite que o agente atue à margem da lei, conforme sua exclusiva conveniência.",
+            "O poder de polícia é desprovido de coercibilidade, dependendo sempre de prévia autorização judicial.",
+            "O poder disciplinar incide sobre a coletividade em geral, no exercício do vínculo geral de sujeição.",
+            "O poder regulamentar permite ao chefe do Executivo criar obrigações novas, inovando originariamente na ordem jurídica."
+          ],
+          "gabarito": 0,
+          "comentario": "Correta a letra A, que descreve as faculdades do poder hierárquico. B erra porque a discricionariedade ocorre dentro dos limites da lei, não à margem dela. C erra porque a coercibilidade é atributo do poder de polícia. D confunde poder disciplinar (vínculo especial) com poder de polícia (vínculo geral). E erra porque o regulamento, em regra, não pode inovar originariamente criando obrigações, sendo destinado à fiel execução da lei (art. 84, IV, CF/88).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Determinado servidor, valendo-se de cargo de fiscalização ambiental, aplica sanção a empresa não para proteger o meio ambiente, mas para prejudicar desafeto pessoal. Tal conduta configura, quanto ao vício do ato:",
+          "alternativas": [
+            "Excesso de poder, pois o agente extrapolou os limites de sua competência funcional.",
+            "Desvio de finalidade, pois o agente afastou o ato da finalidade de interesse público.",
+            "Mera irregularidade formal, sanável de ofício pela própria Administração.",
+            "Exercício regular do poder de polícia, por ser ato discricionário insindicável.",
+            "Estrito cumprimento do poder disciplinar, por se tratar de vínculo especial."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: quando o agente atua dentro de sua competência, mas persegue finalidade estranha ao interesse público, há desvio de finalidade (ou desvio de poder). O excesso de poder (A) ocorre quando o agente ultrapassa os limites de sua competência. C e D estão erradas porque o ato é nulo por vício de finalidade, e o mérito não imuniza o desvio de poder. E erra porque não há vínculo disciplinar com a empresa fiscalizada.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Atos administrativos",
+      "resumo": "Ato administrativo é a manifestação unilateral de vontade da Administração (ou de quem lhe faça as vezes) que, sob regime de direito público, produz efeitos jurídicos para satisfazer o interesse público. Seus cinco requisitos ou elementos são competência, finalidade, forma, motivo e objeto, sendo competência, finalidade e forma sempre vinculados, e motivo e objeto podendo ser discricionários. Os atributos são presunção de legitimidade e veracidade, imperatividade, autoexecutoriedade e tipicidade. A extinção pode dar-se por anulação (vício de legalidade, com efeitos ex tunc), revogação (por conveniência e oportunidade, efeitos ex nunc, sobre ato válido) e cassação. Pela teoria dos motivos determinantes, uma vez declarados, os motivos do ato vinculam-no, e sua falsidade ou inexistência o invalida.",
+      "pontosChave": [
+        "Elementos: competência, finalidade, forma, motivo e objeto (mnemônico COM-FI-FO-MO-OB).",
+        "Competência, finalidade e forma são vinculados; motivo e objeto podem ser discricionários.",
+        "Atributos: presunção de legitimidade, imperatividade, autoexecutoriedade e tipicidade.",
+        "Anulação: vício de legalidade, efeitos ex tunc (retroativos). Revogação: mérito, efeitos ex nunc.",
+        "Teoria dos motivos determinantes vincula a validade do ato aos motivos efetivamente declarados."
+      ],
+      "pegadinhas": [
+        "Dizer que a revogação tem efeitos ex tunc — ela é ex nunc; quem retroage é a anulação.",
+        "Afirmar que a Administração pode revogar ato vinculado — só se revoga ato discricionário válido."
+      ],
+      "videoQuery": "atos administrativos elementos atributos anulação revogação concurso",
+      "flashcards": [
+        {
+          "frente": "Diferencie anulação e revogação quanto a fundamento e efeitos.",
+          "verso": "Anulação: vício de legalidade, efeitos ex tunc (retroativos). Revogação: conveniência/oportunidade sobre ato válido, efeitos ex nunc (não retroativos)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito da extinção dos atos administrativos, assinale a alternativa correta.",
+          "alternativas": [
+            "A revogação recai sobre ato ilegal e produz efeitos retroativos (ex tunc).",
+            "A anulação decorre de juízo de conveniência e oportunidade da Administração.",
+            "A anulação tem por fundamento vício de legalidade e, em regra, produz efeitos ex tunc.",
+            "A revogação pode incidir sobre atos vinculados que se tornaram inconvenientes.",
+            "A anulação só pode ser realizada pelo Poder Judiciário, sendo vedada à própria Administração."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C: a anulação pressupõe ilegalidade e opera efeitos ex tunc, desfazendo o ato desde a origem. A está errada (descreve a anulação, não a revogação). B inverte os conceitos. D erra porque só se revoga ato discricionário válido, não ato vinculado. E contraria as Súmulas 346 e 473 do STF e o princípio da autotutela, que permitem à Administração anular seus próprios atos.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Licitações (Lei 14.133/2021)",
+      "resumo": "A Lei 14.133/2021 é a atual Lei de Licitações e Contratos Administrativos, que substituiu a Lei 8.666/1993, a Lei do Pregão (10.520/2002) e o RDC. Seus objetivos incluem assegurar a seleção da proposta mais vantajosa, o tratamento isonômico, evitar sobrepreço e incentivar a inovação e o desenvolvimento nacional sustentável. As modalidades passaram a ser pregão, concorrência, concurso, leilão e diálogo competitivo, extinguindo-se tomada de preços e convite. Os critérios de julgamento são menor preço, maior desconto, melhor técnica ou conteúdo artístico, técnica e preço, maior lance (leilão) e maior retorno econômico. As fases do processo, em regra, seguem ordem: preparatória, divulgação do edital, apresentação de propostas e lances, julgamento, habilitação, recursal e homologação, com inversão de fases como regra (julgamento antes da habilitação).",
+      "pontosChave": [
+        "A Lei 14.133/2021 revogou a Lei 8.666/1993, a Lei 10.520/2002 (pregão) e o RDC.",
+        "Modalidades: pregão, concorrência, concurso, leilão e diálogo competitivo (extintos convite e tomada de preços).",
+        "Diálogo competitivo é a modalidade nova, para objetos de inovação técnica ou complexa.",
+        "Critérios de julgamento: menor preço, maior desconto, melhor técnica/conteúdo artístico, técnica e preço, maior lance e maior retorno econômico.",
+        "Regra geral: julgamento antes da habilitação (fase de habilitação posterior)."
+      ],
+      "pegadinhas": [
+        "Citar 'convite' e 'tomada de preços' como modalidades vigentes — foram extintas pela Lei 14.133/2021.",
+        "Confundir modalidade (pregão, concorrência etc.) com critério de julgamento (menor preço, técnica e preço etc.)."
+      ],
+      "videoQuery": "nova lei de licitações 14.133/2021 modalidades critérios de julgamento concurso",
+      "flashcards": [
+        {
+          "frente": "Quais são as modalidades de licitação na Lei 14.133/2021?",
+          "verso": "Pregão, concorrência, concurso, leilão e diálogo competitivo. Foram extintos convite e tomada de preços."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Conforme a Lei nº 14.133/2021 (Nova Lei de Licitações), são modalidades de licitação:",
+          "alternativas": [
+            "Concorrência, tomada de preços, convite, concurso e leilão.",
+            "Pregão, concorrência, concurso, leilão e diálogo competitivo.",
+            "Pregão, convite, tomada de preços, concurso e RDC.",
+            "Concorrência, pregão, leilão, menor preço e técnica e preço.",
+            "Diálogo competitivo, convite, concurso, leilão e pregão."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: o art. 28 da Lei 14.133/2021 prevê como modalidades o pregão, a concorrência, o concurso, o leilão e o diálogo competitivo. As alternativas A, C e E erram por incluir convite e/ou tomada de preços, que foram extintos. A letra D mistura modalidades com critérios de julgamento (menor preço e técnica e preço não são modalidades).",
+          "banca": "FGV",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Sobre a Lei nº 14.133/2021, é correto afirmar que o diálogo competitivo:",
+          "alternativas": [
+            "É modalidade destinada exclusivamente à alienação de bens imóveis da Administração.",
+            "É modalidade nova, voltada a contratações de objeto que envolva inovação tecnológica ou soluções complexas, na qual a Administração dialoga com licitantes pré-selecionados.",
+            "Substituiu integralmente o pregão para aquisição de bens e serviços comuns.",
+            "É vedado para contratações que envolvam soluções inovadoras, restringindo-se a obras simples.",
+            "Constitui critério de julgamento equivalente ao de maior retorno econômico."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: o diálogo competitivo (art. 32 da Lei 14.133/2021) é a modalidade inovadora destinada a objetos que envolvam inovação tecnológica ou técnica, ou cuja solução não esteja disponível no mercado, com diálogo prévio entre a Administração e licitantes pré-selecionados. A confunde com leilão. C erra porque o pregão permanece para bens e serviços comuns. D inverte a finalidade. E confunde modalidade com critério de julgamento.",
+          "banca": "FCC",
+          "dificuldade": 3
+        }
+      ]
+    },
+    {
+      "nome": "Contratos administrativos",
+      "resumo": "Contrato administrativo é o ajuste firmado pela Administração Pública, sob regime de direito público, marcado pela presença das chamadas cláusulas exorbitantes, que conferem prerrogativas à Administração inexistentes nos contratos privados. Entre essas prerrogativas (art. 104 da Lei 14.133/2021) estão a alteração unilateral, a rescisão unilateral, a fiscalização da execução, a aplicação de sanções e a ocupação provisória de bens. A alteração unilateral quantitativa observa limites legais: acréscimos ou supressões de até 25% do valor inicial em obras, serviços e compras, e até 50% para acréscimos em reformas de edifício ou equipamento. Aplica-se a teoria do equilíbrio econômico-financeiro, garantindo a manutenção da relação inicial entre encargos e remuneração. A inexecução pode gerar rescisão e sanções como advertência, multa, impedimento de licitar e declaração de inidoneidade.",
+      "pontosChave": [
+        "Cláusulas exorbitantes: prerrogativas da Administração inexistentes no direito privado (art. 104, Lei 14.133/2021).",
+        "Alteração e rescisão unilaterais, fiscalização, sanções e ocupação provisória de bens.",
+        "Limites de alteração quantitativa: até 25% (acréscimo/supressão) e até 50% para acréscimo em reforma.",
+        "Equilíbrio econômico-financeiro deve ser mantido nas alterações contratuais.",
+        "Sanções: advertência, multa, impedimento de licitar e contratar e declaração de inidoneidade."
+      ],
+      "pegadinhas": [
+        "Dizer que o limite de alteração é de 50% para qualquer acréscimo — os 50% só valem para acréscimo em reforma de edifício ou equipamento.",
+        "Afirmar que a alteração unilateral pode romper o equilíbrio econômico-financeiro sem recomposição — ele deve ser preservado."
+      ],
+      "videoQuery": "contratos administrativos cláusulas exorbitantes alteração unilateral lei 14.133 concurso",
+      "flashcards": [
+        {
+          "frente": "O que são cláusulas exorbitantes nos contratos administrativos?",
+          "verso": "Prerrogativas da Administração inexistentes nos contratos privados, como alteração e rescisão unilaterais, fiscalização, sanções e ocupação de bens (art. 104, Lei 14.133/2021)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca dos contratos administrativos regidos pela Lei nº 14.133/2021, é correto afirmar que:",
+          "alternativas": [
+            "São regidos exclusivamente pelo direito privado, em igualdade de condições entre as partes.",
+            "As cláusulas exorbitantes conferem à Administração prerrogativas como a alteração e a rescisão unilaterais do contrato.",
+            "A alteração unilateral pode desconsiderar o equilíbrio econômico-financeiro do ajuste.",
+            "Os acréscimos quantitativos em obras podem alcançar livremente qualquer percentual do valor inicial.",
+            "A Administração não pode aplicar sanções ao contratado, dependendo sempre de decisão judicial."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: as cláusulas exorbitantes (art. 104 da Lei 14.133/2021) asseguram à Administração prerrogativas como alteração e rescisão unilaterais, fiscalização e aplicação de sanções. A erra porque o regime é de direito público, com posição de supremacia da Administração. C erra porque o equilíbrio econômico-financeiro deve ser mantido. D erra porque há limite (em regra, 25%). E erra porque a Administração aplica sanções diretamente (autoexecutoriedade).",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Serviços públicos",
+      "resumo": "Serviço público é a atividade material prestada pelo Estado, direta ou indiretamente, sob regime predominantemente de direito público, para satisfazer necessidades essenciais ou secundárias da coletividade. A titularidade é sempre do Poder Público, que pode prestá-lo diretamente ou delegá-lo por concessão, permissão ou autorização (art. 175 da CF/88). A concessão exige licitação na modalidade concorrência e formaliza-se por contrato, sendo a permissão precária e também precedida de licitação. Os serviços regem-se por princípios sintetizados no art. 6º da Lei 8.987/1995, exigindo prestação adequada: regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade tarifária. A continuidade não impede a interrupção em situação de emergência ou por inadimplemento do usuário, após aviso prévio.",
+      "pontosChave": [
+        "Titularidade do serviço público é sempre do Estado; a execução pode ser delegada (art. 175, CF/88).",
+        "Formas de delegação: concessão, permissão e autorização.",
+        "Concessão depende de licitação na modalidade concorrência e é formalizada por contrato.",
+        "Serviço adequado (art. 6º, Lei 8.987/1995): regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade.",
+        "A interrupção por inadimplemento, após aviso, não viola o princípio da continuidade."
+      ],
+      "pegadinhas": [
+        "Afirmar que a titularidade do serviço se transfere ao concessionário — apenas a execução é delegada; a titularidade permanece com o Estado.",
+        "Dizer que a permissão é firmada por ato administrativo unilateral — a Lei 8.987/1995 a trata como contrato de adesão, precário e precedido de licitação."
+      ],
+      "videoQuery": "serviços públicos concessão permissão lei 8.987 princípios concurso",
+      "flashcards": [
+        {
+          "frente": "A quem pertence a titularidade do serviço público e o que pode ser delegado?",
+          "verso": "A titularidade é sempre do Estado; apenas a execução pode ser delegada por concessão, permissão ou autorização (art. 175, CF/88)."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre a prestação de serviços públicos, conforme a CF/88 e a Lei nº 8.987/1995, assinale a alternativa correta.",
+          "alternativas": [
+            "A delegação por concessão transfere ao concessionário a titularidade do serviço público.",
+            "A concessão de serviço público independe de prévia licitação.",
+            "O serviço adequado deve satisfazer condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade das tarifas.",
+            "O princípio da continuidade impede, em qualquer hipótese, a interrupção do serviço, ainda que haja inadimplemento do usuário.",
+            "A autorização de serviço público é sempre formalizada por contrato administrativo precedido de concorrência."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C, que reproduz o conceito de serviço adequado do art. 6º, §1º, da Lei 8.987/1995. A erra porque a delegação transfere apenas a execução, não a titularidade. B contraria o art. 175 da CF/88, que exige licitação. D erra porque a interrupção é admitida em emergência ou por inadimplemento após aviso prévio. E erra porque a autorização é ato unilateral e precário, não exige concorrência.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Agentes públicos",
+      "resumo": "Agente público é toda pessoa física que exerce, ainda que transitoriamente ou sem remuneração, função pública, por eleição, nomeação, designação, contratação ou qualquer forma de investidura. A doutrina os classifica em agentes políticos, servidores públicos (estatutários, empregados públicos e temporários) e particulares em colaboração com o Poder Público. Os servidores estatutários federais regem-se pela Lei 8.112/1990, que disciplina provimento, vacância, direitos e deveres. A investidura em cargo público depende de aprovação prévia em concurso público de provas ou de provas e títulos, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração (art. 37, II, CF/88). No âmbito do Poder Judiciário da União, os servidores submetem-se à Lei 11.416/2006, que organiza as carreiras de analista e técnico judiciário.",
+      "pontosChave": [
+        "Agentes públicos: políticos, servidores (estatutários, empregados e temporários) e particulares em colaboração.",
+        "Servidores federais estatutários: Lei 8.112/1990.",
+        "Carreiras dos servidores do Judiciário da União (analista e técnico): Lei 11.416/2006.",
+        "Investidura em cargo efetivo exige concurso público (art. 37, II, CF/88).",
+        "Cargo em comissão é de livre nomeação e exoneração e destina-se a direção, chefia e assessoramento."
+      ],
+      "pegadinhas": [
+        "Afirmar que todo agente público é remunerado — pode haver exercício transitório e sem remuneração (ex.: mesário, jurado).",
+        "Confundir cargo em comissão (livre nomeação) com função de confiança (exercida só por quem já é ocupante de cargo efetivo)."
+      ],
+      "videoQuery": "agentes públicos classificação lei 8.112 lei 11.416 concurso TRT",
+      "flashcards": [
+        {
+          "frente": "Qual lei rege as carreiras dos servidores do Poder Judiciário da União?",
+          "verso": "A Lei nº 11.416/2006, que organiza as carreiras de analista e técnico judiciário."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "A respeito dos agentes públicos, assinale a alternativa correta.",
+          "alternativas": [
+            "Somente é agente público quem exerce função pública de forma permanente e remunerada.",
+            "A investidura em cargo público efetivo prescinde de concurso público, bastando a nomeação por autoridade competente.",
+            "Os cargos em comissão destinam-se às atribuições de direção, chefia e assessoramento e são de livre nomeação e exoneração.",
+            "Os servidores do Poder Judiciário da União são regidos exclusivamente pela CLT.",
+            "Particulares em colaboração com o Poder Público não podem ser considerados agentes públicos."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C: nos termos do art. 37, V, da CF/88, os cargos em comissão destinam-se às atribuições de direção, chefia e assessoramento, sendo de livre nomeação e exoneração. A erra porque o conceito de agente público abrange o exercício transitório e até gratuito da função. B contraria o art. 37, II (exige concurso). D erra porque os servidores efetivos do Judiciário da União são estatutários, regidos pela Lei 11.416/2006 e, subsidiariamente, pela Lei 8.112/1990. E erra porque particulares em colaboração também são agentes públicos.",
+          "banca": "FGV",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Improbidade administrativa (Lei 8.429/1992)",
+      "resumo": "A Lei 8.429/1992 (Lei de Improbidade Administrativa), profundamente alterada pela Lei 14.230/2021, tipifica os atos de improbidade em três categorias: os que importam enriquecimento ilícito (art. 9º), os que causam prejuízo ao erário (art. 10) e os que atentam contra os princípios da Administração Pública (art. 11). Após a reforma, exige-se dolo para a configuração de todas as modalidades, afastando-se a improbidade meramente culposa, salvo discussão pontual quanto ao art. 10. As sanções incluem perda da função pública, suspensão dos direitos políticos, pagamento de multa civil, ressarcimento integral do dano e proibição de contratar com o Poder Público, aplicadas conforme a gravidade do ato. A ação de improbidade tem natureza cível, não exclui as sanções penais e administrativas e tramita perante a Justiça competente, com legitimidade ativa do Ministério Público e da pessoa jurídica lesada.",
+      "pontosChave": [
+        "Três espécies: enriquecimento ilícito (art. 9º), prejuízo ao erário (art. 10) e violação a princípios (art. 11).",
+        "Após a Lei 14.230/2021, exige-se DOLO para configurar improbidade (não mais a forma culposa genérica).",
+        "Sanções: perda da função, suspensão de direitos políticos, multa civil, ressarcimento e proibição de contratar.",
+        "A ação de improbidade tem natureza cível e é independente das esferas penal e administrativa.",
+        "Legitimidade ativa: Ministério Público e pessoa jurídica interessada (lesada)."
+      ],
+      "pegadinhas": [
+        "Afirmar que ainda cabe improbidade na modalidade culposa — após a Lei 14.230/2021, a regra passou a exigir dolo.",
+        "Dizer que a suspensão dos direitos políticos é perpétua — ela é temporária, com prazos definidos em lei."
+      ],
+      "videoQuery": "improbidade administrativa lei 8.429 14.230 dolo sanções concurso",
+      "flashcards": [
+        {
+          "frente": "Quais são as três espécies de atos de improbidade da Lei 8.429/1992?",
+          "verso": "Enriquecimento ilícito (art. 9º), prejuízo ao erário (art. 10) e atentado aos princípios da Administração (art. 11)."
+        },
+        {
+          "frente": "Que elemento subjetivo a Lei 14.230/2021 passou a exigir para a improbidade?",
+          "verso": "O dolo. A reforma afastou a configuração de improbidade pela mera culpa."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Conforme a Lei nº 8.429/1992, com a redação dada pela Lei nº 14.230/2021, assinale a alternativa correta sobre os atos de improbidade administrativa.",
+          "alternativas": [
+            "Os atos de improbidade classificam-se em enriquecimento ilícito, prejuízo ao erário e atentado contra os princípios da Administração Pública.",
+            "A configuração da improbidade administrativa dispensa, em qualquer hipótese, a demonstração de dolo do agente.",
+            "A ação de improbidade tem natureza penal e exclui a aplicação de sanções administrativas.",
+            "As sanções por improbidade incluem a perda perpétua e definitiva dos direitos políticos do agente.",
+            "Somente o Ministério Público possui legitimidade para propor a ação de improbidade administrativa."
+          ],
+          "gabarito": 0,
+          "comentario": "Correta a letra A, que reproduz a tripartição dos arts. 9º, 10 e 11 da Lei 8.429/1992. B erra porque a Lei 14.230/2021 passou a exigir dolo. C erra porque a ação tem natureza cível e não exclui as sanções penais e administrativas (independência das instâncias). D erra porque a suspensão dos direitos políticos é temporária. E erra porque a pessoa jurídica interessada também tem legitimidade ativa.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        },
+        {
+          "enunciado": "Servidor público que se apropria de valores do erário em proveito próprio pratica ato de improbidade que, segundo a Lei nº 8.429/1992, importa:",
+          "alternativas": [
+            "Apenas atentado contra os princípios da Administração, sem repercussão patrimonial.",
+            "Enriquecimento ilícito, sujeitando-se, entre outras, à perda dos bens acrescidos ilicitamente e ao ressarcimento integral do dano.",
+            "Mera infração disciplinar, insuscetível de sanção por improbidade.",
+            "Conduta atípica, pois a apropriação de valores públicos não é prevista na lei de improbidade.",
+            "Ato de improbidade culposo, dispensada a comprovação de qualquer elemento subjetivo."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B: a apropriação de valores públicos em proveito próprio caracteriza enriquecimento ilícito (art. 9º), sujeitando o agente, entre outras sanções, à perda dos bens ou valores acrescidos ilicitamente e ao ressarcimento integral do dano. A subestima a gravidade (há repercussão patrimonial e enriquecimento). C e D estão erradas porque a conduta é típica de improbidade. E erra porque se exige dolo, presente na apropriação dolosa.",
+          "banca": "FCC",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Responsabilidade civil do Estado",
+      "resumo": "A responsabilidade civil do Estado adota, como regra, a teoria do risco administrativo, prevista no art. 37, §6º, da CF/88: as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem objetivamente pelos danos que seus agentes, nessa qualidade, causarem a terceiros. A responsabilidade objetiva dispensa a prova de dolo ou culpa do agente, bastando a demonstração da conduta, do dano e do nexo de causalidade. Admitem-se excludentes ou atenuantes do nexo, como caso fortuito, força maior e culpa exclusiva da vítima. Nas omissões estatais, prevalece o entendimento de que a responsabilidade tende a ser subjetiva (faute du service), exigindo demonstração de falha no serviço. O agente causador do dano responde regressivamente perante o Estado, mas apenas nos casos de dolo ou culpa (responsabilidade subjetiva na ação de regresso).",
+      "pontosChave": [
+        "Regra: responsabilidade objetiva pela teoria do risco administrativo (art. 37, §6º, CF/88).",
+        "Abrange pessoas jurídicas de direito público e de direito privado prestadoras de serviço público.",
+        "Responsabilidade objetiva dispensa dolo/culpa; basta conduta, dano e nexo causal.",
+        "Excludentes do nexo: caso fortuito, força maior e culpa exclusiva da vítima.",
+        "Ação de regresso contra o agente exige dolo ou culpa (responsabilidade subjetiva)."
+      ],
+      "pegadinhas": [
+        "Adotar a teoria do risco integral como regra — o Brasil adota o risco administrativo, que admite excludentes.",
+        "Afirmar que o agente público responde objetivamente ao Estado na ação de regresso — nesta exige-se dolo ou culpa."
+      ],
+      "videoQuery": "responsabilidade civil do Estado risco administrativo art 37 §6 CF concurso",
+      "flashcards": [
+        {
+          "frente": "Qual teoria e qual dispositivo regem a responsabilidade civil do Estado no Brasil?",
+          "verso": "A teoria do risco administrativo (responsabilidade objetiva), prevista no art. 37, §6º, da CF/88, que admite excludentes."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Acerca da responsabilidade civil do Estado (art. 37, §6º, da CF/88), assinale a alternativa correta.",
+          "alternativas": [
+            "O Estado responde apenas subjetivamente, sendo indispensável a prova de dolo ou culpa do agente para indenizar a vítima.",
+            "A regra brasileira é a teoria do risco integral, que não admite quaisquer excludentes de responsabilidade.",
+            "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos respondem objetivamente pelos danos que seus agentes causarem a terceiros, assegurado o direito de regresso contra o responsável em caso de dolo ou culpa.",
+            "A culpa exclusiva da vítima jamais influi na responsabilidade do Estado.",
+            "O direito de regresso do Estado contra o agente independe da comprovação de dolo ou culpa deste."
+          ],
+          "gabarito": 2,
+          "comentario": "Correta a letra C, que reproduz o art. 37, §6º, da CF/88: responsabilidade objetiva do Estado (risco administrativo) e regresso contra o agente quando houver dolo ou culpa. A erra porque a regra é a responsabilidade objetiva. B erra porque o Brasil adota o risco administrativo (admite excludentes), não o risco integral. D erra porque a culpa exclusiva da vítima é excludente do nexo causal. E erra porque o regresso exige dolo ou culpa do agente.",
+          "banca": "CESPE",
+          "dificuldade": 2
+        }
+      ]
+    },
+    {
+      "nome": "Controle da Administração",
+      "resumo": "O controle da Administração é o conjunto de mecanismos de fiscalização e revisão da atuação administrativa quanto à legalidade, legitimidade e, quando cabível, ao mérito. Classifica-se quanto ao órgão em controle administrativo (interno), legislativo (parlamentar e financeiro) e judicial. O controle interno decorre do poder de autotutela, sintetizado nas Súmulas 346 e 473 do STF, que permitem à Administração anular seus atos ilegais e revogar os inconvenientes. O controle judicial é, em regra, de legalidade, não cabendo ao Judiciário substituir o mérito administrativo, salvo violação a princípios como razoabilidade e proporcionalidade. O controle legislativo abrange o controle político (fiscalização exercida pelo Congresso) e o controle financeiro, exercido com o auxílio do Tribunal de Contas (art. 70 e 71 da CF/88), que aprecia contas, julga as dos administradores e aplica sanções.",
+      "pontosChave": [
+        "Quanto ao órgão: controle administrativo (interno), legislativo e judicial.",
+        "Autotutela (Súmulas 346 e 473 do STF): a Administração anula atos ilegais e revoga os inconvenientes.",
+        "Controle judicial é, em regra, de legalidade; não substitui o mérito administrativo.",
+        "Controle legislativo: político (Congresso) e financeiro (com auxílio do Tribunal de Contas).",
+        "O Tribunal de Contas auxilia o controle externo (art. 70 e 71 da CF/88), mas não 'julga' as contas do chefe do Executivo (apenas emite parecer prévio)."
+      ],
+      "pegadinhas": [
+        "Afirmar que o Tribunal de Contas julga as contas do Presidente/Prefeito — nesses casos emite parecer prévio; quem julga é o Legislativo.",
+        "Dizer que o Judiciário controla o mérito do ato discricionário em regra — o controle judicial é de legalidade, ressalvado o exame de razoabilidade e proporcionalidade."
+      ],
+      "videoQuery": "controle da administração interno externo judicial tribunal de contas concurso",
+      "flashcards": [
+        {
+          "frente": "O que estabelecem as Súmulas 346 e 473 do STF sobre o controle interno?",
+          "verso": "Que a Administração pode anular seus próprios atos ilegais e revogar os inconvenientes, com base no poder de autotutela."
+        }
+      ],
+      "questoes": [
+        {
+          "enunciado": "Sobre o controle da Administração Pública, assinale a alternativa correta.",
+          "alternativas": [
+            "O controle judicial dos atos administrativos alcança, em regra, o mérito (conveniência e oportunidade) das decisões discricionárias.",
+            "Em razão do poder de autotutela, a Administração pode anular seus atos ilegais e revogar os inconvenientes, conforme as Súmulas 346 e 473 do STF.",
+            "O Tribunal de Contas julga definitivamente as contas anuais prestadas pelo chefe do Poder Executivo.",
+            "O controle interno é exercido por órgão estranho à estrutura do ente controlado.",
+            "O controle legislativo restringe-se à fiscalização política, sendo-lhe vedado o controle financeiro."
+          ],
+          "gabarito": 1,
+          "comentario": "Correta a letra B, que sintetiza o poder de autotutela (Súmulas 346 e 473 do STF). A erra porque o controle judicial é, em regra, de legalidade, não de mérito. C erra porque, quanto às contas do chefe do Executivo, o Tribunal de Contas apenas emite parecer prévio, cabendo o julgamento ao Legislativo (art. 71, I, CF/88). D erra porque o controle interno é feito dentro da própria estrutura do ente. E erra porque o controle legislativo abrange também o controle financeiro, com auxílio do Tribunal de Contas.",
+          "banca": "FGV",
+          "dificuldade": 3
+        }
+      ]
+    }
+  ]
+}
