@@ -17,6 +17,7 @@ export default defineConfig({
           charts: ['recharts'],
           db: ['dexie', 'dexie-react-hooks'],
           icons: ['lucide-react'],
+          supabase: ['@supabase/supabase-js'],
         },
       },
     },

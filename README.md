@@ -1,6 +1,6 @@
 # 📚 Estudos TRT — Analista Judiciário (Área Administrativa)
 
-Web app **modular** para acompanhar seus estudos para o concurso do **TRT (Analista Judiciário, Área Administrativa)**. Funciona **100% no navegador**, **sem backend** e **offline** (PWA). Seus dados ficam salvos **localmente** no seu dispositivo.
+Web app **modular** para acompanhar seus estudos para o concurso do **TRT (Analista Judiciário, Área Administrativa)**. Funciona **100% no navegador** e **offline** (PWA). Seus dados ficam salvos **localmente** no seu dispositivo — e, opcionalmente, podem **sincronizar entre aparelhos** com login (veja [docs/SINCRONIZACAO.md](./docs/SINCRONIZACAO.md)).
 
 > Feito com **React + Vite + TailwindCSS**, gráficos com **Recharts**, ícones **lucide-react**, banco local com **Dexie (IndexedDB)** e preferências em **localStorage** (estado central com **Zustand**).
 
@@ -19,7 +19,7 @@ Web app **modular** para acompanhar seus estudos para o concurso do **TRT (Anali
 | **Sessões** | Pomodoro configurável que registra minutos por matéria, com gráfico de horas e meta semanal. |
 | **IA** | Assistente Google Gemini: gera questões e flashcards, explica tópicos/erros, modo examinador e análise de pontos fracos. |
 | **Dados** | Backup/restauração geral em JSON, **exportação para o Anki**, recarregar trilha e reset. |
-| **Config** | Chave de IA, modelo, tema (claro/escuro), metas e Pomodoro. |
+| **Config** | Chave de IA, modelo, tema (claro/escuro), metas, Pomodoro e **conta + sincronização na nuvem** (opcional). |
 
 ---
 

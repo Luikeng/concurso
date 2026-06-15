@@ -31,6 +31,7 @@ import {
   Spinner,
 } from '../../components/ui'
 import { cn } from '../../lib/utils'
+import { SecaoSincronizacao } from './SecaoSincronizacao'
 
 /**
  * Página de Configurações.
@@ -44,6 +45,7 @@ import { cn } from '../../lib/utils'
 export function ConfigPage() {
   return (
     <div className="mx-auto max-w-2xl space-y-4">
+      <SecaoSincronizacao />
       <SecaoIA />
       <SecaoAparencia />
       <SecaoMetas />

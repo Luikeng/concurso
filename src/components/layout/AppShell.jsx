@@ -3,6 +3,7 @@ import { GraduationCap } from 'lucide-react'
 import { cn } from '../../lib/utils'
 import { modules } from '../../modules/registry'
 import { ThemeToggle } from './ThemeToggle'
+import { SyncStatus } from './SyncStatus'
 
 /** Item de navegação (compartilhado entre sidebar e bottom nav). */
 function NavItem({ mod, onNavigate, compacto = false }) {
@@ -67,7 +68,10 @@ export function AppShell({ children }) {
               {moduloAtual ? moduloAtual.rotulo : 'Estudos TRT'}
             </h1>
           </div>
-          <ThemeToggle />
+          <div className="flex items-center gap-1">
+            <SyncStatus />
+            <ThemeToggle />
+          </div>
         </header>
 
         {/* Página */}

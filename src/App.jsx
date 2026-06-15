@@ -5,18 +5,32 @@ import { Toasts, Spinner } from './components/ui'
 import { modules, rotaInicial } from './modules/registry'
 import { ensureSeed } from './db/seed'
 import { useStore } from './store/useStore'
+import { useAuth } from './store/useAuth'
+import { beginBulkApply, endBulkApply } from './services/sync'
 
 export default function App() {
   const tema = useStore((s) => s.config.tema)
+  const initSync = useAuth((s) => s.init)
   const [pronto, setPronto] = useState(false)
   const [erroSeed, setErroSeed] = useState(null)
 
-  // Carga inicial (trilha) na primeira execução.
+  // Carga inicial (trilha) na primeira execução. Envolvemos em
+  // begin/endBulkApply para que a carga (seed) NÃO seja tratada como uma
+  // alteração do usuário a ser enviada para a nuvem.
   useEffect(() => {
+    beginBulkApply()
     ensureSeed()
       .catch((e) => setErroSeed(e?.message || 'Falha ao carregar dados iniciais.'))
-      .finally(() => setPronto(true))
+      .finally(() => {
+        endBulkApply()
+        setPronto(true)
+      })
   }, [])
+
+  // Inicia a sincronização (se configurada) só depois do seed terminar.
+  useEffect(() => {
+    if (pronto) initSync()
+  }, [pronto, initSync])
 
   // Aplica o tema (classe `dark` no <html>).
   useEffect(() => {
